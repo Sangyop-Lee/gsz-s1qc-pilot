@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-06_07" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 6.7 釋道祖 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0363a05" to="0363a28">T50n2059, 0363a05–0363a28</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="6.7"><p>釋道祖。吳國人也。少出家為臺寺支法齊弟子。<seg xml:id="s1qc-06_07-s001" ana="#Scholarship">幼有才思精勤務學。</seg>後與同志僧遷道流等共入廬山。七年並山中受戒。各隨所習日有其新。遠公每謂祖等易悟。盡如此輩不復憂後生矣。遷流等並年二十八而卒。遠歎曰。此子並才義英茂清悟日新。懷此長往一何痛哉。<seg xml:id="s1qc-06_07-s002" ana="#Scholarship">道流撰諸經目未就。祖為成之。今行於世。</seg><seg xml:id="s1qc-06_07-s003" ana="#Scholarship">祖後還京師瓦官寺講說。桓玄每往觀聽。乃謂人曰。道祖後發愈於遠公。但儒博不逮耳。</seg>及玄輔正欲使沙門敬王。祖乃辭還吳之臺寺。<seg xml:id="s1qc-06_07-s004" ana="#Scholarship">有頃玄纂位。勅郡送祖出京。祖稱疾不行。於是絕迹人事講道終日。</seg>以晉元熙元年卒。春秋七十二矣。遠有弟子慧要。亦解經律而尤長巧思。山中無刻漏。乃於泉水中立十二葉芙蓉。因流波轉以定十二時。晷景無差焉。亦嘗作木鳶飛數百步。遠又有弟子曇順曇詵。並義學致譽。順本黃龍人。少受業什公。後還師遠。蔬食有德行。南蠻校尉劉遵。於江陵立竹林寺請經始。遠遣徙焉。詵亦清雅有風則。注維摩及著窮通論等。又有法幽道恒道授等百有餘人。或義解深明。或匡拯眾事。或戒行清高。或禪思深入。並振名當世。傳業于今。</p></div></body></text></TEI>

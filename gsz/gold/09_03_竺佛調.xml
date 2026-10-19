@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-09_03" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 9.3 竺佛調 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0387c16" to="0388a15">T50n2059, 0387c16–0388a15</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="9.3"><p>竺佛調者。未詳氏族。或云天竺人。事佛圖澄為師。住常山寺積年。業尚純樸不表飾言。時咸以此高之。常山有奉法者兄弟二人。居去寺百里。兄婦疾篤。載至寺側以近醫藥。兄既奉調為師。朝晝常在寺中諮詢行道。異日調忽往其家。弟具問嫂所苦。并審兄安否。調曰。病者粗可卿兄如常。調去後弟亦策馬繼往。言及調旦來。兄驚曰。和上旦初不出寺。汝何容見。兄弟爭以問調。調笑而不答。咸共異焉。<seg xml:id="s1qc-09_03-s001" ana="#Asceticism">調或獨入山。一年半歲齎乾飯數升。還恒有餘。</seg>有人嘗隨調山行數十里。天暮大雪。調入石穴虎窟中宿。虎還共臥窟前。調謂虎曰。我奪汝處有愧如何。虎迺弭耳下山。從者駭懼。調後自剋亡日。遠近皆至。悉與語曰。天地長久尚有崩壞。豈況人物而求永存。若能盪除三垢專心真淨。形數雖乖而必同。契眾咸流涕固請。調曰。死生命也。其可請乎。調迺還房端坐。以衣蒙頭奄然而卒。後數年調白衣弟子八人入西山伐木。忽見調在高巖上。衣服鮮明姿儀暢悅。皆驚喜作禮。和上尚在耶。調曰。吾常在耳。具問知舊可否。良久乃去。八人便捨事還家。向諸同法者說。眾無以驗之。共發塚開棺不復見屍。唯衣履在焉。有記云。此竺佛調譯出法鏡經及十慧等。案釋道安經錄云。漢靈帝光和中有沙門嚴佛調。共安玄都尉譯出法鏡經及十慧等。語在譯經傳。而此中佛調迺東晉中代。時人見名字是同便謂為一謬矣。</p></div></body></text></TEI>

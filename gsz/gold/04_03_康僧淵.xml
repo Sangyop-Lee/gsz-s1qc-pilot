@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-04_03" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 4.3 康僧淵 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0346c28" to="0347a17">T50n2059, 0346c28–0347a17</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="4.3"><p>康僧淵。本西域人。生于長安。貌雖梵人語實中國。容止詳正志業弘深。誦放光道行二波若。即大小品也。晉成之世。與康法暢支敏度等俱過江。暢亦有才思善為往復。著人物始義論等。暢常執麈尾。行每值名賓輒清談盡日。庾元規謂暢曰。此麈尾何以常在。暢曰。廉者不取貪者不與。故得常在也。敏度亦聰哲有譽。著譯經錄今行於世。淵雖德愈暢度而<anchor type="division" resp="#SLee"/>別以清約自處。<seg xml:id="s1qc-04_03-s001" ana="#Asceticism #Scholarship">常乞匃自資人未之識。後因分衛之次遇陳郡殷浩。浩始問佛經深遠之理。却辯俗書性情之義。自晝之曛浩不能屈。由是改觀。</seg>瑯瑘王茂弘以鼻高眼深戲之。淵曰。鼻者面之山。眼者面之淵。山不高則不靈。淵不深則不清。時人以為名答。後於豫章山立寺。去邑數十里帶江傍嶺林竹欝茂。名僧勝達響附成群。<seg xml:id="s1qc-04_03-s002" ana="#Scholarship">以常持心梵經空理幽遠故。偏加講說。尚學之徒往還填委。</seg>後卒於寺焉。</p></div></body></text></TEI>

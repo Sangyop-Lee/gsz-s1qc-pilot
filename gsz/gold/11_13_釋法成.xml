@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_13" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.13 釋法成 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0399a02" to="0399a09">T50n2059, 0399a02–0399a09</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.13"><p>釋法成。涼州人。<seg xml:id="s1qc-11_13-s001" ana="#Scholarship">十六出家學通經律。</seg><seg xml:id="s1qc-11_13-s002" ana="#Asceticism">不餌五穀唯食松脂。</seg>隱居巖穴習禪為務。元嘉中東海王懷素出守巴西。聞風遣迎會於涪城。<seg xml:id="s1qc-11_13-s003" ana="#Scholarship">夏坐講律事竟辭反。因停廣漢復弘禪法。</seg>後小疾便告眾云。成常誦寶積經。於是自力誦之。始得半卷。氣劣不堪。乃令人讀之一遍。纔竟合掌而卒。侍疾十餘人咸見空中紺馬背負金棺升空而逝。</p></div></body></text></TEI>

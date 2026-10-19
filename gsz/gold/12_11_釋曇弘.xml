@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_11" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.11 釋曇弘 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0405c19" to="0405c28">T50n2059, 0405c19–0405c28</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.11"><p>釋曇弘。黃龍人。<seg xml:id="s1qc-12_11-s001" ana="#Scholarship">少修戒行專精律部。</seg>宋永初中南遊番禺止臺寺。晚又適交趾之仙山寺。誦無量壽及觀經。誓心安養。以孝建二年於山上聚薪。密往𧂐中以火自燒。弟子追及。抱持將還。半身已爛。經月少差。後近村設會舉寺皆赴。弘於是日復入谷燒身。村人追求命已絕矣。於是益薪進火明日乃盡。爾日村居民咸見弘身黃金色乘一金鹿西行。甚急不暇暄涼。道俗方悟其神異。共收灰骨以起塔焉。</p></div></body></text></TEI>

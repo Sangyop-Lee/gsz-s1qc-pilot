@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_26" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.26 釋慧豫 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0408a23" to="0408b04">T50n2059, 0408a23–0408b04</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.26"><p>釋慧豫。黃龍人。來遊京師止靈根寺。<seg xml:id="s1qc-12_26-s001" ana="#Scholarship">少而務學遍訪眾師。善談論美風則。</seg>每聞臧否人物輒塞耳不聽。或時以異言間止。<seg xml:id="s1qc-12_26-s002" ana="#Asceticism">瓶衣率素。日以一中自畢。精勤標節以救苦為先。</seg>誦大涅槃法華十地。又習禪業精於五門。嘗寢見有三人來扣戶。並衣冠鮮潔執持華蓋。豫問覓誰。答云。法師應死。故來奉迎。豫曰。小事未了可申一年不。答云。可爾。至明年滿一周而卒。是歲齊永明七年。春秋五十有七。豫同寺有沙門法普。亦素行誦經。</p></div></body></text></TEI>

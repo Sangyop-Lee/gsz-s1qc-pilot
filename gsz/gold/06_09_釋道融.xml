@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-06_09" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 6.9 釋道融 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0363b22" to="0363c29">T50n2059, 0363b22–0363c29</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="6.9"><p>釋道融。汲郡林慮人。十二出家。<seg xml:id="s1qc-06_09-s001" ana="#Scholarship">厥師愛其神彩先令外學。往村借論語竟不齎歸。於彼已誦。師更借本覆之不遺一字。既嗟而異之。於是恣其遊學。迄至立年才解英絕。內外經書闇遊心府。</seg><seg xml:id="s1qc-06_09-s002" ana="#Scholarship">聞羅什在關故往諮稟。什見而奇之。謂姚興曰。咋見融公復是奇特聰明釋子。興引見歎重。勅入逍遙園參正詳譯。因請什出菩薩戒本。今行於世。</seg><seg xml:id="s1qc-06_09-s003" ana="#Scholarship">後譯中論始得兩卷。融便就講剖折文言預貫終始。什又命融令講新法華。什自聽之乃歎曰。佛法之興融其人也。</seg><seg xml:id="s1qc-06_09-s004" ana="#Scholarship">俄而師子國有一婆羅門。聰辯多學。西土俗書罕不披誦。為彼國外道之宗。聞什在關大行佛法。乃謂其徒曰。寧可使釋氏之風獨傳震旦。而吾等正化不洽東國遂乘駝負書來入長安。姚興見其口眼便僻。頗亦惑之。婆羅門乃啟興曰。至道無方各尊其事今請與秦僧捔其辯力。隨有優者即傳其化。興即許焉。時關中僧眾相視缺然莫敢當者。什謂融曰。此外道聰明殊人。捔言必勝。使無上大道在吾徒而屈。良可悲矣。若使外道得志則法輪摧軸。豈可然乎。如吾所覩在君一人。融自顧才力不減。而外道經書未盡披讀。乃密令人寫婆羅門所讀經目。一披即誦。後剋日論義。姚興自出。公卿皆會闕下。關中僧眾四遠必集。融與婆羅門擬相詶抗。鋒辯飛玄彼所不及。婆羅門自知辭理已屈。猶以廣讀為誇。融乃列其所讀書并秦地經史名目卷部。三倍多之。什因嘲之曰。君不聞大秦廣學。那忽輕爾遠來。婆羅門心愧悔伏頂禮融足。數日之中無何而去。像運再興融有力也。</seg><seg xml:id="s1qc-06_09-s005" ana="#Scholarship">融後還彭城常講說相續。問道至者千有餘人。依隨門徒數盈三百。性不狎諠。常登樓披翫。慇懃善誘畢命弘法。</seg>後卒於彭城。春秋七十四矣。<seg xml:id="s1qc-06_09-s006" ana="#Scholarship">所著法華大品金光明十地維摩等義疏。並行於世矣。</seg></p></div></body></text></TEI>

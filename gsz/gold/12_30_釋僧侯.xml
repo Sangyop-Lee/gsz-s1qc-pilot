@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_30" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.30 釋僧侯 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0408c04" to="0408c14">T50n2059, 0408c04–0408c14</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.30"><p>釋僧侯。西龔。西涼州人。<seg xml:id="s1qc-12_30-s001" ana="#Asceticism">年十八便蔬食禮懺。</seg>及具戒之後遊方觀化。宋孝建初來至京師。誦法華維摩金光明。常二日一遍。如此六十餘年。蕭惠開入蜀請共同遊。後惠開協同義嘉負罪歸闕。侯乃還都。於後崗創立石室。以為安禪之所。<seg xml:id="s1qc-12_30-s002" ana="#Asceticism">自息慈以來至于捨命。魚肉葷辛未嘗近齒。脚影小蹉輒虛齋而過。</seg>齊永明二年微覺不愈。至中不能食。迺索水漱口。合掌而卒。春秋八十有九。時普弘有釋慧溫亦誦法華經維摩首楞嚴。蔬苦並有高節。</p></div></body></text></TEI>

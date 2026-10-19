@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_06" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.6 釋道淵 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0369a05" to="0369a21">T50n2059, 0369a05–0369a21</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.6"><p>釋道淵。姓寇。不知何許人。出家止京師東安寺。少持律撿<anchor type="division" resp="#SLee"/><seg xml:id="s1qc-07_06-s001" ana="#Scholarship">長習義宗。眾經數論靡不通達。</seg>而潛光隱德世莫之知。<seg xml:id="s1qc-07_06-s002" ana="#Scholarship">後於東安寺開講。剖析玄微洞盡幽賾。使終古積滯渙然氷解。於是學徒改觀翕然附德。</seg>後移止彭城寺。宋文帝以淵行為物軌。勅居寺住。後卒於所住。春秋七十有八。淵弟子慧琳。本姓劉。秦郡人。善諸經及莊老。排諧好語笑。長於製作。故集有十卷。而為性傲誕頗自矜伐。淵嘗詣傅亮。琳先在坐。及淵至琳不為致禮。淵怒之彰色。亮遂罰琳杖二十。宋世祖雅重琳。引見常升獨榻。顏延之每以致譏。帝輒不悅。後著白黑論乖於佛理。衡陽太守何承天與琳比狎雅相擊揚。著達性論。並拘滯一方詆呵釋教。顏延之及宗炳。撿駁二論。各萬餘言。琳既自毀其法被斥交州。世云淵公見麻星者。即其人也。</p></div></body></text></TEI>

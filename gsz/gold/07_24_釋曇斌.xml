@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_24" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.24 釋曇斌 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0373a16" to="0373b08">T50n2059, 0373a16–0373b08</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.24"><p>釋曇斌。姓蘇。南陽人。十歲出家事道禕為師。<seg xml:id="s1qc-07_24-s001" ana="#Scholarship">始住江陵新寺聽經論學禪道。</seg>覃思深至而情未盡達。夜夢神人謂斌曰。汝所疑義遊方自決。於是振錫挾衣殊邦問道。<seg xml:id="s1qc-07_24-s002" ana="#Scholarship">初下京師。仍往吳郡。值僧業講十誦。飡聽少時悟解深入。</seg><seg xml:id="s1qc-07_24-s003" ana="#Scholarship">後還都從靜林法師諮受涅槃。</seg><seg xml:id="s1qc-07_24-s004" ana="#Scholarship">又就吳興小山法珍。研訪泥洹勝鬘。</seg><seg xml:id="s1qc-07_24-s005" ana="#Scholarship">晚從南林法業受華嚴雜心。</seg><seg xml:id="s1qc-07_24-s006" ana="#Scholarship">既遍歷眾師備聞異釋。迺潛思積時以窮其妙。融冶百家陶貫諸部。於是還止樊鄧開筵講說。四遠名賓負[袌-包+矢]皆至。</seg><seg xml:id="s1qc-07_24-s007" ana="#Scholarship">及孝建之初。勅王玄謨資發出京。初止新安寺講小品十地。并申頓悟漸悟之旨。時心競之徒苦相讎校。斌既辭愜理詣終莫能屈。</seg>陳郡袁粲令望當時。而嘉斌行解。嘗令中書舍人巢尚介。意欲試之。斌不為屈。粲迺躬自往候。粲每勸斌數覲天子。斌曰。貧道方外之人。豈宜與天子同趣。粲益以高之。後請為母師。宋建平王景素亦諮其戒範。宋元徽中卒於莊嚴寺。春秋六十有七。時莊嚴復有曇濟曇宗。並以學業才力見重一時。濟述七宗論。宗著經目及數林。</p></div></body></text></TEI>

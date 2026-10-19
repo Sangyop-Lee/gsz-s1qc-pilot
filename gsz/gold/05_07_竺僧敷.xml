@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-05_07" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 5.7 竺僧敷 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0355b15" to="0355c01">T50n2059, 0355b15–0355c01</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="5.7"><p>竺僧敷。未詳氏族。<seg xml:id="s1qc-05_07-s001" ana="#Scholarship">學通眾經尤善放光及道行波若。</seg>西晉末亂移居江左。<seg xml:id="s1qc-05_07-s002" ana="#Scholarship">止京師瓦官寺盛開講席建鄴舊僧莫不推服。</seg>時同寺沙門道嵩亦才解相次。與道安書云。敷公研微秀發非吾等所及也。<seg xml:id="s1qc-05_07-s003" ana="#Scholarship">時異學之徒咸謂心神有形但妙於萬物隨其能言互相摧壓。敷乃著神無形論。以有形便有數。有數則有盡。神既無盡。故知無形矣。時仗辯之徒紛紜交諍。既理有所歸愜然信服。</seg><seg xml:id="s1qc-05_07-s004" ana="#Scholarship">後又著放光道行等義疏。</seg>後終於寺中。春秋七十餘矣。竺法汰與道安書云。每憶敷上人周旋如昨。逝歿奄復多年。與其清談之日未嘗不相憶思得與君共覆疏其美。豈圖一旦永為異世。痛恨之深何能忘情。其義理所得披尋之功。信難可圖矣。汰與安書數述敷義。今推尋失其文製。湮沒可悲。</p></div></body></text></TEI>

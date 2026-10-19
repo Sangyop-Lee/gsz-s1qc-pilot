@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-05_08" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 5.8 釋曇翼 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0355c02" to="0356a13">T50n2059, 0355c02–0356a13</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="5.8"><p>釋曇翼。姓姚。羌人也。或云冀州人。年十六出家。事安公為師。少以律行見稱。<seg xml:id="s1qc-05_08-s001" ana="#Scholarship">學通三藏為門人所推。</seg>經遊蜀郡。刺史毛璩深重之為設中食躬自瞻奉。見翼於飯中得一粒穀先取食之。璩密以敬異。知必不孤信施。得後餉米千斛。翼受而分施。翼嘗隨安在檀溪寺。晉長沙太守騰含。於江陵捨宅為寺。告安求一僧為綱領。安謂翼曰。荊楚士庶始欲師宗。成其化者非爾而誰。翼遂杖錫南征締構寺宇。即長沙寺是也。後互賊越逸侵掠漢南。江陵闔境避難上明。翼又於彼立寺。群寇既盪復還江陵。修復長沙寺。丹誠祈請遂感舍利。盛以金瓶置于齋座。翼乃頂禮立誓曰。若必是金剛餘蔭願放光明。至乎中夜有五色光。彩從瓶漸出照滿一堂。舉眾驚嗟莫不以翼神感。當于爾時雖復富蘭等見亦迴偽歸真也。後入巴陵君山伐木。山海經所謂洞庭山也。山上有穴通吳之苞山。山既靈異人甚憚之。翼率人入山。路值白蛇數十臥遮行轍。翼退還所住。遙請山靈為其禮懺。乃謂神曰。吾造寺伐材幸願共為功德。夜即夢見神人告翼曰。法師既為三寶須用。特相隨喜。但莫令餘人妄有所伐。明日更往路甚清夷。於是伐木沿流而下。其中伐人不免私竊。還至寺上翼材已畢。餘人所私之者悉為官所取。其誠感如此。翼常歎。寺立僧足。而形像尚少。阿育王所造容儀神瑞皆多布在諸方。何其無感不能招致。乃專精懇惻請求誠應。以晉太元十九年甲午之歲二月八日。忽有一像現于城北。光相衝天。時白馬寺僧眾先往迎接不能令動。翼乃往祇禮。謂眾人曰。當是阿育王像降我長沙寺焉。即令弟子三人捧接。飄然而起迎還本寺。道俗奔赴車馬轟填。後罽賓禪師僧伽難陀。從蜀下入寺禮拜。見像光上有梵字。便曰。是阿育王像。何時來此。時人聞者方知翼之不謬<anchor type="division" resp="#SLee"/>年八十二而終。終日像圓光奄然靈化。莫知所之。道俗咸謂翼之通感焉。時長沙寺復有僧衛沙門。學業甚著為殷仲堪所重。尤善十住。乃為之注解。</p></div></body></text></TEI>

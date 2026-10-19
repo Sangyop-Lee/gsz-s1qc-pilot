@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-10_09" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 10.9 釋曇始 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0392b03" to="0392c07">T50n2059, 0392b03–0392c07</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="10.9"><p>釋曇始。關中人。自出家以後多有異迹。<seg xml:id="s1qc-10_09-s001" ana="#Scholarship">晉孝武大元之末。齎經律數十部往遼東宣化。顯授三乘立以歸戒。蓋高句驪聞道之始也。</seg>義熙初復還關中開導三輔。始足白於面。雖跣涉泥水未嘗沾涅。天下咸稱白足和上。時長安人王胡。其叔死數年忽見形還。將胡遍遊地獄。示諸果報。胡辭還。叔謂胡曰。既已知因果但當奉事白足阿練。胡遍訪眾僧。唯見始足白於面。因而事之。<seg xml:id="s1qc-10_09-s002" ana="#Asceticism">晉末朔方凶奴赫連勃勃。破擭關中斬戮無數。時始亦遇害。而刀不能傷。勃勃嗟之。普赦沙門悉皆不殺。始於是潛遁山澤修頭陀之行。</seg>後拓跋燾復剋長安擅威關洛。時有博陵崔皓。少習左道猜嫉釋教。既位居偽輔。燾所仗信。乃與天師寇氏說燾以佛教無益有傷民利。勸令廢之。燾既惑其言。以偽太平七年遂毀滅佛法。分遣軍兵燒掠寺舍。統內僧尼悉令罷道。其有竄逸者。皆遣人追捕。得必梟斬。一境之內無復沙門。始唯閉絕幽深軍兵所不能至。至太平之末。始知燾化時將及。以元會之日忽杖錫到宮門。有司奏云。有一道人足白於面。從門而入。燾令依軍法屢斬不傷。遽以白燾。燾大怒自以所𬽳劍斫之。體無餘異。唯劍所著處有痕如布線焉。時北園養虎于檻。燾令以始餧之。虎皆潛伏終不敢近。試以天師近檻。虎輒鳴吼。燾始知佛化尊高黃老所不能及即延始上殿頂禮足下。悔其愆失。始為說法明辯因果。燾大生愧懼。遂感癘疾。崔寇二人次發惡病。燾以過由於彼。於是誅剪二家門族都盡。宣下國中興復正教。俄而燾卒。孫濬襲位。方大弘佛法盛迄于今。始後不知所終。</p></div></body></text></TEI>

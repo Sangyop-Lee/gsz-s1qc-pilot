@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_28" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.28 釋道猛 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0374a11" to="0374b01">T50n2059, 0374a11–0374b01</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.28"><p>釋道猛。本西涼州人。少而遊歷燕趙備矚風化<anchor type="division" resp="#SLee"/><seg xml:id="s1qc-07_28-s001" ana="#Scholarship">後停止壽春。力精勤學。三藏九部大小數論皆思入淵微無不鏡徹。而成實一部最為獨步。於是大化江西學人成列。</seg><seg xml:id="s1qc-07_28-s002" ana="#Scholarship">至元嘉二十六年。東遊京師止于東安寺。復續開講席。</seg>宋太宗為湘東王時。深相崇薦。及登祚倍加禮接。賜錢三十萬以供資待。太始之初帝創寺于建陽門外。勅猛為綱領。帝曰。夫人能弘道道藉人弘。今得法師非直道益蒼生。亦有光於世望。可目寺為興皇。由是成號。<seg xml:id="s1qc-07_28-s003" ana="#Scholarship">及創造功畢。勅猛於寺開講成實。序題之日帝親臨幸。公卿皆集。四遠學賓負帙齊至。猛神韻無忤吐納詳審。帝稱善久之。因有詔曰。</seg>猛法師風道多濟。朕素賓友。可月給錢三萬令吏四人白簿吏二十人車及步輿各一乘。乘輿至客省。猛隨有所獲皆賑施貧乏營造寺廟<anchor type="division" resp="#SLee"/>以宋元徽三年卒于東安寺。春秋六十有五。後有道堅慧鸞慧敷僧訓導明。並止興皇寺。義學之譽抑亦次焉。</p></div></body></text></TEI>

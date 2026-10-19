@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_32" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.32 釋法琳 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0402a19" to="0402b01">T50n2059, 0402a19–0402b01</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.32"><p>釋法琳。姓樂。晉原臨卭人。少出家。止蜀郡裴寺。<seg xml:id="s1qc-11_32-s001" ana="#Scholarship">專好戒品研心十誦。</seg><seg xml:id="s1qc-11_32-s002" ana="#Scholarship">常恨蜀中無好師宗。俄而隱公至蜀。琳乃剋己握錐以日兼夜。及隱還陜西。復隨從數載。諸部毘尼洞盡心曲。</seg>後還蜀止靈建寺。益部僧尼無不宗奉。常祈心安養。每誦無量壽及觀經。輒見一沙門形甚姝大常在琳前。至齊建武二年寢疾不愈。注念西方禮懺不息。見諸賢聖皆集目前。乃向弟子述其所見。令死後焚身。言訖合掌而卒。即於新繁路口積木燔屍。烟焰衝天三日乃盡。收斂遺骨。即於其處而起塔焉。</p></div></body></text></TEI>

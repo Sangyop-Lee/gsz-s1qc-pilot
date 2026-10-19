@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_12" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.12 釋僧柔 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0378c04" to="0379a02">T50n2059, 0378c04–0379a02</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.12"><p>釋僧柔。姓陶。丹陽人。少而耿潔。便有出塵之操。年九歲隨叔遊學。家世貧過藜藿不充。而篤志彌堅履窮無改。後出家為弘稱弟子。稱姓呂。洛陽臨渭人。學通經論聲譽早彰。柔伏膺已後。便精勤戒品委曲禪慧。<seg xml:id="s1qc-08_12-s001" ana="#Scholarship">方等眾經大小諸部。皆徹鑒玄源洞盡宗要。</seg><seg xml:id="s1qc-08_12-s002" ana="#Scholarship">年過弱冠便登講席。一代名賓並投身北面。</seg><seg xml:id="s1qc-08_12-s003" ana="#Scholarship">後東遊禹穴值慧基法師。招停城傍一夏講論。</seg>後入剡白山靈鷲寺。未至之夜。沙門僧緒夢見神人。朱旗素甲滿山而出。緒問其故。答云。法師當入故出奉迎。明旦待人。果是柔至。<seg xml:id="s1qc-08_12-s004" ana="#Scholarship">既而掃飾山門有終焉之志。敷經遵學有士如林。</seg><seg xml:id="s1qc-08_12-s005" ana="#Scholarship">齊太祖創業之始及世祖襲圖之日。皆建立招提。傍求義士。以柔耆素有聞。故徵書歲及。文宣諸王再三招請。乃更出京師。止于定林寺。躬為元匠。四遠欽服人神贊美。文慧文宣。並伏膺入室。</seg>柔秉德居宗當之弗讓。常誓生安養國。每至懸車西次。輒嚬容合掌。至臨亡之日。體無餘患。唯語弟子云。吾應去矣。仍鋪席于地西向虔禮。奄然而卒。是歲延興元年。春秋六十有四。即葬於山南。沙門釋僧祐與柔少長山栖。同止歲久。亟挹道心預聞法味。為立碑墓所。東莞劉勰製文。柔有弟子僧紹。亦貞正有學業。時鍾山山茨精舍又有僧拔慧熙。皆弱年英邁幼著高名。並美業未就而相繼早卒。拔撰七玄論。今行於世。</p></div></body></text></TEI>

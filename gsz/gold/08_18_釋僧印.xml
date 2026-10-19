@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_18" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.18 釋僧印 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0380b01" to="0380b14">T50n2059, 0380b01–0380b14</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.18"><p>釋僧印。姓朱。壽春人。<seg xml:id="s1qc-08_18-s001" ana="#Scholarship">少而神思沈審安苦務學。</seg><seg xml:id="s1qc-08_18-s002" ana="#Scholarship">初遊彭城從曇度受三論。度既擅步一時四遠依集。印稟味鑽研窮其幽奧。</seg><seg xml:id="s1qc-08_18-s003" ana="#Scholarship">後進往廬山。從慧龍諮受法華。</seg>龍亦當世著名。播於法華宗旨。<seg xml:id="s1qc-08_18-s004" ana="#Scholarship">印偏功構徹獨表新異。於是東適京師止中興寺。復陶思涅槃及餘經典。</seg><seg xml:id="s1qc-08_18-s005" ana="#Scholarship">宋大明中徵君何點招僧大集。請印為法匠。聽者七百餘人。司徒文宣王東海徐孝嗣。並挹敬風猷屢請講說。</seg>印戒行清嚴稟性和穆。含恕安忍憙慍不彰。時仗氣之徒。問論中間。或厝以嘲謔。印神彩夷然曾無外意。<seg xml:id="s1qc-08_18-s006" ana="#Scholarship">雖學涉眾典而偏以法華著名。講法華凡二百五十二遍。</seg>以齊永元元年卒。春秋六十有五矣。</p></div></body></text></TEI>

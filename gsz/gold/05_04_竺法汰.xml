@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-05_04" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 5.4 竺法汰 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0354b29" to="0355a17">T50n2059, 0354b29–0355a17</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="5.4"><p>竺法汰。東莞人。少與道安同學。雖才辯不逮而姿貌過之。與道安避難行至新野。安分張徒眾命汰下京臨別謂安曰。法師儀軌西北下座弘教東南。江湖道術此焉相望矣。至於高會淨因。當期之歲寒耳。於是分手泣涕而別。乃與弟子曇一曇二等四十餘人。沿江東下。遇疾停陽口。時桓溫鎮荊州。遣使要過供事湯藥。安公又遣弟子慧遠。下荊問疾。汰病小愈詣溫。溫欲共汰久語。先對諸賓未及前汰。汰既疾勢未歇不堪久坐。乃乘輿歷廂迴出。相聞與溫曰。風痰忽發不堪久語。比當更造。溫怱怱起出接與歸焉。汰形長八尺風姿可觀。含吐蘊藉詞若蘭芳。時沙門道恒頗有才力。常執心無義大行荊土。汰曰。此是邪說應須破之。乃大集名僧令弟子曇一難之。據經引理析駮紛紜。恒仗其口辯不肯受屈。日色既暮。明旦更集慧遠就席。設難數番關責鋒起。恒自覺義途差異。神色微動。麈尾扣案未即有答。遠曰。不疾而速。杼軸何為。座者皆笑矣。心無之義於此而息。<seg xml:id="s1qc-05_04-s001" ana="#Scholarship">汰下都止瓦官寺。晉太宗簡文皇帝深相敬。重請講放光經。開題大會。帝親臨幸。王侯公卿莫不畢集。</seg><seg xml:id="s1qc-05_04-s002" ana="#Scholarship">汰形解過人流名四遠。開講之日黑白觀聽士女成群。及諮稟門徒以次駢席。三吳負袠至者千數。</seg>瓦官寺本是河內山玩公。墓為陶處。晉興寧中沙門慧力啟乞為寺止有堂塔而已。及汰居之更拓房宇修立眾業。又起重門以可地勢。汝南世子司馬綜第去寺近。遂侵掘寺側重門淪陷。汰不介懷。綜乃感悟躬往悔謝。汰臥與相見。傍若無人。領軍王洽東亭王珣太傅謝安並欽敬無極。臨亡數日忽覺不悆。乃語弟子。吾將去矣。以晉太元十二年卒。春秋六十有八。烈宗孝武詔曰。汰法師道播八方澤流後裔。奄爾喪逝痛貫于懷可賻錢十萬喪事所須隨由備辦。孫綽為之贊曰。凄風拂林。鳴絃映壑。爽爽法汰。校德無怍。汰弟子曇一曇二。並博練經義。又善老易。風流趣好與慧遠齊名。曇二少卒。汰哭之慟曰。天喪回也。<seg xml:id="s1qc-05_04-s003" ana="#Scholarship">汰所著義疏。并與郄超書論本無義。皆行於世。</seg>或有言曰。汰是安公弟子者非也。</p></div></body></text></TEI>

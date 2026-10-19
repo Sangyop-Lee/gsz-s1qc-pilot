@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_03" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.3 竺曇猷 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0395c27" to="0396b16">T50n2059, 0395c27–0396b16</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.3"><p>竺曇猷。或云法猷。燉煌人。<seg xml:id="s1qc-11_03-s001" ana="#Asceticism">少苦行習禪定。</seg>後遊江左止剡之石城山。<seg xml:id="s1qc-11_03-s002" ana="#Asceticism">乞食坐禪。</seg><seg xml:id="s1qc-11_03-s003" ana="#Asceticism">嘗行到一行蠱家乞食。猷呪願竟。忽有蜈蚣從食中跳出。猷快食無他。</seg>後移始豐赤城山石室坐禪。有猛虎數十蹲在猷前。猷誦經如故。一虎獨睡。猷以如意扣虎頭問。何不聽經。俄而群虎皆去。有頃壯蛇競出。大十餘圍。循環往復舉頭向猷。經半日復去。後一日神現形。詣猷曰。法師威德既重來止此山。弟子輒推室以相奉。猷曰。貧道尋山願得相值。何不共住。神曰。弟子無為不爾。但部屬未洽法化。卒難制語。遠人來往或相侵觸。人神道異。是以去耳。猷曰。本是何神居之久。近欲移何處去耶。神曰。弟子夏帝之子。居此山二千餘年。寒石山是家舅所治。當往彼住。尋還山陰廟。臨別執手贈猷香三奩。於是鳴鞞吹角陵雲而去赤城山。山有孤巖獨立秀出千雲猷摶石作梯升巖宴坐。接竹傳水以供常用。禪學造者十有餘人。王羲之聞而故往。仰峯高挹致敬而反。赤城巖與天台瀑布靈溪四明。並相連屬。而天台懸崖峻峙峯嶺切天。古老相傳云。上有佳精舍。得道者居之。雖有石橋跨澗而橫石斷人。且莓苔青滑自終古以來無得至者。猷行至橋所。聞空中聲曰。知君誠篤今未得度。却後十年自當來也。猷心悵然夕留中宿。聞行道唱薩之聲。旦復欲前。見一人鬚眉皓白。問猷所之。猷具答意。公曰。君生死身何可得去。吾是山神故相告耳。猷乃退還。道經一石室。過中憩息。俄而雲霧晦合室中盡鳴。猷神色無擾。明旦見人著單衣袷來曰。此乃僕之所居。昨行不在家中。遂致搔動大深愧怍。猷曰。若是君室請以相還。神曰。僕家室已移。請留令住。猷停少時。猷每恨不得度石橋。後潔齋累日復欲更往。見橫石洞開度橋少許。覩精舍神僧。果如前所說。因共燒香中食。食畢神僧謂猷曰。却後十年自當來此。今未得住。於是而返。顧看橫石還合如初。晉太元中有妖星。帝普下諸國有德沙門令齋懺悔攘災。猷乃祈誠冥感。至六日旦見青衣小兒來悔過云。橫勞法師。是夕星退。別說云。攘星是帛僧光。未詳。猷以太元之末卒於山室。屍猶平坐而舉體綠色。晉義熙末隱士神世標入山登巖。故見猷屍不朽。其後欲往觀者。輒雲霧所惑無得窺也。時又有慧開慧真等。亦善禪業。入餘姚靈祕山。各造方丈禪龕。于今尚在。</p></div></body></text></TEI>

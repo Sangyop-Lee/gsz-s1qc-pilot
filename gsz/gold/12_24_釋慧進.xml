@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_24" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.24 釋慧進 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0407c22" to="0408a05">T50n2059, 0407c22–0408a05</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.24"><p>釋慧進。姓姚。吳興人。少而雄勇任性遊俠。年四十忽悟心自啟。遂爾離俗止京師高座寺。<seg xml:id="s1qc-12_24-s001" ana="#Asceticism">蔬食素衣</seg><anchor type="division" resp="#SLee"/>誓誦法華。用心勞苦。執卷輒病。迺發願。願造法華百部以悔先障。始聚得錢一千六百。時有劫來問進有物不。答云。唯有造經錢在佛處。群劫聞之赧然而去。於是聚集信施。得以成經。滿足百部。經成之後病亦小差。誦法華一部得過情願既滿。厲操愈堅。常迴諸福業願生安養未亡少時忽聞空中聲曰。汝所願已足。必得生西方也。至齊永明三年無病而卒。春秋八十有五。時京師龍華寺復有釋僧念誦法華金光明。蔬食避世。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_17" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.17 釋道冏 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0407a13" to="0407b03">T50n2059, 0407a13–0407b03</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.17"><p>釋道冏。姓馬。扶風人。初出家為道懿弟子。懿病嘗遣冏等四人至河南霍山採鍾乳。入穴數里。跨木渡水三人溺死。炬火又亡。冏判無濟理。冏素誦法華唯憑誠此業。又存念觀音。有頃見一光如螢火。追之不及。遂得出穴。於是進修禪業節行彌新。頻作數過普賢齋。並有瑞應。或見梵僧入坐。或見騎馬人至。並未及暄涼。倏忽不見。後與同學四人。南遊上京觀矚風化。夜乘氷度河。中道氷破三人沒死。冏又歸誠觀音。乃覺脚下如有一物自𢼨。復見赤光在前。乘光至岸。達都止南澗寺。常以般舟為業。嘗中夜入禪。忽見四人御車至房。呼令上乘。冏欻不自覺。已見身在郡。後沈橋見一人在路坐胡床。侍者數百人。見冏驚起。曰坐禪人耳。彼人因謂左右曰。向止令知處而已。何忽勞屈法師。於是禮拜執別。令人送冏還寺。扣門良久。方開入寺見房猶閉。眾咸莫測其然。宋元嘉二十年。臨川康王義慶携往廣陵。終於彼矣。</p></div></body></text></TEI>

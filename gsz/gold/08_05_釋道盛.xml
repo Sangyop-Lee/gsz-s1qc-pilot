@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_05" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.5 釋道盛 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0375c28" to="0376a09">T50n2059, 0375c28–0376a09</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.5"><p>釋道盛。姓朱。沛國人。<seg xml:id="s1qc-08_05-s001" ana="#Scholarship">幼而出家務學。善涅槃維摩兼通周易。</seg>始住湘州。宋明承風。勅令下京。止彭城寺。謝超宗一遇遂敬以師禮。<seg xml:id="s1qc-08_05-s002" ana="#Scholarship">迺著述交論及生死本無源論等。</seg>後憩天保寺。齊高帝勅代曇度為僧主。丹陽尹沈文季素奉黃老排嫉能仁。迺建義符僧局責僧屬籍。欲沙簡僧尼。由盛綱領有功事得寧寢。後文季故於天保設會。令陸修靜與盛論議。盛既理有所長。又詞氣俊發。嘲謔往還言無暫擾。靜意不獲申。恧焉而退。盛以齊永明中卒。春秋六十餘矣。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-10_02" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 10.2 訶羅竭 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0389a03" to="0389a16">T50n2059, 0389a03–0389a16</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="10.2"><p>訶羅竭者。本樊陽人。少出家。誦經二百萬言。性虛玄守戒節。善舉厝美容色。<seg xml:id="s1qc-10_02-s001" ana="#Asceticism">多行頭陀獨宿山野。</seg>晉武帝太康九年暫至洛陽。時疫疾甚流。死者相繼。竭為呪治。十差八九。至晉惠帝元康元年。乃西入止婁至山石室中坐禪。此室去水既遠。時人欲為開澗。竭曰。不假相勞。乃自起以左脚蹍室西石壁。壁陷沒指。既拔足水從中出。清香軟美四時不絕。來飲者皆止飢渴除疾病。至元康八年端坐從化。弟子依西國法闍維之。焚燎累日而屍猶坐火中水不灰燼。乃移還石室內。後西域人竺定。字安世。晉咸和中往其國。親自觀視屍儼然平坐已三十餘年。定後至京傳之道俗。</p></div></body></text></TEI>

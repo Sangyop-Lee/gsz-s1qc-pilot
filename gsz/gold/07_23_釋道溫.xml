@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_23" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.23 釋道溫 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0372b28" to="0373a15">T50n2059, 0372b28–0373a15</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.23"><p>釋道溫。姓皇甫。安定朝那人。高士謐之後也。少好琴書事親以孝聞。<seg xml:id="s1qc-07_23-s001" ana="#Scholarship">年十六入廬山依遠公受學。</seg>後遊長安復師童壽。<seg xml:id="s1qc-07_23-s002" ana="#Scholarship">元嘉中還止襄陽檀溪寺。善大乘經兼明數論。樊鄧學徒並師之。</seg><seg xml:id="s1qc-07_23-s003" ana="#Scholarship">時吳國張邵鎮襄陽。子敷隨之。敷聽溫講還。邵問。溫何如。敷曰。義解足以析微。道心未易可測。邵躬往候之。方挹其神俊。後從容謂曰。法師儻能還俗當以別駕相處。溫曰。檀越迺以桎梏誘人。即日辭往江陵。邵追之不及歎恨。</seg>孝建初被勅下都止中興寺。大明中勅為都邑僧主。路昭皇太后大明四年十月八日造普賢像成。於中興禪房設齋。所請凡二百僧。列名同集。人數已定。于時寺既新構嚴衛甚肅。忽有一僧。晚來就座風容都雅。舉堂囑目。與齋主共語百餘許言。忽不復見。檢問防門。咸言不見出入。眾迺悟其神人。溫時既為僧主。迺列言秣陵白。皇太后叡鑒沖明聖符幽洽。滌思淨場研衿至境。固以聲藻宸內事虛梵表。迺創思鎔斵栖寫神華。摸造普賢來儀盛像。寶傾宙珍妙盡天飾。所設齋講訖今月八日。嚫會有限名簿素定。引次就席數無盈減。轉經明半景及昆吾。忽覩異僧預于座內。容止端嚴氣貌秀發。舉眾驚嗟莫有識者。齋主問曰。上人何名。答曰。名慧明。住何寺。答云來自天安。言對之間倏然不見。闔席悚愧。遍筵肅慮。以為明祥所賁幽應攸闡。紫山可覿華臺不遠。蓋聞至誠所感還景移緯。澄心所殉發石開泉。況帝德涵運皇功懋洽。仁洞乾遐理暢冥外。故上王盛士。剋表大明之朝。勸發妙身。躬見龍飛之室。適若因陛下慧燭海隅明華日月。故以慧明為人名。繼天興祚。式垂無疆。故以天安為寺稱。神基彌遠道政方凝。九服咸太萬寓齊悅。謹列言屬縣以顯天休。縣即言郡。時京兆尹孔靈符以事表聞。詔仍改禪房為天安寺。以旍瑞焉。<seg xml:id="s1qc-07_23-s004" ana="#Scholarship">溫後累當講任。稟味之賓填委相屬。</seg>精勤導物數感神異。帝悅之。賜錢五十萬。時人為之語曰。帝主傾財溫公率則。上天懷感神靈降德。宋太始初卒。春秋六十有九。時中興寺復有僧慶慧定僧嵩。並以義學顯譽。慶善三論為時學所宗。定善涅槃及毘曇。亦數當元匠。嵩亦兼明數論。末年僻執謂佛不應常住。臨終之日舌本先爛焉。</p></div></body></text></TEI>

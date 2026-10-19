@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_04" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.4 釋僧富 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0404b22" to="0404c10">T50n2059, 0404b22–0404c10</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.4"><p>釋僧富。姓山。高陽人。<seg xml:id="s1qc-12_04-s001" ana="#Scholarship">父霸為藍田令。富少孤居貧而篤學無厭。採薪為燭以照讀書。及至冠年備盡經史。美姿容善談論。</seg>後遇偽秦衛將軍楊邕資其衣糧。習鑿齒携共志學。<seg xml:id="s1qc-12_04-s002" ana="#Scholarship">及聽安公講放光經。遂有心樂道。於是剃髮依安受業。</seg>安亡後還魏郡廷尉寺。下帷潛思絕事人間。時村中有劫。劫得一小兒。欲取心肝以解神。富逍遙路口。遇見劫具問其意。因脫衣以易小兒。群劫不許。富曰。大人五藏亦可用不。劫謂富不能亡身。妄言亦好。富迺念曰。我幻炎之軀會有一死。以死濟人。雖死猶生。即自取劫刀劃胸至臍。群劫更相咎責四散奔走。即送小兒還家。路口時行路一人見富如此。因問其故。富雖復頓悶口猶能言。迺具答以事。此人悲悼傷心還家取針縫其腹皮。塗以驗藥。輿還寺將息。少時而差。後不知所終。</p></div></body></text></TEI>

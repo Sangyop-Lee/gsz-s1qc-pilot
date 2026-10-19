@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-01_14" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 1.14 竺佛念 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0329a28" to="0329b15">T50n2059, 0329a28–0329b15</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="1.14"><p>竺佛念。涼州人。弱年出家志業清堅。外和內朗有通敏之鑒。<seg xml:id="s1qc-01_14-s001" ana="#Scholarship">諷習眾經粗涉外典。其蒼雅詁訓尤所明達。</seg>少好遊方。備觀風俗。家世西河洞曉方語。華戎音義莫不兼解。故義學之譽雖闕。洽聞之聲甚著。<seg xml:id="s1qc-01_14-s002" ana="#Scholarship">符氏建元中有僧伽跋澄曇摩難提等入長安。趙正請出諸經。當時名德莫能傳譯。眾咸推念。於是澄執梵文。念譯為晉。質斷疑義音字方明。</seg><seg xml:id="s1qc-01_14-s003" ana="#Scholarship">至建元二十年正月。復請曇摩難提出增一阿含及中阿含。於長安城內集義學沙門。請念為譯。敷析研覈二載乃竟。二含之顯。念宣譯之功也。自世高支謙以後莫踰於念。在符姚二代為譯人之宗。故關中僧眾咸共嘉焉。</seg><seg xml:id="s1qc-01_14-s004" ana="#Scholarship">後續出菩薩瓔珞十住斷結及出曜胎經中陰經等。始就治定。意多未盡。遂爾遘疾卒于長安。達近白黑莫不歎惜。</seg></p></div></body></text></TEI>

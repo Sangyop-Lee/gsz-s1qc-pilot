@@ -1,0 +1,8 @@
+Definition: Span
+
+1. A span is one narrative unit: one core statement about a person, with its setup and consequences.
+   - Core: something he did (study, travel, lecturing, a miracle, his death, patronage he received) or something he was (his origin, character, talents, a habit or practice). Each item in a list of his qualities or habits is a core of its own.
+   - Setup: sentences before the core that tell its cause (a request, an invitation, a motive) or introduce a time, place or person the core names again or points to (於彼, 此寺). His ordination, entry under a teacher or a move is setup only if the core names that teacher or place again.
+   - Consequences: sentences after the core that tell what came of it, assess it, or name again a time, place or person from it.
+2. Sentences belong to one span only when the text links them (a sentence opening with a connective such as 故, 由是, 是以, 所以, 因此, 即, 仍, 便, 於是, 乃, 因, 遂, 而, or a word pointing back such as 其, 此, 於彼) or they tell one occasion: an action and the response to it. Otherwise each statement is its own span: a new time (後, 頃之, an era name, an age), place or activity, an anecdote that tells something new, the items in a list of his qualities, and the stages of his career.
+3. Long quoted documents (letters, memorials, edicts, inscriptions, eulogies, treatises quoted at length) are left out: a span that reaches the sentence introducing one (ending in 曰 or 云) ends with that sentence, and no span begins inside one.

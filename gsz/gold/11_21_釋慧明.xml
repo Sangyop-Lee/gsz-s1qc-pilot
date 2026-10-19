@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_21" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.21 釋慧明 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0400b04" to="0400b15">T50n2059, 0400b04–0400b15</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.21"><p>釋慧明。姓康。康居人。祖世避地于東吳。明少出家止章安東寺。<seg xml:id="s1qc-11_21-s001" ana="#Asceticism">齊建元中與沙門共登赤城山石室。見猷公屍骸不朽而禪室荒蕪高蹤不繼。乃雇人開剪。更立堂室造臥佛并猷公像。於是栖心禪誦畢命枯槁。</seg>後於定中見一女神。自稱呂姥。云常加護衛。或時有白猨白鹿白蛇白虎遊戲堦前。馴伏宛轉不令人畏。齊竟陵文宣王聞風祇挹。頻遣三使慇懃敦請。乃暫出京師到第。文宣敬以師禮。少時辭還山。苦留不止。於是資給發遣。以建武之末卒於山中。春秋七十矣。</p></div></body></text></TEI>

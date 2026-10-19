@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-04_11" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 4.11 于道邃 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0350b13" to="0350b28">T50n2059, 0350b13–0350b28</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="4.11"><p>于道邃。燉煌人。少而失蔭叔親養之。邃孝敬竭誠若奉其母。至年十六出家事蘭公為弟子。<seg xml:id="s1qc-04_11-s001" ana="#Scholarship">學業高明內外該覽。</seg>善方藥美書札。洞諳殊俗尤巧談論。護公常稱邃高簡雅素有古人之風。若不無方為大法梁棟矣。後與簡公俱過江。謝慶緒大相推重。性好山澤在東多遊履名山。為人不屑毀譽。未嘗以塵近經抱。後隨蘭適西域。於交趾遇疾而終。春秋三十有一矣。郗超圖寫其形。支遁著銘。贊曰。英英上人。識通理清。朗質玉瑩。德音蘭馨。孫綽以邃比阮咸。或曰。咸有累騎之譏。邃有清冷之譽。何得為匹。孫綽曰。雖迹有窪隆高風一也。喻道論云。近洛中有竺法行談者以方樂令。江南有于道邃識者以對勝流。皆當時共所見聞。非同志之私譽也。</p></div></body></text></TEI>

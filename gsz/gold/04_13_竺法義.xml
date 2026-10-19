@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-04_13" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 4.13 竺法義 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0350c16" to="0351a05">T50n2059, 0350c16–0351a05</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="4.13"><p>竺法義。未詳何許人。<seg xml:id="s1qc-04_13-s001" ana="#Scholarship">年十三遇深公便問。仁利是君子所行。孔丘何故罕言。深曰。物尠能行是故罕言。深見其幼而頴悟。勸令出家。於是棲志法門從深受學。遊刃眾典尤善法華。</seg><seg xml:id="s1qc-04_13-s002" ana="#Scholarship">後辭深出京。復大開講席。王導孔敷並承風敬友。</seg>至晉興寧中。更還江左憩于始寧之保山。受業弟子常有百餘。至咸安二年。忽感心氣疾病。常存念觀音。乃夢見一人破腹洗腸。覺便病愈。傅亮每云。吾先君與義公遊處。每聞說觀音神異莫不大小肅然。<seg xml:id="s1qc-04_13-s003" ana="#Scholarship">晉寧康三年孝武皇帝遣使徵請出都講說。</seg>晉太元五年卒於都。春秋七十有四矣。帝以錢十萬買新亭崗為墓。起塔三級。義弟子曇爽。於墓所立寺。因名新亭精舍。後宋孝武南下伐凶。鑾斾至止式宮此寺。及登禪復幸禪堂。因為開拓。改曰中興。故元嘉末童謠云。錢唐出天子。乃禪堂之謂。故中興禪房猶有龍飛殿焉。今之天安是也。</p></div></body></text></TEI>

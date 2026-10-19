@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_01" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.1 竺道生 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0366b23" to="0367a28">T50n2059, 0366b23–0367a28</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.1"><p>竺道生。本姓魏。鉅鹿人。寓居彭城家世仕族。父為廣戚令。鄉里稱為善人。生幼而頴悟聰哲若神。其父知非凡器。愛而異之。後值沙門竺法汰。遂改俗歸依。伏膺受業。<seg xml:id="s1qc-07_01-s001" ana="#Scholarship">既踐法門俊思奇拔。研味句義即自開解。故年在志學便登講座。吐納問辯辭清珠玉。雖宿望學僧當世名士。皆慮挫詞窮。莫敢酬抗。</seg>年至具戒器鑒日深。性度機警神氣清穆。初入廬山幽棲七年。以求其志。<seg xml:id="s1qc-07_01-s002" ana="#Scholarship">常以入道之要慧解為本。故鑽仰群經斟酌雜論。萬里隨法不憚疲苦。</seg>後與慧叡慧嚴同遊長安。從什公受業。關中僧眾咸謂神悟。後還都止青園寺。寺是晉恭思皇后褚氏所立本種青處因以為名。生既當時法匠。請以居焉。宋太祖文皇深加歎重。後太祖設會。帝親同眾御于地筵。下食良久。眾咸疑日晚。帝曰。始可中耳。生曰。白日麗天。天言始中何得非中。遂取鉢便食。於是一眾從之。莫不歎其樞機得衷。王弘范泰顏延並挹。敬風猷從之問道。<seg xml:id="s1qc-07_01-s003" ana="#Scholarship">生既潛思日久徹悟言外。迺喟然歎曰。夫象以盡意。得意則象忘。言以詮理。入理則言息。自經典東流譯人重阻。多守滯文鮮見圓義。若忘筌取魚始可與言道矣。於是校閱真俗研思因果。迺立善不受報頓悟成佛。又著二諦論佛性當有論法身無色論佛無淨土論應有緣論等。籠罩舊說妙有淵旨。而守文之徒多生嫌嫉。與奪之聲紛然競起。</seg><seg xml:id="s1qc-07_01-s004" ana="#Scholarship">又六卷泥洹先至京師。生剖析經理洞入幽微。迺說阿闡提人皆得成佛。于時大本未傳。孤明先發獨見忤眾。於是舊學以為邪說譏憤滋甚。遂顯大眾擯而遣之。生於大眾中正容誓曰。若我所說反於經義者。請於現身即表厲疾。若與實相不相違背者。願捨壽之時據師子座。言竟拂衣而遊。</seg>初投吳之虎丘山。旬日之中學徒數百。其年夏雷震青園佛殿。龍昇于天光影西壁。因改寺名號曰龍光。時人歎曰。龍既已去生必行矣。俄而投迹廬山。銷影巖岫。山中僧眾咸共敬服。<seg xml:id="s1qc-07_01-s005" ana="#Scholarship">後涅槃大本至于南京。果稱闡提悉有佛性。與前所說合若符契。生既獲斯經尋即講說。</seg>以宋元嘉十一年冬十一月庚子。於廬山精舍昇于法座。神色開朗德音俊發。論議數番窮理盡妙。觀聽之眾莫不悟悅。法席將畢忽見麈尾紛然而墜。端坐正容隱几而卒。顏色不異似若入定。道俗嗟駭遠近悲泣。於是京邑諸僧內慚自疚追而信服。其神鑒之至徵瑞如此。仍葬廬山之阜。初生與叡公及嚴觀同學齊名。故時人評曰。生叡發天真。嚴觀窪流得。慧義彭享進。寇淵于默塞。生及叡公獨標天真之目。故以秀出群士矣。<seg xml:id="s1qc-07_01-s006" ana="#Scholarship">初關中僧肇始注維摩。世咸翫味。生乃更發深旨顯暢新異及諸經義疏。世皆寶焉。</seg>王微以生比郭林宗。乃為之立傳旌其遺德。時人以生推闡提得佛。此語有據。頓悟不受報等時亦為憲章。宋太祖嘗述生頓悟義。沙門僧弼等皆設巨難。帝曰。若使逝者可興。豈為諸君所屈。後龍光又有沙門寶林。初經長安受學。後祖述生公諸義。時人號曰遊玄生。著涅槃記及注異宗論檄魔文等。林弟子法寶亦學兼內外。著金剛後心論等。亦祖述生義焉。近代又有釋慧生者。亦止龍光寺。蔬食善眾經兼工草隸。時人以同寺相繼。號曰大小二生。</p></div></body></text></TEI>

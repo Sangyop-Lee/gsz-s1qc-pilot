@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_31" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.31 釋慧彌 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0408c15" to="0409a02">T50n2059, 0408c15–0409a02</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.31"><p>釋慧彌。姓楊氏。弘農華陰人。漢太尉震之後裔也。年十六出家。<seg xml:id="s1qc-12_31-s001" ana="#Asceticism">及具戒之後志修遠離。迺入長安終南山。巖谷險絕軌迹莫至。彌負錫獨前。猛虎肅兕無擾。少誦大品。又精修三昧。於是剪茅結宇。以為栖神之宅。時至則持鉢入村。食竟則還室禪誦。如此者八年。</seg>後聞江東有法之盛。迺觀化京師止于鍾山定林寺。習業如先。為人溫恭冲讓喜慍無色。戒範精明獎化忘勌。諮賢求善恒若未足。凡黑白造山禮拜者。皆為說法提誘以代餚饌。<seg xml:id="s1qc-12_31-s002" ana="#Asceticism">爰自出家至于衰老。葷醪鮮豢一皆永絕。</seg>足不出戶三十餘年。曉夜習定。常誦波若。六時禮懺。必為眾先。以梁天監十七年閏八月十五日終於山舍。春秋七十有九。葬于寺南。立碑頌德。時定林又有沙門法仙。亦誦經有素行。後還吳為僧正。卒於彼。</p></div></body></text></TEI>

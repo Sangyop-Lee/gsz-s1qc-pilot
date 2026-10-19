@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-04_09" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 4.9 于法蘭 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0349c22" to="0350a12">T50n2059, 0349c22–0350a12</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="4.9"><p>于法蘭。高陽人。少有異操。十五出家。<seg xml:id="s1qc-04_09-s001" ana="#Scholarship">便以精勤為業。研諷經典以日兼夜。求法問道必在眾先。</seg>迄在冠年風神秀逸。道振三河名流四遠。性好山泉多處巖壑。嘗於冬月在山氷雪甚厲。時有一虎來入蘭房。蘭神色無忤虎亦甚馴。至明旦雪止乃去。山中神祇常來受法。其德被精靈。皆此類也。後聞江東山水剡縣稱奇。乃徐步東甌遠矚嶀嵊。居于石城山足。今之元華寺是也。時人以其風力比庾元規。孫綽道賢論。以比阮嗣宗。論云。蘭公遺身高尚妙迹。殆至人之流。阬步兵傲獨不群。亦蘭之儔也。居剡少時。欻然歎曰。大法雖興經道多闕。若一聞圓教夕死可也。乃遠適西域欲求異聞。至交州遇疾終於象林。沙門支遁追立像。贊曰。于氏超世綜體玄旨。嘉遁山澤。馴洽虎兕。別傳云。蘭亦感枯泉漱水。事與竺法護同。未詳。又有竺法興支法淵于法道。與蘭同時比德。興以洽見知名。淵以才華著稱。道以義解馳聲矣。</p></div></body></text></TEI>

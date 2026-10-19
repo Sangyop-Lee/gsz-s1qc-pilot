@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_26" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.26 釋僧鏡 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0373b19" to="0373c05">T50n2059, 0373b19–0373c05</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.26"><p>釋僧鏡。姓焦。本隴西人。遷居吳地。至孝過人。輕財好施。家貧母亡。太守賜錢五千。苦辭不受。迺身自負土種植松栢。廬于墓所。泣血三年。服畢出家。住吳縣華山。後入關隴尋師受法。累載方還。<seg xml:id="s1qc-07_26-s001" ana="#Scholarship">停止京師。大闡經論。司空東海徐湛之重其風素。請為一門之師。</seg><seg xml:id="s1qc-07_26-s002" ana="#Scholarship">後東反姑蘇。復專當法匠。臺寺沙門道流請停歲許。</seg>又東適上虞徐山。學徒隨往百有餘人。化洽三吳聲馳上國。陳郡謝靈運以德音致欵。<seg xml:id="s1qc-07_26-s003" ana="#Scholarship">宋世祖藉其風素。勅出京師止定林下寺。頻建法聚德眾雲集。</seg><seg xml:id="s1qc-07_26-s004" ana="#Scholarship">著法華維摩泥洹義疏并毘曇玄論。區別義類有條貫焉。</seg>宋元徽中卒。春秋六十有七。上虞徐山先有曇隆道人。少善席上。晚忽苦節過人。亦為謝靈運所重。常共遊嶀嵊。亡後運迺誄焉。</p></div></body></text></TEI>

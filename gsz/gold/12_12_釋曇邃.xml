@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_12" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.12 釋曇邃 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0406b26" to="0406c07">T50n2059, 0406b26–0406c07</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.12"><p>釋曇邃。未詳何許人。少出家止河陰白馬寺。<seg xml:id="s1qc-12_12-s001" ana="#Asceticism">蔬食布衣。</seg>誦正法華經常一日一遍。<seg xml:id="s1qc-12_12-s002" ana="#Scholarship">又精達經旨亦為人解說。</seg>嘗於夜中忽聞扣戶云。欲請法師九旬說法。邃不許。固請乃赴之。而猶是眠中。比覺己身在白馬塢神祠中。并一弟子。自爾日日密往。餘無知者。後寺僧經祠前過見有兩高座。邃在北弟子在南。如有講說聲。又聞有奇香之氣。於是道俗共傳。咸云神異。至夏竟。神施以白馬一匹白羊五頭絹九十匹。呪願畢於是各絕。邃後不知所終。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-03_05" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 3.5 釋智嚴 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0339a29" to="0339c17">T50n2059, 0339a29–0339c17</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="3.5"><p>釋智嚴。西涼州人。弱冠出家。便以精懃著名。<seg xml:id="s1qc-03_05-s001" ana="#Asceticism">納衣宴坐蔬食永歲。</seg>每以本域丘墟志欲博事名師廣求經誥。遂周流西國進到罽賓。入摩天陀羅精舍。從佛馱先比丘諮受禪法。漸深三年功踰十載。佛馱先見其禪思有緒。特深器異。彼諸道俗聞而歎曰。秦地乃有求道沙門矣。始不輕秦類敬接遠人。時有佛馱跋陀羅比丘。亦是彼國禪匠。嚴乃要請東歸欲傳法中土。跋陀嘉其懇至。遂共東行。於是踰沙越險達自關中常依隨跋陀止長安大寺。頃之跋陀橫為秦僧所擯。嚴亦分散憩于山東精舍。坐禪誦經力精修學。晉義熙十三年。宋武帝西伐長安剋捷旋斾。塗出山東。時始興公王恢從駕遊觀山川至嚴精舍。見其同止三僧各坐繩床禪思湛然。恢至良久不覺於是彈指。三人開眼俄而還閉。問不與言。恢心敬其奇訪諸耆老。皆云。此三僧隱居求志高潔法師也。恢即啟宋武帝延請還都。莫肯行者。既屢請懇至。二人推嚴隨行。恢懷道素篤禮事甚殷。還都即住始興寺。嚴性愛虛靖志避諠塵。恢乃為於東郊之際更起精舍。即枳園寺也。<seg xml:id="s1qc-03_05-s002" ana="#Scholarship">嚴前於西域所得梵本眾經未及譯寫。到元嘉四年。乃共沙門寶雲譯出普曜廣博嚴淨四天王等。</seg><seg xml:id="s1qc-03_05-s003" ana="#Asceticism">嚴在寺不受別請。常分衛自資。</seg>道化所被幽顯咸服。有見鬼者云。見西州太社間鬼相語。嚴公至當避易。此人未之解。俄而嚴至。聊問姓字果稱智嚴。默而識之密加禮異。儀同蘭陵蕭思話婦劉氏疾病。恒見鬼來吁可駭畏。時迎嚴說法。嚴始到外堂。劉氏便見群鬼迸散。嚴既進為夫人說經。疾以之瘳。因稟五戒。一門宗奉。嚴清素寡欲隨受隨施。少而遊方無所滯著。稟性沖退不自陳敘。故雖多美行世無得而盡傳。嚴昔未出家時。嘗受五戒有所虧犯。後入道受具足。常疑不得戒。每以為懼。積年禪觀而不能自了。遂更汎海重到天竺諮諸明達。值羅漢比丘具以事問羅漢。不敢判決。乃為嚴入定往兜率宮諮彌勒。彌勒答云。得戒。嚴大喜。於是步歸至罽賓。無疾而化。時年七十八。彼國法凡聖燒身各處。嚴雖戒操高明。而實行未辦。始移屍向凡僧墓地。而屍重不起。改向聖墓則飄然自輕。嚴弟子智羽智遠。故從西來報此徵瑞。俱還外國。以此推嚴信是得道人也。但未知果向中間若深淺耳。</p></div></body></text></TEI>

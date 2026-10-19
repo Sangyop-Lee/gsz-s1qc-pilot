@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-04_05" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 4.5 康法朗 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0347a28" to="0347b24">T50n2059, 0347a28–0347b24</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="4.5"><p>康法朗。中山人。少出家善戒節。嘗讀經見雙樹鹿苑之處。欝而歎曰。吾已不值聖人。寧可不覩聖處。於是誓往迦夷仰瞻遺迹。乃共同學四人發跡張掖。西過流沙行經三日。路絕人蹤。忽見道傍有一故寺。草木沒人中有敗屋兩間。間中各有一人。一人誦經。一人患痢。兩人比房不相料理。屎尿縱橫舉房臭穢。朗謂其屬曰。出家同道以法為親。不見則已。豈可見而捨耶。朗乃停六日為洗浣供養。至第七日見此房中皆是香華。乃悟其神人。因語朗云。比房是我和上。已得無學可往問訊。朗往問訊。因語朗云。君等誠契皆當入道。不須遠遊諸國。於事無益。唯當自力行道勿令失時。但朗功業尚小未純未得所願。當還真丹國作大法師。於是四人不復西行。仍留此專精業道。<seg xml:id="s1qc-04_05-s001" ana="#Scholarship">唯朗更遊諸國研尋經論。</seg><seg xml:id="s1qc-04_05-s002" ana="#Scholarship">後還中山門徒數百講法相係。</seg>後不知所終。孫綽為之贊曰。人亦有言。瑜瑕弗藏。朗公冏冏。能韜其光。敬終慎始。研微辯章。何以取證。氷堅履霜。朗弟子令韶。其先雁門人。姓呂。少遊獵後發心出家事朗為師。思學有功。特善禪數。每入定或數日不起。後移柳泉山鑿穴宴坐。朗終後刻木為像。朝夕禮事。孫綽正像論云。呂韶凝神於中山。即其人也。</p></div></body></text></TEI>

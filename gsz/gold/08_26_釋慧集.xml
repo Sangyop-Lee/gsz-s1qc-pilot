@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_26" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.26 釋慧集 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0382b23" to="0382c04">T50n2059, 0382b23–0382c04</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.26"><p>釋慧集。本姓錢。吳興於潛人。年十八於會稽樂林山出家。仍隨慧基法師受業。<seg xml:id="s1qc-08_26-s001" ana="#Scholarship">為性愨實。言無華綺。而學勤昏曉未嘗懈息。</seg>後出京止招提寺。<seg xml:id="s1qc-08_26-s002" ana="#Scholarship">復遍歷眾師融冶異說。三藏方等並皆綜達。廣訪大毘婆沙及雜心揵度等。以相辯校。故於毘曇一部擅步當時。凡碩難堅疑並為披釋。海內學賓無不必至。每一開講負帙千人。沙門僧旻法雲並名高一代。亦執卷請益。</seg>今上深相賞接。以天監十四年還至烏程。遘疾而卒。春秋六十。<seg xml:id="s1qc-08_26-s003" ana="#Scholarship">著毘曇大義疏十餘萬言。盛行於世。</seg></p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_06" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.6 釋僧翼 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0410c05" to="0410c20">T50n2059, 0410c05–0410c20</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.6"><p>釋僧翼。本吳興餘杭人。少而信悟。早有絕塵之操。<seg xml:id="s1qc-13_06-s001" ana="#Scholarship">初出家止廬山寺依慧遠修學。</seg><seg xml:id="s1qc-13_06-s002" ana="#Asceticism">蔬素苦節見重門人。</seg>晚適關中。復師羅什。<seg xml:id="s1qc-13_06-s003" ana="#Scholarship">經律數論。並皆參涉。</seg>又誦法華一部。以晉義熙十三年與同志曇學沙門俱遊會稽履訪山水。至秦望西北見五岫駢峯有耆闍之狀。乃結草成菴。稱曰法華精舍。太守孟顗富人陳載。並傾心挹德贊助成功。<seg xml:id="s1qc-13_06-s004" ana="#Asceticism">翼蔬食澗飲三十餘年。</seg>以宋元嘉二十七年卒。春秋七十。立碑山寺旌其遺德。會稽孔逭製文。翼同遊曇學沙門。後移卜秦望之北。號曰樂林精舍。有韶相灌蒨。並東岳望僧咸共憩焉。時有釋道敬者。本瑯瑘胄族。晉右將軍王羲之曾孫。避世出家。情愛丘壑棲于若耶山。立懸溜精舍。敬後為供養眾僧。乃捨具足。專精十戒云。</p></div></body></text></TEI>

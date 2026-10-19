@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_19" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.19 釋慧靜 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0372a14" to="0372a23">T50n2059, 0372a14–0372a23</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.19"><p>釋慧靜。姓邵。吳興餘杭人。<seg xml:id="s1qc-07_19-s001" ana="#Asceticism">居貧履操厲行精苦。</seg>風姿秀整容止可觀。<seg xml:id="s1qc-07_19-s002" ana="#Scholarship">始遊學廬山。</seg><seg xml:id="s1qc-07_19-s003" ana="#Scholarship">晚還上都進業。解兼內外偏善涅槃。</seg>初止治城寺。顏延之何尚之並欽慕風德。顏延之每歎曰。荊山之玉唯靜是焉。及子竣出鎮東州。携與同行。因棲于天柱山寺。<seg xml:id="s1qc-07_19-s004" ana="#Scholarship">及大明之中。又遷居剡之法華臺。後憩東仰山。處處般遊。並以弘法為務。</seg>年過知命志節彌堅。宋太始中卒。春秋五十有八。<seg xml:id="s1qc-07_19-s005" ana="#Scholarship">所著文翰集為十卷。</seg></p></div></body></text></TEI>

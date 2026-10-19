@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_04" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.4 釋慧受 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0410b11" to="0410b25">T50n2059, 0410b11–0410b25</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.4"><p>釋慧受。安樂人。晉興寧中來遊京師。<seg xml:id="s1qc-13_04-s001" ana="#Asceticism">蔬食苦行常修福業。</seg>嘗行過王坦之園。夜輒夢於園中立寺。如此數過。受欲就王乞立一間屋處。未敢發言。且向守園客松期說之。期云。王家之園恐非所圖也。受曰。若令誠感何憂不得。即詣王陳之。王大喜。即以許焉。初立一小屋。每夕復夢見一青龍從南方來化為剎柱。受將沙彌試至新亭江尋覓。乃見一長木隨流來下。受曰。必是吾所見者也。於是雇人牽上。竪立為剎。架以一層。道俗競集咸歎神異。坦之即捨園為寺。以受本鄉為名號曰安樂寺。東有丹陽尹王雅宅。西有東燕太守劉鬪宅。南有豫章太守范寧宅。並施以成寺。後有沙門道靖道敬等。更加修飾。于今崇麗焉。</p></div></body></text></TEI>

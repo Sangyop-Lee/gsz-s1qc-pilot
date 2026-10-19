@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_35" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.35 釋法鏡 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0417b22" to="0417c06">T50n2059, 0417b22–0417c06</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.35"><p>釋法鏡。姓張。吳興烏程人。幼而樂道事未獲從。值慧益燒身啟帝度二十人。鏡即預其一也。事法願為師。既得入道履操氷霜。仁施為懷曠拔成務。於是研習唱導有邁終古。齊竟陵文宣王厚相禮待。鏡誓心弘道不拘貴賤。有請必行。無避寒暑。財不蓄私常興福業。建武初以其信施立齊隆寺以居之。鏡為性敦美賞接為務。故道俗交知莫不愛悅。雖義學功淺而領悟自然。造次嘲難必有酬酢。齊永元二年卒。年六十四。其後瓦官道親彭城寶興耆闍道登。並皆祖述宣唱。高韻華言。非忝前例。傾眾動物。論者後之。今上為長沙宣武王治鏡所住寺。因改曰宣武也。</p></div></body></text></TEI>

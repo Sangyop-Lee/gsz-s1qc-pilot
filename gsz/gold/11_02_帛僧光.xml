@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_02" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.2 帛僧光 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0395c06" to="0395c25">T50n2059, 0395c06–0395c25</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.2"><p>帛僧光。或云曇光。未詳何許人。少習禪業。<seg xml:id="s1qc-11_02-s001" ana="#Asceticism">晉永和初遊于江東投剡之石城山。山民咸云。此中舊有猛獸之災及山神縱暴人蹤久絕。光了無懼色。雇人開剪。負杖而前。行入數里。忽大風雨群虎號鳴。光於山南見一石室。仍止其中安禪合掌以為栖神之處。至明旦雨息。乃入村乞食。夕復還中經三日乃夢見山神。或作虎形或作蛇身。競來怖光。光一皆不恐。經三日又夢見山神。自言。移往章安縣寒石山住。推室以相奉。爾後薪採通流道俗宗事。樂禪來學者起茅茨於室側。漸成寺舍。因名隱岳。</seg>光每入定輒七日不起。處山五十三載。春秋一百一十歲。晉太元之末。以衣蒙頭安坐而卒。眾僧咸謂依常入定。過七日後怪其不起。乃共看之顏色如常。唯鼻中無氣。神遷雖久而形骸不朽。至宋孝建二年。郭鴻任剡入山禮拜。試以如意撥胸。颯然風起衣服銷散。唯白骨在焉。鴻大愧懼收之於室。以塼疊其外而泥之。畫其形像于今尚存。</p></div></body></text></TEI>

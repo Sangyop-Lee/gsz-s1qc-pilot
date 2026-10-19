@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_11" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.11 釋曇鑒 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0370a01" to="0370a18">T50n2059, 0370a01–0370a18</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.11"><p>釋曇鑒。姓趙。冀州人。少出家事竺道祖為師。<seg xml:id="s1qc-07_11-s001" ana="#Asceticism">蔬食布衣律行精苦。</seg><seg xml:id="s1qc-07_11-s002" ana="#Scholarship">學究群經兼善數論</seg><anchor type="division" resp="#SLee"/><seg xml:id="s1qc-07_11-s003" ana="#Scholarship">聞什公在關。杖策從學。什常謂鑒為一聞持人。</seg>後遊方宣化。達自荊州止江陵辛寺。年登耳順勵行彌潔。常願生安養瞻覲彌陀。後弟子僧濟辭往上明。鑒云。汝去迺佳恐不復相見。因委曲疏受付囑。至夜與諸耆老共敘無常。言甚切至。既夜各各還房。鑒獨留步廊下至三更。沙彌僧願請還房。鑒曰。汝但眠不須復來。至明旦弟子慧嚴依常問訊。見合掌平坐而口不言。迫就察之實迺已卒。身體柔軟香潔倍常。因申而殮焉。春秋七十。吳郡張辯作傳并贊。贊曰。披荔逞芬。握瑾表潔。渾渾法師。弗淄弗涅。暐曄初辰。條蔚暮節。神遊智往。豈伊實訣。時江陵又有釋道海北州釋慧龕東州釋慧恭淮南釋曇泓東轅山釋道廣弘農釋道光等。並願生安養臨終祥瑞焉。</p></div></body></text></TEI>

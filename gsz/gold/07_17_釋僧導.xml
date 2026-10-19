@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_17" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.17 釋僧導 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0371a17" to="0371c07">T50n2059, 0371a17–0371c07</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.17"><p>釋僧導。京兆人。<seg xml:id="s1qc-07_17-s001" ana="#Scholarship">十歲出家從師受業。師以觀世音經授之。讀竟諮師。此經有幾卷。師欲試之。迺言。止有此耳。導曰。初云爾時無盡意。故知爾前已應有事。師大悅之。授以法華一部。於是晝夜看尋粗解文義。貧無油燭常採薪自照。</seg><seg xml:id="s1qc-07_17-s002" ana="#Scholarship">至年十八博讀轉多。</seg>氣幹雄勇神機秀發。形止方雅舉動無忤。僧叡見而奇之。問曰。君於佛法且欲何願。導曰。且願為法師作都講。叡曰。君方當為萬人法主。豈肯對揚小師乎。<seg xml:id="s1qc-07_17-s003" ana="#Scholarship">迄受具戒識洽愈深。禪律經論達自心抱。</seg>姚興欽其德業。友而愛焉。入寺相造。迺同輦還宮。<seg xml:id="s1qc-07_17-s004" ana="#Scholarship">及什公譯出經論。並參議詳定。</seg><seg xml:id="s1qc-07_17-s005" ana="#Scholarship">導既素有風神。又值關中盛集。於是謀猷眾典博採真俗。迺著成實三論義疏及空有二諦論等。</seg>後宋高祖西伐長安。擒獲主蕩清關內。既素籍導名。迺要與相見。謂導曰。相望久矣。何其流滯殊俗。答云。明公盪一九有鳴鑾河洛。此時相見不亦善乎。高祖旋斾東歸留子桂陽公義真鎮關中。臨別謂導曰。兒年小留鎮。願法師時能顧懷。義真後為西虜勃勃赫連所逼。出自關南中途擾敗。醜虜乘凶追騎將及。導率弟子數百人遏於中路。謂追騎曰。劉公以此子見託貧道。今當以死送之。會不可得不煩相追。群寇駭其神氣。遂迴鋒而反。義真走竄于草。會其中兵段宏。卒以獲免。蓋由導之力也。高祖感之。因令子姪內外師焉。後立寺於壽春。即東山寺也。<seg xml:id="s1qc-07_17-s006" ana="#Scholarship">常講說經論。受業千有餘人。</seg>會虜俄滅佛法。沙門避難投之者數百。悉給衣食。其有死於虜者。皆設會行香。為之流涕哀慟。至孝武帝升位。遣使徵請。導翻然應詔。止于京師中興寺。鑾輿降蹕躬出候迎。<seg xml:id="s1qc-07_17-s007" ana="#Scholarship">導以孝建之初三綱更始。感事懷惜。悲不自勝。帝亦哽咽良久。即勅於瓦官寺開講維摩。帝親臨幸公卿必集。導登高座曰。昔王宮託生雙樹現滅。自爾以來歲逾千載。淳源永謝澆風不追。給苑丘墟鹿園蕪穢。九十五種以趣下為升高。三界群生以火宅為淨國。豈知上聖流涕大士栖惶者哉。因潛然泫淚。四眾為之改容。又謂帝曰。護法弘道莫先帝王。陛下若能運四等心矜危勸善。則此沙石瓦礫便為自在天宮。帝稱善久之。坐者咸悅。</seg>後辭還壽春卒於石磵。春秋九十有六。時有沙門僧因。亦當世名匠。與導相次。或問因云。法師與導公孰愈。答云。吾與僧導同師什公。准之孔門則導公入室吾可升堂。導有弟子僧威僧音等。並善成實。</p></div></body></text></TEI>

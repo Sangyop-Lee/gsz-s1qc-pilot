@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_32" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.32 釋道琳 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0409a03" to="0409a12">T50n2059, 0409a03–0409a12</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.32"><p>釋道琳。本會稽山陰人。少出家有戒行。<seg xml:id="s1qc-12_32-s001" ana="#Scholarship">善涅槃法華</seg><anchor type="division" resp="#SLee"/>誦淨名經。吳國張緒禮事之。後居富陽縣泉林寺。寺常有鬼怪。自琳居之則消。琳弟子慧韶為屋所押。頭陷入肩。琳為祈請。韶夜見兩梵道人拔出其頭。旦起遂平復。琳於是設聖僧齋。鋪新帛於床上。齋畢見帛上有人迹。皆長三尺餘。眾咸服其徵感。富陽人始家家立聖僧坐以飯之。至梁初琳出居齊熙寺。天監十八年卒。春秋七十有三。</p></div></body></text></TEI>

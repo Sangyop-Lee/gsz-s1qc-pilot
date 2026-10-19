@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_09" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.9 釋僧苞 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0369b14" to="0369c09">T50n2059, 0369b14–0369c09</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.9"><p>釋僧苞。京兆人。<seg xml:id="s1qc-07_09-s001" ana="#Scholarship">少在關受學什公。</seg>宋永初中遊北徐。入黃山精舍。復造靜定二師進業。仍於彼建三七普賢齋懺。至第七日。有白鵠飛來集普賢座前。至中行香畢乃去。至二十一日將暮。又有黃衣四人。繞塔數匝忽然不見。苞少有志節加復祥感。故匪懈之情因之彌厲。日誦萬餘言經。常禮數百拜佛。<seg xml:id="s1qc-07_09-s002" ana="#Scholarship">後東下京師。正值祇洹寺發講。法徒雲聚士庶駢席。苞既初至人未有識者。迺乘驢往看。衣服垢弊貌有風塵。堂內既迮。坐驢韀於戶外。高座出題適竟。苞始欲厝言。法師便問。客僧何名。答云名苞。又問盡何所苞。答曰。高座之人亦可苞耳。迺致問數番皆是先達思力所不逮。高座無以抗其辭。遂遜退而止。</seg><seg xml:id="s1qc-07_09-s003" ana="#Scholarship">時王弘范泰聞苞論議歎其才思。請與交言。仍屈住祇洹寺。開講眾經法化相續。</seg>陳郡謝靈運聞風而造焉。及見苞神氣彌深歎伏。或問曰。謝公何如。苞曰。靈運才有餘而識不足。抑不免其身矣。苞嘗於路行見六劫被錄。苞為說法勸念觀世音。群劫以臨危之際。念念懇切。俄而送吏飲酒洪醉。劫解枷得免焉。宋元嘉中卒。時瓦官又有釋法和者。亦精通數論致譽當時。為宋高祖所重。勅為僧主焉。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_07" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.7 釋僧洪 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0410c21" to="0411a02">T50n2059, 0410c21–0411a02</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.7"><p>釋僧洪。豫州人。止于京師瓦官寺。少而修身整潔。後率化有緣造丈六金像。鎔鑄始畢。未及開模。時晉末銅禁甚嚴。犯者必死。宋武于時為相國。洪坐罪繫于相府。唯誦觀世音經。一心歸命佛像。夜夢所鑄像來。手摩洪頭問怖不。洪言。自念必死。像曰無憂。見像胸方尺許銅色燋沸。會當行刑府參軍監殺。而牛奔車壤。因更剋日。續有令。從彭城來云。未殺僧洪者可原。遂獲免。還開模見像胸前果有燋沸。<seg xml:id="s1qc-13_07-s001" ana="#Asceticism">洪後以苦行卒矣。</seg></p></div></body></text></TEI>

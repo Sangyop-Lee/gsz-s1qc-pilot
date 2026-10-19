@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_32" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.32 釋慧通 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0374c28" to="0375a06">T50n2059, 0374c28–0375a06</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.32"><p>釋慧通。姓劉。沛國人。少而神情爽發俊氣虛玄。止于治城寺。<seg xml:id="s1qc-07_32-s001" ana="#Scholarship">每麈尾一振輒軒蓋盈衢。</seg>東海徐湛之陳郡袁粲敬以師友之禮。孝武皇帝厚加寵秩。勅與海陵小建平二王為友。<seg xml:id="s1qc-07_32-s002" ana="#Scholarship">袁粲著蘧顏論示通。通難詰往反。著文于世。又製大品勝鬘雜心毘曇等義疏。并駮夷夏論顯證論法性論及爻象記等。皆傳於世。</seg>宋昇明中卒。春秋六十三矣。</p></div></body></text></TEI>

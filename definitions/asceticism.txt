@@ -1,0 +1,20 @@
+Definition: Asceticism
+
+A passage is Asceticism when it says that the person lives a life of deliberate self-denial: in what he eats and wears, how he gets his food, or where he lives. The text presents it as a discipline he keeps, not as poverty that befalls him.
+
+A passage is Asceticism if it describes any of the following:
+- General words for austerity, with no particular practice named: 苦行, 精苦, 苦節, 貞苦, 清苦, 枯槁, 苦身, 頭陀, and 常坐不臥 as one of the dhuta practices.
+- Diet: a vegetarian diet (蔬食, 菜食, 長齋); one meal a day (一中, 日一食); abstaining from grain, fasting (絕穀, 絕粒, 不食); living on resin, nuts or seeds (蔬食數十餘年).
+- Dress and possessions: coarse or patched robes (布衣, 納衣, 麻衣), rags (繿縷), going barefoot (跣), refusing silk; owning nothing beyond bowl and robe or the requisites (瓶衣之外略無兼物, 六物之外略無兼畜), which goes beyond the vinaya (常著麻衣或重之為納). Wearing a worn robe to feed lice counts as well.
+- Begging: living on alms (乞食, 分衛); refusing private invitations (不受別請每乞食).
+- Forest dwelling: living in the wild as a practice: dhuta (頭陀), cemeteries (塚間), sleeping under trees or in the open (樹下, 露宿), solitary life in mountains, forests or marshes (獨處山澤, 獨入山), living in the wild on alms (常居塚間樹下).
+- An episode in which he keeps a practice under pressure, such as refusing food offered or forced on him.
+
+A passage is not Asceticism if it describes only the following:
+- Withdrawal from society with no austerity described (隱居), including a named hut, cave or rock dwelling (茅室, 茅茨, 巖居) and the hermit's 木喰㵎飲 or 㵎飲.
+- Keeping the precepts (戒行, 律行) and the vinaya's own rules, such as no food after noon (過中不飡, 虛齋).
+- Diligence alone (精勤), without self-denial.
+- A fast that is a step toward another act, as before self-immolation, or a one-off fast.
+- Offering the body, such as burning lamps on it or feeding insects.
+- Plain living and few possessions with no practice named (清約, 居貧履道).
+- Travel-worn clothes in a scene (衣服垢弊).

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_04" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.4 釋慧觀 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0368b08" to="0368c01">T50n2059, 0368b08–0368c01</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.4"><p>釋慧觀。姓崔。清河人。十歲便以博見馳名。弱年出家遊方受業。晚適廬山又諮稟慧遠。<seg xml:id="s1qc-07_04-s001" ana="#Scholarship">聞什公入關。乃自南徂北。訪覈異同詳辯新舊。</seg>風神秀雅思入玄微。時人稱之曰。通情則生融上首。精難則觀肇第一。<seg xml:id="s1qc-07_04-s002" ana="#Scholarship">迺著法華宗要序以簡什。什曰。善男子。所論甚快。君小却當南遊江漢之間善以弘通為務。</seg>什亡後迺南適荊州。州將司馬休之甚相敬重。於彼立高悝寺。使夫荊楚之民迴邪歸正者。十有其半。宋武南伐休之至江陵與觀相遇。傾心待接依然若舊。因勅與西中郎遊。即文帝也<anchor type="division" resp="#SLee"/>俄而還京止道場寺。<seg xml:id="s1qc-07_04-s003" ana="#Scholarship">觀既妙善佛理探究老莊。又精通十誦博採諸部。故求法問道者日不空筵。</seg>元嘉初三月上已車駕臨曲水讌會。命觀與朝士賦詩。觀即坐先獻。文旨清婉事適當時。瑯瑘王僧達廬江何尚之。並以清言致欵結賞塵外。宋元嘉中卒。春秋七十有一。<seg xml:id="s1qc-07_04-s004" ana="#Scholarship">著辯宗論論頓悟漸悟義及十喻序贊諸經序等。皆傳於世。</seg>時道場寺又有僧馥者。本澧泉人。專精義學注勝鬘經。又有法業。本長安人。善大小品及雜心。蔬食節己。故晉陵公主為起南林寺。後遂居焉。</p></div></body></text></TEI>

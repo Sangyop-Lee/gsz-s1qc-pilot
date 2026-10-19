@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-04_14" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 4.14 竺僧度 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0351a06" to="0351b17">T50n2059, 0351a06–0351b17</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="4.14"><p>竺僧度。姓王。名晞。字玄宗。東莞人也。雖少出孔微。而天姿秀發。至年十六神情爽拔卓爾異人。性度溫和鄉隣所羨。時獨與母居。孝事盡禮。求同郡楊德慎女。亦乃衣冠。家人女字苕華。容貌端正又善墳籍。與度同年。求婚之日即相許焉。<seg xml:id="s1qc-04_14-s001" ana="#Scholarship">未及成禮。苕華母亡。頃之苕華父又亡。庶母亦卒。度遂覩世代無常。忽然感悟。乃捨俗出家。改名僧度。迹抗塵表避地遊學。</seg>苕華服畢自惟三從之義無獨立之道。乃與度書。謂髮膚不可傷毀。宗祀不可頓廢。令其顧世教。改遠志曜翹爍之姿於盛明之世。遠休祖考之靈。近慰人神之願。并贈詩五首。其一篇曰。大道自無窮。天地長且久。巨石故叵消。芥子亦難數。人生一世間。飄忽若過牖。榮華豈不茂。日夕就彫朽。川上有餘吟。日斜思鼓缶。清音可娛耳。滋味可適口羅紈可飾軀。華冠可曜首。安事自剪削。耽空以害有。不道妾區區。但令君恤後。度答書曰。夫事君以治一國。未若弘道以濟萬邦。安親以成一家。未若弘道以濟三界。髮膚不毀俗中之近言耳。但吾德不及遠。未能兼被。以此為愧。然積簣成山。亦冀從微之著也。且披袈裟振錫杖。飲清流詠波若。雖公王之服八珍之饍鏗鏘之聲暐曄之色。不與易也。若能懸契則同期於泥洹矣。且人心各異。有若其面。卿之不樂道。猶我之不慕俗矣楊氏長別離矣。萬世因緣於今絕矣。歲聿云暮時不我與。學道者當以日損為志。處世者當以及時為務。卿年德並茂。宜速有所慕。莫以道士經心而坐失盛年也。又報詩五篇。其一首曰。機運無停住。倏忽歲時過。巨石會當竭。芥子豈云多。良由去不息。故令川上嗟。不聞榮啟期。皓首發清歌。布衣可暖身。誰論飾綾羅。今世雖云樂。當奈後生何。罪福良由己。寧云己恤他。度既志懷匪石不可迴轉。苕華感悟亦起深信。<seg xml:id="s1qc-04_14-s002" ana="#Scholarship">度於是專精佛法。披味群經著毘曇旨歸亦行於世。</seg>後不知所終。時河內又有竺慧超者。亦行解兼著。與高士雁門周續之友善。注勝鬘經焉。</p></div></body></text></TEI>

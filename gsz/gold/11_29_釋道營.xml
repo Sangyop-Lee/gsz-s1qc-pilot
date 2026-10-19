@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_29" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.29 釋道營 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0401c12" to="0401c21">T50n2059, 0401c12–0401c21</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.29"><p>釋道營。未詳何人。始住靈曜寺習禪。<seg xml:id="s1qc-11_29-s001" ana="#Scholarship">晚依觀詢二律師諮受毘尼。偏善僧祇一部。</seg>誦法華金光明。<seg xml:id="s1qc-11_29-s002" ana="#Asceticism">蔬素守節。</seg>莊嚴道慧治城智秀皆師其戒範。<seg xml:id="s1qc-11_29-s003" ana="#Scholarship">張永請還吳郡。蔡興宗復要住上虞。永後於京師婁胡苑立閑心寺。復請還居。講席頻仍學徒甚盛。</seg>昇明二年卒。春秋八十有三矣。時有釋慧祐者。本丹徒人。年三十出家。厲身苦節精尋律教。齊初入東山講摩訶僧祇部。齊竟陵王子良遣迎出都。仍止閑心寺焉。</p></div></body></text></TEI>

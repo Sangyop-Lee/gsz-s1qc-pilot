@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_14" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.14 釋法悅 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0412b17" to="0413a09">T50n2059, 0412b17–0413a09</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.14"><p>釋法悅者。戒素沙門也。齊末勅為僧主。止京師正覺寺。敦修福業四部所歸。悅嘗聞彭城宋王寺有丈八金像乃宋車騎徐州刺史王仲德所造。光相之工江左稱最。州境或應有災祟。及僧尼橫延釁戾。像則流汗。汗之多少則禍患之濃淡也。宋泰始初彭城北屬群虜共欲遷像。引至萬夫竟不能致。齊初兗州數郡欲起義南附。亦驅逼眾僧助守營塹。時虜帥蘭陵公攻陷此營獲諸沙門。於是盡執二州道人幽繫圍裏。遣表偽臺誣以助亂。像時流汗舉殿皆濕。時偽梁王諒鎮在彭城。亦多小信向親往像所使人拭之隨出。終莫能止。王乃燒香禮拜至心誓曰。眾僧無罪。弟子自當營護不使羅禍。若幽誠有感願拭汗即止。於是自手拭之。隨拭即燥。王具表其事。諸僧皆見原免。悅既欣覩靈異誓願瞻禮。而關禁阻隔莫由克遂。又昔宋明皇帝經造丈八金像。四鑄不成。於是改為丈四。悅乃與白馬寺沙門智靖。率合同緣欲改造丈八無量壽像以申厥志。始鳩集金銅。屬齊末世道陵遲。復致推斥。至梁初方以事啟聞。降勅聽許。并助造光趺。材官工巧隨用資給。以梁天監八年五月三日於小莊嚴寺營鑄。匠本量佛身四萬斤銅。融瀉已竭尚未至胸。百姓送銅不可稱計。投諸爐治隨鑄而模內不滿。猶自如先又馳啟聞。勅給功德銅三千斤。臺內始就量送。而像處已見。羊車傳詔載銅爐側。於是飛韛消融一鑄便滿。甫爾之間人車俱失。比臺內銅出方知向之所送信實靈感。工匠喜踊道俗稱讚。及至開模量度乃踊成丈九。而光相不差。又有大錢二枚猶見在衣條。竟不銷鑠。並莫測其然。尋昔量銅四萬。准用有餘。後益三千。計闕未滿。而祥瑞冥密出自心圖。故知神理幽通殆非人事。初像素既成。比丘道昭常夜中禮懺。忽見素所晃然洞明。祥視久之。乃知神光之異鑄後三日未及開模。有禪師道度。高潔僧也。捨其七條袈裟助費。開頂俄而遙見二僧。跪開像髻。逼就觀之。倏然不見。時悅靖二僧相次遷化。勅以像事委定林僧祐。其年九月二十六日移像光宅寺。是月不雨頗有埃塵。及明將遷像夜有輕雲遍上微雨沾澤。僧祐經行像所係念天氣。遙見像邊有光焰上下如燈如燭。并聞槌讖禮拜之聲。入戶詳視揜然俱滅。防寺蔣孝孫亦所同見。是夜淮中賈客並聞大航舶下催督治橋。有如數百人聲。將知靈器之重。豈人致焉。其後更鑄光趺。並有風香之瑞。自葱河以左。金像之最唯此一耳。</p></div></body></text></TEI>

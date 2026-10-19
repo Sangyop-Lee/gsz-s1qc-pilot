@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_28" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.28 釋慧璩 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0416a09" to="0416a18">T50n2059, 0416a09–0416a18</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.28"><p>釋慧璩。丹陽人。出家止瓦官寺。<seg xml:id="s1qc-13_28-s001" ana="#Scholarship">讀覽經論涉獵書史。</seg>眾技多閑而尤善唱導。出語成章動辭製作。臨時採博罄無不妙詣。宋太祖文皇帝車騎臧質。並提携友善雅相崇愛。譙王鎮荊要與同行。後逆節還朝。於梁山設會。頃之譙王敗。璩還京。後宋孝武設齋。璩唱導。帝問璩曰。今日之集何如梁山。璩曰。天道助順況復為逆。帝悅之。明旦別嚫一萬後勅為京邑都維那。大明末終於寺。年七十二。</p></div></body></text></TEI>

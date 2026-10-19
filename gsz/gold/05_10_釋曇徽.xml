@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-05_10" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 5.10 釋曇徽 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0356b03" to="0356b16">T50n2059, 0356b03–0356b16</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="5.10"><p>釋曇徽。河內人。<seg xml:id="s1qc-05_10-s001" ana="#Scholarship">年十二投道安出家。安尚其神彩且令讀書。二三年中學兼經史。十六方許剃髮。於是專務佛理鏡測幽凝。未及立年便能講說。</seg>雖志業高素而以恭推見重。<seg xml:id="s1qc-05_10-s002" ana="#Scholarship">後隨安在襄陽。符丕寇境。乃東下荊州止上明寺。每法輪一轉則黑白奔波。</seg>常顧解有所從。乃圖寫安形存念禮拜。於是江陵士女咸西向致敬印手菩薩。或問法師道化何如和上。徽曰。和上內行深淺未易可測。外緣所被多諸應驗在吾一渧寧比江海耶。以晉太元二十年卒。臨亡之日體無餘患。上堂同眾中食因而告別。食竟還房右脇而化。春秋七十三矣。<seg xml:id="s1qc-05_10-s003" ana="#Scholarship">著立本論九篇六識旨歸十二首。並行於世。</seg></p></div></body></text></TEI>

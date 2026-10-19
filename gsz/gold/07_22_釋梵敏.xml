@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_22" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.22 釋梵敏 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0372b20" to="0372b27">T50n2059, 0372b20–0372b27</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.22"><p>釋梵敏。姓李。河東人。<seg xml:id="s1qc-07_22-s001" ana="#Scholarship">少遊學關壟長歷彭泗。內外經書皆闇遊心曲。</seg><seg xml:id="s1qc-07_22-s002" ana="#Scholarship">晚憩丹陽頻建講說。謝莊張永劉虬呂道慧皆承風欣悅雅相歎重。</seg><seg xml:id="s1qc-07_22-s003" ana="#Scholarship">數講法華成實。又序要義百科略標綱網。故文止一卷。屬辭省詣見重當時。</seg>後卒於丹陽。春秋七十餘矣。時又有釋僧籥者。本上黨人。善涅槃經。為張暢所重。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-10_14" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 10.14 釋僧慧 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0393c03" to="0393c20">T50n2059, 0393c03–0393c20</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="10.14"><p>釋僧慧。姓劉。不知何許人。在荊州數十年。南陽劉立陟屺年請以居之。時人見之已五六十年。終亦不老。舉止趨爾無甚威儀。往至病人家。若瞋者必死。喜者必差。時咸以此為讖。凡未相識者。並悉其親表存亡。慧嘗至江邊告津吏求度。吏迫以舟小未及過之。須臾已見慧在彼。兩岸諸人咸歎神異。中山甄恬南平車曇。同日請慧。慧皆赴之。後兩家檢覆方知分身。齊永明中文慧要下京。行過保誌。誌撫背曰赤龍子。他無所言。慧後還荊。遇見鎮西長史劉景蕤。忽泣慟而投之數日。蕤果為刺史所害。後至湘州城南。忽云。地中有碑。眾人試掘。果得二枚。慧後不知所終。或云。永元中卒於江陵。時江陵長沙寺又有釋慧遠者。本沙門慧印之蒼頭也。印見其有信因為出家。仍行般舟之業數歲勤苦遂有神異。能分身赴請。及預記興亡等。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_24" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.24 釋慧詢 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0401a17" to="0401a23">T50n2059, 0401a17–0401a23</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.24"><p>釋慧詢。姓趙。趙郡人。<seg xml:id="s1qc-11_24-s001" ana="#Asceticism">少而蔬食苦行。</seg><seg xml:id="s1qc-11_24-s002" ana="#Scholarship">經遊長安受學什公。研精經論尤善十誦僧祇。乃更製條章義貫終古。</seg><seg xml:id="s1qc-11_24-s003" ana="#Scholarship">宋永初中還止廣陵大開律席。</seg>元嘉中至京止道場寺。寺僧慧觀亦精於十誦。以詢德為物範。乃令更振他寺。於是移止長樂寺。大明二年卒於所住。春秋八十有四矣。</p></div></body></text></TEI>

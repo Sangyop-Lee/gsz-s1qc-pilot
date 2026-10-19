@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_05" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.5 釋慧義 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0368c02" to="0369a04">T50n2059, 0368c02–0369a04</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.5"><p>釋慧義。姓梁。北地人。少出家。風格秀舉志業強正。<seg xml:id="s1qc-07_05-s001" ana="#Scholarship">初遊學於彭宋之間。備通經義。</seg>後出京師。迺說云。冀州有法稱道人。臨終語弟子普嚴云。嵩高靈神云。江東有劉將軍應受天命。吾以三十二璧鎮金一鉼為信。遂徹宋王。宋王謂義曰。非常之瑞亦須非常之人然後致之。若非法師自行恐無以獲也。義遂行。以晉義熙十三年七月往嵩高山。尋覓未得。便至心燒香行道。至七日夜夢見一長鬚老公。拄杖將義往璧處指示云。是此石下。義明便周行山中。見一處炳然如夢所見。即於廟所石壇下果得璧大小三十二枚黃金一鉼。此瑞詳之宋史。義後還京師。宋武加接尤重。迄乎踐祚禮遇彌深。宋永初元年車騎范泰立祇洹寺。以義德為物宗固請經始。義以泰清信之至。因為指授儀則。時人以義方身子泰比須達。故祇洹之稱厥號存焉。後西域名僧多投止此寺。或傳譯經典。或訓授禪法。宋元嘉初徐羡之檀道濟等專權朝政。泰有不平之色。嘗肆言罵之。羨等深憾。聞者皆憂。泰在不測。泰亦慮及於禍。迺問義安身之術。義曰。忠順不失以事其上。故上下能相親也。何慮之足憂。因勸泰以果竹園六十畝施寺。以為幽冥之祐。泰從之。終享其福。及泰薨。第三子晏謂義。昔承厥父之險。說求園地。追以為憾。遂奪而不與。義秉泰遺疏。紛糺紜紜彰於視聽。義迺移止烏衣。與慧叡同住。宋元嘉二十一年終於烏衣寺。春秋七十三矣。晏後少時而卒。晏弟曄。後染孔熙先謀逆。厥宗同潰。後祇洹寺又有釋僧叡。善三論。為宋文所重。</p></div></body></text></TEI>

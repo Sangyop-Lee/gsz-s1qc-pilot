@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-01_08" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 1.8 竺法護 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0326c02" to="0327a12">T50n2059, 0326c02–0327a12</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="1.8"><p>竺曇摩羅剎。此云法護。其先月支人。本姓支氏。世居燉煌郡。年八歲出家。事外國沙門竺高座為師。誦經日萬言。過目則能。<seg xml:id="s1qc-01_08-s001" ana="#Asceticism">天性純懿操行精苦。</seg><seg xml:id="s1qc-01_08-s002" ana="#Scholarship">篤志好學。萬里尋師。是以博覽六經遊心七籍。雖世務毀譽。未嘗介抱。</seg><seg xml:id="s1qc-01_08-s003" ana="#Scholarship">是時晉武之世。寺廟圖像雖崇京邑。而方等深經蘊在葱外。護乃慨然發憤。志弘大道。遂隨師至西域。遊歷諸國。外國異言三十六種。書亦如之。護皆遍學。貫綜詁訓。音義字體。無不備識。遂大齎梵經。還歸中夏。自燉煌至長安。沿路傳譯寫為晉文。所獲覽即正法華光讚等一百六十五部。孜孜所務。唯以弘通為業。終身寫譯勞不告勌。經法所以廣流中華者。護之力也。</seg>護以晉武之末。隱居深山。山有清澗。恒取澡漱。後有採薪者。穢其水側俄頃而燥。護乃徘徊歎曰。人之無德。遂使清泉輟流。水若永竭。真無以自給。正當移去耳。言訖而泉涌滿澗。其幽誠所感如此。故支遁為之像贊云。護公澄寂。道德淵美。微吟窮谷。枯泉漱水。邈矣護公。天挺弘懿。濯足流沙。領拔玄致。後立寺於長安青門外。精勤行道。於是德化遐布。聲蓋四遠。僧徒數千咸所宗事。及晉惠西奔關中擾亂百姓流移。護與門徒避地。東下至澠池。遘疾而卒。春秋七十有八。後孫綽製道賢論。以天竺七僧。方竹林七賢。以護匹山巨源。論云。護公德居物宗。巨源位登論道。二公風德高遠足為流輩矣。其見美後代如此。時有清信士聶承遠。明解有才篤志務法。護公出經多參正文句。超日明經初譯。頗多煩重。承遠刪正得今行二卷。其所詳定類皆如此。承遠有子道真。亦善梵學。此君父子比辭雅便。無累於古。又有竺法首陳士倫孫伯虎虞世雅等。皆共承護旨執筆詳校。安公云。護公所出。若審得此公手目。綱領必正。凡所譯經雖不辯妙婉顯。而宏達欣暢。特善無生。依慧不文。朴則近本。其見稱若此。護世居燉煌。而化道周給。時人咸謂燉煌菩薩也。</p></div></body></text></TEI>

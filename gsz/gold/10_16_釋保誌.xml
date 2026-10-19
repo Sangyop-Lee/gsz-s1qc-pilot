@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-10_16" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 10.16 釋保誌 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0394a15" to="0395a03">T50n2059, 0394a15–0395a03</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="10.16"><p>釋保誌。本姓朱。金城人。少出家止京師道林寺。師事沙門僧儉為和上修習禪業。<seg xml:id="s1qc-10_16-s001" ana="#Asceticism">至宋太始初忽如僻異。居止無定飲食無時。髮長數寸。常跣行街巷。執一錫杖。杖頭掛剪刀及鏡或掛一兩匹帛。</seg><seg xml:id="s1qc-10_16-s002" ana="#Asceticism">齊建元中稍見異迹。數日不食亦無飢容。與人言語始若難曉後皆効驗。時或賦詩言如讖記。京土士庶皆共事之。</seg>齊武帝謂其惑眾收駐建康。明旦人見其入市。還檢獄中誌猶在焉。誌語獄吏。門外有兩輿食來金鉢盛飯。汝可取之。既而齊文慧太子竟陵王子良並送食餉誌。果如其言。建康令呂文顯以事聞武帝帝即迎入居之後堂。一時屏除內宴。誌亦隨眾出。既而景陽山上猶有一誌與七僧俱。帝怒遣推檢失所在。問吏啟云。誌久出在省。方以墨塗其身。時僧正法獻欲以一衣遺誌。遣使於龍光罽賓二寺求之。並云。昨宿旦去。又至其常所造厲侯伯家尋之。伯云。誌昨在此行道旦眠未覺。使還以告獻。方知其分身三處宿焉。<seg xml:id="s1qc-10_16-s003" ana="#Asceticism">誌常盛冬祖行。沙門寶亮欲以衲衣遺之。未及發言。誌忽來引納而去。</seg>又時就人求生魚鱠。人為辦覓。致飽乃去。還視盆中魚游活如故。誌後假武帝神力。見高帝於地下。常受錐刀之苦。帝自是永廢錐刀。齊衛尉胡諧病請誌。誌往疏云明屈。明日竟不往。是日諧亡。載屍還宅。誌云。明屈者明日屍出也。齊太尉司馬殷齊之隨陳顯達鎮江州辭誌。誌畫紙作一樹。樹上有烏。語云。急時可登此。後顯達逆。即留齊之鎮州。及敗齊之叛入廬山。追騎將及。齊之見林中有一樹。樹上有烏。如誌所畫。悟而登之。烏竟不飛。追者見烏謂無人而反。卒以見免。齊屯騎桑偃將欲謀反。往詣誌。誌遙見而走。大呼云。圍臺城欲反逆斫頭破腹。後未旬事發。偃叛往朱方。為人所得。果斫頭破腹。梁鄱陽忠烈王嘗屈誌來第。會忽令覓荊子甚急。既得安之門上莫測所以。少時王便出為荊州刺史。其預鑒之明此類非一。誌多去來興皇淨名兩寺。及今上龍興甚見崇禮。先是齊時多禁誌出入。今上即位下詔曰。誌公迹拘塵垢神遊冥寂。水火不能燋濡。蛇虎不能侵懼。語其佛理則聲聞以上。談其隱倫則遁仙高者。豈得以俗士常情空相拘制。何其鄙狹一至於此。自今行道來往隨意出入勿得復禁。誌自是多出入禁內。天監五年冬旱。雩祭備至而未降雨。誌忽上啟云。誌病不差就官乞治。若不啟百官應得鞭杖。願於華光殿講勝鬘請雨。上即使沙門法雲講勝鬘。講竟夜便大雪。誌又云。須一盆水加刀其上。俄而雨大降高下皆足。上嘗問誌云。弟子煩惑未除。何以治之。答云。十二識者。以為十二因緣。治惑藥也。又問十二之旨。答云。旨在書字時節刻漏中。識者以為書之在十二時中。又問。弟子何時得靜心修習。答云。安樂禁。識者以為禁者止也。至安樂時乃止耳。後法雲於華林寺講法華。至假使黑風。誌忽問風之有無。答云。世諦故有。第一義則無也。誌往復三四番。便笑云。若體是假有此亦不可解難可解。其辭旨隱沒類皆如此。有陳御虜者。舉家事誌甚篤。誌嘗為其現真形。光相如菩薩像焉。誌知名顯奇四十餘載。士女恭事者數不可稱。至天監十三年冬。於臺後堂謂人曰。菩薩將去。未及旬日無疾而終。屍骸香軟形貌熙悅。臨亡然一燭以付後閣舍人吳慶。慶即啟聞。上歎曰。大師不復留矣。燭者將以後事屬我乎。因厚加殯送葬于鍾山獨龍之阜。仍於墓所立開善精舍。勅陸倕製銘辭於塚內。王筠勒碑文於寺門。傳其遺像處處存焉。初誌顯迹之始。年可五六十許。而終亦不老。人咸莫測其年。有徐捷道者。居于京師九日臺北。自言是誌外舅弟。小誌四年。計誌亡時應年九十七矣。時梁初蜀中又有道香僧朗。亦並有神力云。</p></div></body></text></TEI>

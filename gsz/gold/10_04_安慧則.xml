@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-10_04" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 10.4 安慧則 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0389b09" to="0389b22">T50n2059, 0389b09–0389b22</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="10.4"><p>安慧則。未詳氏族。少無恒性卓越異人而工正書善談吐。晉永嘉中天下疫病。則晝夜祈誠。願天神降藥以愈萬民。一日出寺門見兩石形如甕。則疑是異物。取看之。果有神水在內。病者飲服莫不皆愈。後止洛陽大市寺。手自細書黃縑寫大品經一部。合為一卷。字如小豆。而分明可識。凡十餘本。以一本與汝南周仲智妻胡母氏供養。胡母過江齎經自隨。後為災火所延。倉卒不暇取經。悲泣懊惱。火息後乃於灰中得之。首軸顏色一無虧損。于時同見聞者莫不迴邪改信。此經今在京師簡靖寺首尼處。時洛陽又有康慧持者。亦神異通靈云。</p></div></body></text></TEI>

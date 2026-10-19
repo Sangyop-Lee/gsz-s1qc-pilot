@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-10_03" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 10.3 竺法慧 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0389a17" to="0389b08">T50n2059, 0389a17–0389b08</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="10.3"><p>竺法慧。本關中人。方直有戒行。入嵩高山事浮圖密為師。晉康帝建元元年。至襄陽止羊叔子寺。<seg xml:id="s1qc-10_03-s001" ana="#Asceticism">不受別請。每乞食</seg><anchor type="division" resp="#SLee"/>輒齎繩床。自隨於閑曠之路則施之而坐。時或遇雨以油帔自覆。雨止唯見繩床。不知慧所在。訊問未息慧已在床。每語弟子法照曰。汝過去時折一鷄脚其殃尋至。俄而照為人所擲。脚遂永疾。後語弟子云。新野有一老公當命過。吾欲度之。仍行於畦畔之間。果見一公將牛耕田。慧從公乞牛。公不與。慧前自捉牛鼻。公懼其異遂以施之。慧牽牛呪願。七步而反以牛還公。公少日而亡。後征西庾稚恭鎮襄陽。既素不奉法。聞慧有非常之迹甚嫉之。慧預告弟子曰。吾宿對尋至。誡勸眷屬令懃修福善。爾後二日果收而刑之。春秋五十八矣。臨死語眾人云。吾死後三日天當暴雨。至期果洪注城門水深一丈。居民漂沒多有死者。時有范材者。巴西閬中人。初為沙門賣卜于河東市。徒跣弊衣冬夏一服。言事亦頗時有驗。後遂退道染俗。習張陵之教云。</p></div></body></text></TEI>

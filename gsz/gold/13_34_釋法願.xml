@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_34" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.34 釋法願 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0416c26" to="0417b21">T50n2059, 0416c26–0417b21</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.34"><p>釋法願。本姓鍾。名武厲。先頴川長社人。祖世避難移居吳興長城。願常為梅根冶監。有施慎民來代之。先時文書未校慎民．遂偏。當其負願乃訴求分罪。有旨免慎民死。除願為新道令。家本事神身習鼓舞。世間雜技及耆父占相。皆備盡其妙。嘗以鏡照面云。我不久當見天子。於是出都住沈橋。以庸相自業。宗殼沈慶微時經請願相。願曰。宗君應為三州刺史。沈君當位極三公。如是歷相眾人。記其近事所驗非一。遂有聞於宋太祖。太祖見之。取東冶囚及一奴美顏色者。飾以衣冠令願相之。願指囚曰。君多危難下階便應著鎖。謂奴曰。君是下賤人。乃暫得免耶。帝異之。即勅住後堂知陰陽祕術。後少時啟求出家。三啟方遂。為上定林遠公弟子。及孝武龍飛宗殼出鎮廣州。携願同往。奉為五戒之師。會譙王構逆羽檄嶺南。殼以諮願。願曰。隨君來誤殺人。今太白犯南斗。法應殺大臣。宜速改計必得大勳。果如願言。殼遷豫州刺史。復携同行。及竟陵王誕舉事。願陳諫亦然。<seg xml:id="s1qc-13_34-s001" ana="#Asceticism">願後與刺史共欲減眾僧床脚令依八指之制。時沙門僧導獨步江西。謂願濫匡其士。頗有不平之色。遂致聞孝武。即勅願還都。帝問願。何詐菜食。願答。菜食已來十餘年。帝勅直閤沈攸之。強逼以肉。遂折前兩齒不迴其操。帝大怒。勅罷道作廣武將軍直華林佛殿。願雖形同俗人。而栖心禪戒未嘗虧節。有頃帝崩。昭太后令聽還道</seg><anchor type="division" resp="#SLee"/>太始六年佼長生捨宅為寺。名曰正勝。請願居之。齊高親事幼主。恒有不測之憂。每以諮願。願曰。後七月當定。果如其言。及高帝即位。事以師禮。武帝嗣興亦盡師敬。永明二年願遭兄喪。啟乞還鄉。至鄉少時勅旨重疊。願後出憩在湘宮。鑾駕自幸降寺省慰。願云。脚疾未消不堪相見。帝乃轉蹕而去。文惠太子嘗往寺問訊。願既不命令坐。文惠作禮而立。乃謂願曰。葆吹清鐃以為供養。其福云何。願曰。昔菩薩八萬伎樂供養佛。尚不如至心。今吹竹管子打死牛皮。此何足道。其秉德邁時皆此之類。其王侯妃主及四遠士庶。並從受戒悉遵師禮。願往必直前無有通白。感致隨喜日盈萬計。願隨以修福未嘗蓄聚。或雇人禮佛。或借人持齋。或收糴米穀散飴魚鳥。或貿易飲食賬給囚徒。興功立德數不可紀。願又善唱導。及依經說法率自心抱。無事宮商。言語訛雜。唯以適機為要。可謂其智可及其愚不可及也。後入定三日不食。忽語弟子云。汝等失飯籮矣。俄而寢疾。時寺側遭燒寺在下風。煙焰必及。弟子欲輿願出寺。願曰。佛若被燒我何用活。即苦心歸命。於是三面皆焚。唯寺不燼。齊永元二年年八十七卒。</p></div></body></text></TEI>

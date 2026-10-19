@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_23" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.23 釋僧業 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0401a01" to="0401a15">T50n2059, 0401a01–0401a15</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.23"><p>釋僧業。姓王。河內人。<seg xml:id="s1qc-11_23-s001" ana="#Scholarship">幼而聰悟。博涉眾典。</seg><seg xml:id="s1qc-11_23-s002" ana="#Scholarship">後遊長安從什公受業。見新出十誦遂專功此部。俊發天然洞盡深奧。什歎曰。後世之優波離也。</seg>值關中多難避地京師。吳國張邵挹其貞素。乃請還姑蘇。為造閑居寺。地勢清曠環帶長川。<seg xml:id="s1qc-11_23-s003" ana="#Scholarship">業居宗秉化訓誘無輟。三吳學士輻湊肩聯。</seg>又以講導餘隙屬意禪門。每一端坐輒有異香充塞房內。近業坐者咸所共聞。莫不嗟其神異。<seg xml:id="s1qc-11_23-s004" ana="#Scholarship">昔什公在關。未出十誦。乃先譯戒本。及流支入秦。方傳大部。故戒心之與大本其意正同。在言或異。業乃改正一依大本。今之傳誦二本並行。</seg>業以元嘉十八年。卒於吳中。春秋七十有五。業弟子慧光。襲業風軌。亦數當講說。</p></div></body></text></TEI>

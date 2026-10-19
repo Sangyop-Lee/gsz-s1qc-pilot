@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_26" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.26 釋道照 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0415c14" to="0415c23">T50n2059, 0415c14–0415c23</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.26"><p>釋道照。姓麴。平西人。<seg xml:id="s1qc-13_26-s001" ana="#Scholarship">少善尺牘兼博經史。</seg>十八出家。止京師祇洹寺。<seg xml:id="s1qc-13_26-s002" ana="#Scholarship">披覽群典以宣唱為業。音吐寥亮洗悟塵心。指事適時言不孤發。獨步於宋代之初。</seg>宋武帝嘗於內殿齋。照初夜略敘。百年迅速遷滅俄頃苦樂參差必由因召。如來慈應六道。陛下撫矜一切。帝言善。久之齋竟。別嚫三萬。臨川王道規從受五戒。奉為門師。宋元嘉三十年卒。年六十六。照弟子慧明。姓焦。魏郡人。神情俊邁祖習師風。亦有名當世。</p></div></body></text></TEI>

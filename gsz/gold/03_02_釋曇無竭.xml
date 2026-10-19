@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-03_02" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 3.2 釋曇無竭 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0338b26" to="0339a02">T50n2059, 0338b26–0339a02</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="3.2"><p>釋曇無竭。此云法勇。姓李。幽州黃龍人也。<seg xml:id="s1qc-03_02-s001" ana="#Asceticism">幼為沙彌便修苦行。</seg>持戒誦經。為師僧所重。嘗聞法顯等躬踐佛國。乃慨然有忘身之誓。遂以宋永初元年招集同志沙門僧猛曇朗之徒二十五人。共齎幡蓋供養之具。發跡北土遠適西方。初至河南國。仍出海西郡。進入流沙到高昌郡。經歷龜茲沙勒諸國。登葱嶺度雪山。障氣千重層氷萬里。下有大江流急若箭。於東西兩山之脇繫索為橋。十人一過到彼岸已舉煙為幟。後人見煙。知前已度方得更進。若久不見煙則知暴風吹索人墮江中。行經三日復過大雪山。懸崖壁立無安足處。石壁皆有故杙孔處處相對。人各執四杙先拔下杙手攀上杙展轉相攀。經日方過及到平地相待料檢。同侶失十二人。進至罽賓國禮拜佛鉢。<seg xml:id="s1qc-03_02-s002" ana="#Scholarship">停歲餘。學梵書梵語。求得觀世音受記經梵文一部。</seg>復西行至辛頭那提河。漢言師子。曰緣河西入月氏國。禮拜佛肉髻骨及覩自沸木舫。後至檀特山南石留寺。住僧三百餘人。雜三乘學。無竭停此寺受大戒。天竺禪師佛馱多羅。此云覺救。彼土咸云。已證果。無竭請為和上。漢沙門志定為阿闍梨。停夏坐三月日。復行向中天竺。界路既空曠唯齎石蜜為糧。同侶尚有十三人。八人於路並化。餘五人同行。無竭雖屢經危棘。而繫念所齎觀世音經未嘗暫廢。將至舍衛國。野中逢山象一群。無竭稱名歸命。即有師子從林中出。象驚惶奔走。後渡恒河。復值野牛一群鳴吼而來。將欲害人。無竭歸命如初。尋有大鷲飛來野牛驚散。遂得免之。其誠心所感在險剋濟。皆此類也。後於南天竺隨舶汎海達廣州。所歷事跡別有記傳。<seg xml:id="s1qc-03_02-s003" ana="#Scholarship">其所譯出觀世音受記經。今傳于京師。</seg>後不知所終。</p></div></body></text></TEI>

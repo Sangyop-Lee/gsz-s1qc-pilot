@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_12" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.12 釋慧安 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0370a19" to="0370a28">T50n2059, 0370a19–0370a28</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.12"><p>釋慧安。未詳是何人。<seg xml:id="s1qc-07_12-s001" ana="#Asceticism">蔬食精苦。</seg><seg xml:id="s1qc-07_12-s002" ana="#Scholarship">學通經義兼能善說。</seg>又以專戒見稱。誦經四十餘萬言。止廬山陵雲寺。<seg xml:id="s1qc-07_12-s003" ana="#Scholarship">學徒雲聚千里從風。</seg>常捉一杖云。是西域僧所施。杖光色灼徹亦頗有香氣。上有梵書人莫能識。後入關詣羅什捉杖自隨。什見杖驚曰。此杖迺在此間耶。因譯其字云。本生天竺娑羅林。南方喪亂草付興後得羅什道教隆。安後以杖嚫外國僧波沙那。那齎還西域。安以宋元嘉中卒於山寺。</p></div></body></text></TEI>

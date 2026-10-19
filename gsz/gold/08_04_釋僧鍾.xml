@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_04" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.4 釋僧鍾 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0375c13" to="0375c27">T50n2059, 0375c13–0375c27</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.4"><p>釋僧鍾。姓孫。魯郡人。十六出家。居貧履道。<seg xml:id="s1qc-08_04-s001" ana="#Scholarship">嘗至壽春。導公見而奇之。譙郡王鄴重其志操供以四事。後請講百論。導往聽之。迺謂人曰。後生可畏真不虛矣。</seg><seg xml:id="s1qc-08_04-s002" ana="#Scholarship">鍾妙善成實三論涅槃十地等。</seg>後南遊京邑止于中興寺。永明初魏使李道固來聘會于寺內。帝以鍾有德聲勅令酬對。往復移時言無失厝日影小晚。鍾不食。固曰。何以不食。鍾曰。古佛道法過中不飡。固曰。何為聲聞耶。鍾曰。應以聲聞得度者故現聲聞。時人以為名答。<seg xml:id="s1qc-08_04-s003" ana="#Scholarship">爾後盤桓講說稟聽成群。</seg>齊文惠太子竟陵文宣王數請南面。齊永明七年卒。春秋六十。時與鍾齊名比德者。曇纖曇遷僧表僧最敏達僧寶等。並各善經論。悉為文宣所敬。迭興講席矣。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_16" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.16 釋曇諦 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0370c24" to="0371a16">T50n2059, 0370c24–0371a16</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.16"><p>釋曇諦。姓康。其先康居人。漢靈帝時移附中國。獻帝末亂移止吳興。諦父肜嘗為冀州別駕。母黃氏晝寢。夢見一僧呼黃為母。寄一麈尾并鐵鏤書鎮二枚。眠覺見兩物具存。因而懷孕生諦。諦年五歲母以麈尾等示之。諦曰。秦王所餉。母曰。汝置何處。答云不憶。至年十歲出家。學不從師悟自天發。後隨父之樊鄧。遇見關中僧䂮道人。忽喚䂮名。䂮曰。童子何以呼宿老名。諦曰。向者忽言。阿上是諦沙彌。為眾僧採菜被野猪所傷。不覺失聲耳。䂮經為弘覺法師弟子。為僧採菜被野猪所傷。䂮初不憶此。迺詣諦父。諦父具說本末。并示書鎮麈尾等。䂮迺悟而泣曰。即先師弘覺法師也。師經為姚萇講法華。貧道為都講。姚萇餉師二物。今遂在此。追計弘覺捨命。正是寄物之日。復憶採菜之事彌深悲仰。<seg xml:id="s1qc-07_16-s001" ana="#Scholarship">諦後遊覽經籍遇目斯記。</seg>晚入吳虎丘寺。<seg xml:id="s1qc-07_16-s002" ana="#Scholarship">講禮易春秋各七遍。法華大品維摩各十五遍。</seg><seg xml:id="s1qc-07_16-s003" ana="#Scholarship">又善屬文翰。集有六卷。亦行於世。</seg>性愛林泉。後還吳興。入故章崐崙山。閑居澗飲二十餘載。以宋元嘉末卒於山舍。春秋六十餘。</p></div></body></text></TEI>

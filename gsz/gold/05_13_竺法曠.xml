@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-05_13" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 5.13 竺法曠 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0356c07" to="0357a07">T50n2059, 0356c07–0357a07</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="5.13"><p>竺法曠。姓睪。下邳人。寓居吳興早失二親。事後母以孝聞。家貧無蓄。常躬耕壟畔以供色養。及母亡行喪盡禮。服闋出家。事沙門竺曇印為師。印明叡有道行。曠師事竭誠。迄受具戒。棲風立操卓爾殊群。履素安業志行淵深。印嘗疾病危篤。曠乃七日七夜祈誠禮懺。至第七日忽見五色光明照印房戶。印如覺有人以手按之。所苦遂愈。<seg xml:id="s1qc-05_13-s001" ana="#Scholarship">後辭師遠遊。廣尋經要。</seg>還止於潛青山石室。<seg xml:id="s1qc-05_13-s002" ana="#Scholarship">每以法華為會三之旨。無量壽為淨土之因。常吟詠二部。有眾則講。獨處則誦。</seg>謝安為吳興。故往展敬。而山棲幽阻車不通轍。於是解駕山椒陵峯步往。晉簡文皇帝遣堂邑太守曲安遠詔問起居。并諮以妖星請曠為力。曠答詔曰。昔宋景修福妖星移次。陛下光輔以來政刑允輯。天下任重萬機事殷。失之毫氂差以千里。唯當勤修德政以賽天譴。貧道必當盡誠上答。正恐有心無力耳。乃與弟子齋懺。有頃災滅。晉興寧中東遊禹穴觀矚山水。始投若耶之孤潭。欲依巖傍嶺棲閑養志。郄超謝慶緒並結居塵外。時東土多遇疫疾。曠既少習慈悲兼善神呪。遂遊行村里拯救危急。乃出邑止昌原寺。百姓疾者多祈之致効。有見鬼者。言曠之行住常有鬼神數十衛其前後。時沙門竺道隣造無量壽像。曠乃率其有緣。起立大殿相傳云。伐木遇旱。曠呪令至水<anchor type="division" resp="#SLee"/>晉孝武帝欽承風聞要請出京事以師禮。止于長干寺。元興元年卒。春秋七十有六。散騎常侍顧愷之為作贊傳云。</p></div></body></text></TEI>

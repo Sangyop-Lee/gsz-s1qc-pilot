@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_27" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.27 釋僧隱 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0401b19" to="0401c04">T50n2059, 0401b19–0401c04</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.27"><p>釋僧隱。姓李。秦州隴西人。家世正信。<seg xml:id="s1qc-11_27-s001" ana="#Asceticism">隱年八歲出家便能長齋。至十二蔬食。</seg>及受具戒執操彌堅。<seg xml:id="s1qc-11_27-s002" ana="#Scholarship">常遊心律苑妙通十誦。</seg>誦法華維摩。<seg xml:id="s1qc-11_27-s003" ana="#Scholarship">聞西涼州有玄高法師禪慧兼舉。乃負笈從之。於是學盡禪門深解律要。</seg>高公化後。復西遊巴蜀專任弘通。<seg xml:id="s1qc-11_27-s004" ana="#Scholarship">頃之東下止江陵琵琶寺。諮業於慧徹。徹名重當時。道扇方外。隱研訪少時。備窮經律。禪慧之風被於荊楚。州將山陽王劉休祐及長史張岱。並諮稟戒法。</seg>後刺史巴陵王休若及建平王景素。皆稅駕禪房屈膝恭禮。後臥疾少時。問侍者。日中未。答云。已中。乃索水漱口。顏貌怡然忽爾從化。春秋八十矣。時江陵上明寺復有成具律師。亦善十誦及雜心毘曇等。</p></div></body></text></TEI>

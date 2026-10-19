@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_15" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.15 釋僧徹 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0370c03" to="0370c23">T50n2059, 0370c03–0370c23</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.15"><p>釋僧徹。姓王。本太原晉陽人。少孤兄弟二人寓居襄陽。徹年十六入廬山造遠公。遠見而異之。問曰。寧有出家意耶。對曰。遠塵離俗固其本心。繩墨鎔鈞更唯匠者。遠曰。君能入道當得無畏法門。於是投簪委質從遠受業。<seg xml:id="s1qc-07_15-s001" ana="#Scholarship">遍學眾經尤精波若。又以問道之暇亦厝懷篇牘。至若一賦一詠輒落筆成章。</seg>嘗至山南攀松而嘯。於是清風遠集眾鳥和鳴。超然有勝氣。退還諮遠。律制管絃戒絕歌舞。一吟一嘯可得為乎。遠曰。以散亂言之皆為違法。由是迺止。<seg xml:id="s1qc-07_15-s002" ana="#Scholarship">至年二十四遠令講小品。時輩未之許。及登座詞旨明析。聽者無以折其鋒。遠謂之曰。向者勍敵並無遺力。汝城隍嚴固攻者喪師。反軫能爾。良為未易。由是門人推服焉。</seg>遠亡後南遊荊州止江陵城內五層寺。晚移琵琶寺。彭城王義康儀同蕭思話等。並從受戒法。筵請設齋。窮自下饌。宋元嘉二十九年卒。春秋七十。刺史南譙王劉義宣為造墳壙。時荊州上明有釋僧莊者。亦善涅槃及數論。宋孝武初被勅下都。稱疾不赴。</p></div></body></text></TEI>

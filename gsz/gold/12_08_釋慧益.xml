@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_08" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.8 釋慧益 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0405b02" to="0405c01">T50n2059, 0405b02–0405c01</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.8"><p>釋慧益。廣陵人。少出家隨師止壽春。宋孝建中出都憩竹林寺。<seg xml:id="s1qc-12_08-s001" ana="#Asceticism">精勤苦行</seg><anchor type="division" resp="#SLee"/>誓欲燒身。眾人聞者或毀或讚。至大明四年始就却粒唯餌麻麥。到六年又絕麥等。但食蘇油。有頃又斷蘇油唯服香丸。雖四大綿微而神情警正。孝武深加敬異致問慇懃。遣太宰江夏王義恭詣寺諫益。益誓志無改。至大明七年四月八日將就焚燒。迺於鍾山之南置鑊辦油。其日朝乘牛車而以人牽。自寺之山。以帝王是兆民所憑又三寶所寄。乃自力入臺至雲龍門不能步下。令人啟聞。慧益道人今捨身詣門奉辭。深以佛法仰累帝聞改容。即躬出雲龍門。益既見帝。重以佛法憑囑。於是辭去。帝亦續至。諸王妃后道俗士庶填滿山谷。投衣棄寶不可勝計。益乃入鑊據一小床以衣具自纏。上加一長帽以油灌之。將就著火。帝令太宰至鑊所請喻曰。道行多方何必殞命。幸願三思更就異途。益雅志確然曾無悔念。迺答曰。微軀賤命何足上留天心聖慈罔已者。願度二十人出家。降勅即許。益迺手自執燭以然帽。帽然迺棄燭合掌誦藥王品。火至眉誦聲猶分明。及眼乃昧。貴賤哀嗟響振幽谷。莫不彈指稱佛惆悵淚下。火至明旦迺盡。帝於時聞空中笳管異香芬苾。帝盡日方還宮。夜夢見益振錫而至。更囑以佛法。明日帝為設會度人。令齋主唱白具序徵祥。燒身之處謂藥王寺以擬本事也。</p></div></body></text></TEI>

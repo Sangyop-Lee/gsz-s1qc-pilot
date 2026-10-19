@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-05_15" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 5.15 釋慧虔 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0357b23" to="0357c09">T50n2059, 0357b23–0357c09</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="5.15"><p>釋慧虔。姓皇甫。北地人也。少出家奉持戒行志操確然。憩廬山中十有餘年。道俗有業志勝途者莫不屬慕風彩。羅什新出諸經。虔志存敷顯宣揚德教。以遠公在山足紐振玄風。虔乃東遊吳越囑地弘通。<seg xml:id="s1qc-05_15-s001" ana="#Scholarship #Asceticism">以晉義熙之初。投山陰嘉祥寺剋己導物。苦身率眾。凡諸新經皆書寫講說。</seg>涉將五載。忽然得病寢疾。少時自知必盡。乃屬想安養祈誠觀世音。山陰比寺有淨嚴尼。宿德有戒行。夜夢見觀世音從西郭門入。清暉妙狀光映日月。幢幡華蓋皆以七寶莊嚴。見便作禮。問曰。不審大士今何所之。答云。往嘉祥寺迎虔公。因爾無常。當時疾雖綿篤而神色平平有如恒日。侍者咸聞異香。久之乃歇。虔既自審必終。又覩瑞相。道俗聞見咸生歎羡焉。</p></div></body></text></TEI>

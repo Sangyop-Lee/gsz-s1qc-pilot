@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-09_02" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 9.2 單道開 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0387b02" to="0387c14">T50n2059, 0387b02–0387c14</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="9.2"><p>單道開。姓孟。燉煌人。少懷栖隱。誦經四十餘萬言。<seg xml:id="s1qc-09_02-s001" ana="#Asceticism">絕穀餌栢實。栢實難得復服松脂。後服細石子。一吞數枚數日一服。或時多少噉薑椒。如此七年。後不畏寒暑冬溫夏涼。晝夜不臥。與同學十人共契服食。十年之外或死或退。唯開全志。</seg>阜陵太守遣馬迎開。開辭能步行三百里路。一日早至山樹。神或現異形試之。初無懼色。以石虎建武十二年從西平來。一日行七百里。至南安度一童子為沙彌。年十四。稟受教法行能及開。時太史奏虎云。有仙人星見。當有高士入境。虎普勅州郡。有異人令啟聞。其年冬十一月。秦州刺史上表送開。初止鄴城西法綝祠中。後徙臨漳昭德寺。於房內造重閣。高八九尺許。於上編菅為禪室。如十斛籮大。常坐其中。虎資給甚厚。開皆以惠施。時樂仙者多來諮問。開都不答。迺為說偈云。我矜一切苦。出家為利世。利世須學明。學明能斷惡。山遠糧粒難。作斯斷食計。非是求仙侶。幸勿相傳說。開能救眼疾。時秦公石韜就開治目。著藥小痛韜甚憚之。而終得其効。佛圖澄曰。此道士觀國興衰。若去者當有大災。至石虎太寧元年。開與弟子。南度許昌。虎子姪相殺鄴都大亂。至晉昇平三年。來之建業。俄而至南海。後入羅浮山。獨處茅茨蕭然物外。春秋百餘歲卒于山舍。勅弟子以屍置石穴中。弟子迺移之石室。有康泓者。昔在北間聞開弟子敘開昔在山中每有神仙去來。迺遙心敬挹。及後從役南海。親與相見。側席鑽仰。稟聞備至。迺為之傳讚曰。蕭哉若人飄然絕塵外軌小乘內暢空身玄象暉曜高步是臻飡茹芝英流浪巖津<anchor type="division" resp="#SLee"/>晉興寧元年陳郡袁宏為南海太守。與弟頴叔及沙門支法防共登羅浮山。至石室口。見開形骸。及香火瓦器猶存。宏曰。法師業行殊群正當如蟬蛻耳。迺為讚曰。物俊招奇德不孤立遼遼幽人望巖凱入飄飄靈仙茲焉遊集遺屣在林千載一襲<anchor type="division" resp="#SLee"/>後沙門僧景道漸。並欲登羅浮。竟不至頂。</p></div></body></text></TEI>

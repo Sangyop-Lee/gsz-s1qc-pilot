@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_08" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.8 釋法瑗 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0376c01" to="0377a02">T50n2059, 0376c01–0377a02</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.8"><p>釋法瑗。姓辛。隴西人。辛毘之後。長兄源明仕偽魏為大尚書。第二兄法愛亦為沙門。解經論兼數術為芮芮國師。俸以三千戶。瑗幼而闊達倜儻殊群。路見貧寒輒脫衣為惠。初出家事梁州沙門竺慧開。開懿德通神。時人謂得初果。<seg xml:id="s1qc-08_08-s001" ana="#Scholarship">開謂瑗曰。汝情悟若此必能綱總末化。宜競力博聞無得獨善。於是辭開遊學。經涉燕趙去來鄴洛。值胡寇縱橫關隴鼎沸。瑗冐險履危學業無怠。</seg>元嘉十五年還梁州。因進成都。<seg xml:id="s1qc-08_08-s002" ana="#Scholarship">後東適建鄴依道場慧觀為師。篤志大乘傍尋數論。外典墳素頗亦披覽。</seg>後入廬山守靜味禪。澄思五門遊心三觀。<seg xml:id="s1qc-08_08-s003" ana="#Scholarship">頃之刺史庾登之請出山講說。</seg><seg xml:id="s1qc-08_08-s004" ana="#Scholarship">後文帝訪覓述生公頓悟義者。迺勅下都。使頓悟之旨重申宋代。何尚之聞而歎曰。常謂生公歿後微言永絕。今日復聞象外之談。可謂天未喪斯文也。帝勅為南平穆王鑠五戒師。及孝武即位。勅為西陽王子尚友。辭疾不堪。久之獲免。</seg><seg xml:id="s1qc-08_08-s005" ana="#Scholarship">因廬于方山。注勝鬘及微密持經。論議之隙時談孝經喪服。</seg>後天保改構請瑗居之。因辭山出邑綱維寺網。<seg xml:id="s1qc-08_08-s006" ana="#Scholarship">刺史王景文往侯。正值講喪服。問論數番稱善而退。</seg><seg xml:id="s1qc-08_08-s007" ana="#Scholarship">及明帝造湘宮新成。大開講肆妙選英僧。勅請瑗充當法主。帝乃降蹕法筵。公卿會座。一時之盛觀者榮之。</seg>後齊文惠又請居靈根。因移彼寺。太尉王儉門無雜交。唯待瑗若師。書語盡敬。以齊永明七年卒。春秋八十一矣。時靈根寺又有法常智興。並博通經論數當講說。常迺尤能劇談。為時匠所憚。而性甚剛梗。不偶人俗。</p></div></body></text></TEI>

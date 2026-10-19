@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_20" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.20 釋法愍 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0372a24" to="0372b07">T50n2059, 0372a24–0372b07</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.20"><p>釋法愍。北人。<seg xml:id="s1qc-07_20-s001" ana="#Scholarship">弱年慕道篤志經籍。十八出家。便遊踐州國觀風味道。波若數論及諸經律皆所遊刃。</seg>後憩江夏郡五層寺。時沙門僧昌於江陵城內立塔。刺史謝晦欲壞之。愍聞故往諫晦。晦意不止。愍於是隱迹於長沙麓山。終身不出。晦迺率儀至寺厚賜酒肉。嚴鼓振威。斬斫形像。俄而雲霧暗天風塵四起。晦驚懼而走。後以叛逆誅滅。隊人丁法成史僧雙見身癩病。餘多犯法而死。<seg xml:id="s1qc-07_20-s002" ana="#Scholarship">愍迺著顯驗論以明因果。并注大道地經。</seg>後卒於山中。春秋八十有三。弟子僧道立碑頌德。時始興郡靈化寺有比丘僧宗。亦博涉經論。著法性覺性二論云。</p></div></body></text></TEI>

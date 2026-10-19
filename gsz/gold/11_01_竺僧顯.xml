@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_01" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.1 竺僧顯 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0395b24" to="0395c04">T50n2059, 0395b24–0395c04</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.1"><p>竺僧顯。本姓傅氏。北地人。<seg xml:id="s1qc-11_01-s001" ana="#Asceticism">貞苦善戒節。蔬食誦經業禪為務。</seg><seg xml:id="s1qc-11_01-s002" ana="#Asceticism">常獨處山林頭陀人外。或時數日入禪亦無飢色。</seg>時劉曜寇蕩西京朝野崩亂。顯以晉太興之末。南逗江左。復歷名山修己恒業。後遇疾綿篤。乃屬想西方心甚苦至。見無量壽佛降以真容光照其身。所苦都愈是夕便起澡浴。為同住及侍疾者說己所見。并陳誡因果。辭甚精析。至明清晨平坐而化。室內有殊香。旬餘乃歇。</p></div></body></text></TEI>

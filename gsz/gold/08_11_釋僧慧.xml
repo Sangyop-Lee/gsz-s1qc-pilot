@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_11" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.11 釋僧慧 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0378b17" to="0378c03">T50n2059, 0378b17–0378c03</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.11"><p>釋僧慧。姓皇甫。本安定朝那人。高士謐之苗裔。先人避難寓居襄陽。世為冠族。慧少出家。止荊州竹林寺事曇順為師。順廬山慧遠弟子。素有高譽。<seg xml:id="s1qc-08_11-s001" ana="#Scholarship">慧伏膺以後專心義學。</seg><seg xml:id="s1qc-08_11-s002" ana="#Scholarship">至年二十五能講涅槃法華十住淨名雜心等。性強記不煩都講。而文句辯折宣暢如流。又善莊老為西學所師。</seg>與高士南陽宗炳劉虬等。並皆友善。炳每歎曰。西夏法輪不絕者其在慧公乎。吳國張暢經遊西土。迺造慧而請交焉。齊初刺為荊州僧主。風韻秀然協道匡世。補益之功有譽遐邇。<seg xml:id="s1qc-08_11-s003" ana="#Scholarship">年衰常乘輿赴講。觀者號為禿頭官家。</seg>與玄暢同時。時謂黑衣二傑。齊永明四年卒。春秋七十有九。後有釋慧敞者。亦志素貞正。代慧為僧主。續有功効焉。慧弟子僧岫。亦以學顯。力精致血疾而終。</p></div></body></text></TEI>

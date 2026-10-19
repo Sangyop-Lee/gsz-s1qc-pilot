@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_27" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.27 釋曇頴 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0415c24" to="0416a08">T50n2059, 0415c24–0416a08</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.27"><p>釋曇頴。會稽人。少出家謹於戒行。誦經十餘萬言。止長干寺。性恭儉唯以善誘為先。故屬意宣唱天然獨絕。凡要請者皆貴賤均赴貧富一揆。張暢聞而歎曰。辭吐流便足騰遠理。頴嘗患癬瘡積治不除。房內恒供養一觀世音像。晨夕禮拜求差此疾。異時忽見一蛇從像後緣壁上屋。須臾有一鼠子從屋脫地。涎涶沐身狀如已死。頴候之猶似可活。即取竹刮除涎涶。又聞蛇所吞鼠能療瘡疾。即刮取涎涶以傅癬上。所傅既遍鼠亦還活。信宿之間瘡痍頓盡。方悟蛇之與鼠皆是祈請所致。於是精勤化導勵節彌堅。宋太宰江夏王義恭最所知重。後卒於所住。年八十一。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_13" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.13 釋法相 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0406c08" to="0406c20">T50n2059, 0406c08–0406c20</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.13"><p>釋法相。姓梁。不測何人。<seg xml:id="s1qc-12_13-s001" ana="#Asceticism">常山居精苦。誦經十餘萬言。鳥獸集其左右皆馴若家禽。</seg>太山祠有大石函貯財寶。相時山行宿于廟側。忽見一人玄衣武冠。令相開函言絕不見。其函石蓋重過千鈞。相試提之飄然而起。於是取其財以施貧民。後度江南止越城寺。忽遊縱放蕩優俳滑稽。或時裸袒干冒朝貴。晉鎮北將軍司馬恬惡其不節。招而鴆之。頻傾三鍾。神氣清夷。淡然無擾。恬大異之。至晉元興末卒。春秋八十。時有竺曇蓋竺僧法。並苦行通感。蓋能神呪請雨。為楊州刺史司馬元顯所敬。法亦善神呪。晉丞相會稽王司馬道子。為起治城寺焉。</p></div></body></text></TEI>

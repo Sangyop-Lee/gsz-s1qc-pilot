@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_16" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.16 釋僧宗 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0379c21" to="0380a09">T50n2059, 0379c21–0380a09</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.16"><p>釋僧宗。姓嚴。本雍州憑翌人。晉氏喪亂。其先四世祖移居秦郡。年九歲為瑗公弟子諮承慧業。晚又受道於斌濟二法師。<seg xml:id="s1qc-08_16-s001" ana="#Scholarship">善大涅槃及勝鬘維摩等。每至講說聽者將近千餘。妙辯不窮應變無盡。</seg>而任性放蕩亟越儀法得意便行不以為礙。守檢專節者。咸有是非之論。文惠太子將欲以罪擯徒遂。通夢有感。於是改意歸焉。魏主元宏遙挹風德。屢致書并請開講。齊太祖不許外出。<seg xml:id="s1qc-08_16-s002" ana="#Scholarship">宗講涅槃維摩勝鬘等。近盈百遍。</seg>以從來信施造太昌寺以居之。建武三年卒於所住。春秋五十有九。先是北土法師曇准聞宗特善涅槃。迺南遊觀聽。既南北情異思不相參。准乃別更講說。多為北士所師。准後居湘宮寺。與同寺法身法真並為當時匠者。時有安樂寺慧令法仙法最。中興寺僧敬道文。天竺寺僧賢。並善數論。振名上國云。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-05_03" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 5.3 竺僧朗 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0354b01" to="0354b28">T50n2059, 0354b01–0354b28</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="5.3"><p>竺僧朗。京兆人也。<seg xml:id="s1qc-05_03-s001" ana="#Scholarship">少而遊方問道。長還關中專當講說。</seg>嘗與數人同共赴請。行至中途忽告同輩曰。君等寺中衣物似有竊者。如言即反果有盜焉。由其相語故得無失。<seg xml:id="s1qc-05_03-s002" ana="#Asceticism">朗常蔬食布衣。</seg>志耽人外。以偽秦符健皇始元年。移卜泰山。與隱士張忠為林下之契。每共遊處。忠後為符堅所徵。行至華陰山而卒。朗乃於金輿谷崑崙山中。別立精舍。猶是泰山西北之一巖也。峯岫高險水石宏壯。朗創築房室製窮山美。內外屋宇數十餘區聞風而造者百有餘人。朗孜孜訓誘勞不告倦。秦主符堅欽其德素遣使徵請。朗同辭老疾乃止。於是月月修書．嚫遺。堅後沙汰眾僧。乃別詔曰。朗法師戒德氷霜學徒清秀。崑崙一山不在搜例。及後秦姚興亦佳歎重。燕主慕容德欽朗名行。假號東齊王。給以二縣租稅。朗讓王而取租稅為興福業。晉孝武致書遺。魏主拓跋珪亦送書致物．其為時人所敬如此。此谷中舊多虎災。常執仗結群而行。及朗居之猛獸歸伏。晨行夜往道俗無滯。百姓咨嗟稱善無極。故奉高人至今。猶呼金輿谷為朗公谷也。凡有來詣朗者。人數多少未至一日輒以逆知。使弟子為具飲食。必如言果至。莫不歎其有預見之明矣。後卒於山中。春秋八十有五。時泰山復有支僧敦者。本冀州人。少遊汧隴長歷荊雍。妙通大乘兼善數論。著人物始義論。亦行於世矣。</p></div></body></text></TEI>

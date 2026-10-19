@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_10" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.10 釋僧遠 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0377c08" to="0378b16">T50n2059, 0377c08–0378b16</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.10"><p>釋僧遠。姓皇。勃海重合人。其先北地皇甫氏。避難海隅故去甫存皇焉。<seg xml:id="s1qc-08_10-s001" ana="#Asceticism">遠幼而樂道。年十六欲出家。父母不許。因蔬食懺誦曉夜不輟。年十八方獲入道。</seg><seg xml:id="s1qc-08_10-s002" ana="#Scholarship">時有沙門道慧。高才秀德聲蓋海岱。遠從受學。通明數論貫大小乘。</seg>宋大明中。度江住彭城寺。昇明中於小丹陽牛落山立精舍。名曰龍淵。<seg xml:id="s1qc-08_10-s003" ana="#Scholarship">遠年三十一。始於青州孫泰寺南面講說。言論清暢風容秀整。坐者四百餘人莫不悅服。瑯瑘王僧達才貴當世。藉甚遠風素延止眾造寺。</seg>遠賙貧濟乏身無留財。有玄紹比丘。每給以金貝。遠讓而弗受。嘗一時行青園。聞里中得時氣病者。憫而造之。見駢尸侶病者數人。人莫敢近。遠深加痛惋。留止不忍去。因為告乞斂死撫生。恩加骨肉。宋新安孝敬王子鸞。為亡所生母殷貴妃造新安寺。勅選三州招延英哲。遠與小山法瑤南澗顯亮。俱被徵召。皆推遠為元舉之首。大明六年九月有司奏曰。臣聞邃拱凝居非期宏峻。拳跪槃伏豈止敬恭。將欲昭張四維締制八宇。故雖儒法枝派名墨條流至於崇親嚴上。厥繇靡爽。唯浮圖為教逿自龍裔。宗旨緬邈微言淪遠。拘文蔽道在末彌扇。遂迺凌越典度偃居尊戚。失隨方之妙迹。迷製化之淵美。夫佛法以謙儉自牧。惠虔為道。不輕比丘遭人必拜。目連桑門遇長則禮。寧有屈膝四輩而間禮二親。稽顙耆臘而直骸萬乘者哉。故咸康創議元興載述。而事屈偏黨道挫餘分。今鴻源遙洗群流仰鏡。九仙贐寶百神從職。而畿輦之內含弗臣之氓。階席之間延抗禮之客。懼非所以澄一風範詳示景則者也。臣等參議以為沙門接見皆當盡虔禮敬之容。依其本俗則朝徽有序乘方兼遠矣。帝雖頗信法而久自驕縱。故奏上之日詔即可焉。遠時歎曰。我剃頭沙門本出家求道。何關於帝王。即日謝病仍隱迹上定林山。及景和之中此制又寢。還遵舊章。宋明踐祚請遠為師。竟不能致。其後山居逸迹之賓。傲世陵雲之士。莫不崇踵山門展敬禪室。廬山何點汝南周顒。齊郡明僧紹濮陽吳苞。吳國張融。皆投身接足諮其戒範。後宋建平王景素謂栖玄寺。是先王經始。既等是人外。欲請遠居之。慇懃再三遂不下山。齊太祖將升位入山尋遠遠固辭老疾。足不垂床。太祖躬自降禮諮訪委悉。及登禪復鑾駕臨幸將詣遠房。房閣狹小不容輿蓋。太祖欲見遠。遠持操不動。太祖遣問臥起。然後轉蹕而去。遠曾不屑焉。至于寢疾。文惠文宣伏膺師禮。數往參候。時貴卿士往還不絕。<seg xml:id="s1qc-08_10-s004" ana="#Asceticism">遠蔬食五十餘年。</seg>澗飲二十餘載。遊心法苑緬想人外。高步山門蕭然物表。以齊永明二年正月卒于定林上寺。春秋七十有一。帝以致書於沙門法獻曰。承遠上無常。弟子夜中已自知之。遠上此去甚得好處。諸佳非一不復增悲也。一二遲見法師方可敘瑞夢耳。今正為作功德。所須可具疏來也。竟陵文宣王又書曰。遠法師一代名德志節清高。潛山樹美四海餐風。弟子闇昧謬蒙師範。方欲仰稟仁化用洗煩慮。不謂比疾奄成異世。悲痛之心特不可忍。遠上即業行圓通曠劫希有。弟子意不欲遺形影迹雜處眾僧墓中。得別卜餘地。是所願也。方應樹剎表奇刻石銘德矣。即為營墳於山南立碑頌德。太尉瑯瑘王儉製文。時定林上寺又有法令慧泰。並善經論繼譽於遠焉。</p></div></body></text></TEI>

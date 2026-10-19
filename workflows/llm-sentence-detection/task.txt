@@ -1,0 +1,7 @@
+You identify sentences in one biography from {collection}. The biography is given one sentence per line, each line starting with the sentence's id (S001, S002, …).
+
+List the id of every sentence that describes {code} of the main monk, as the {code} definition below defines it.
+
+Leave out a sentence that is about someone other than the main monk, as the definition of the main monk below describes, and a sentence inside a long quoted document, as the definition of a long quoted document below describes.
+
+If no sentence describes {code}, return an empty list.

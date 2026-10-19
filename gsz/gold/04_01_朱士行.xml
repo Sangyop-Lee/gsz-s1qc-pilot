@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-04_01" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 4.1 朱士行 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0346b12" to="0346c14">T50n2059, 0346b12–0346c14</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="4.1"><p>朱士行。潁川人。志業方直勸沮不能移其操。<seg xml:id="s1qc-04_01-s001" ana="#Scholarship">少懷遠悟脫落塵俗。出家已後專務經典。</seg><seg xml:id="s1qc-04_01-s002" ana="#Scholarship">昔漢靈之時竺佛朔譯出道行經。即小品之舊本也。文句簡略意義未周。士行嘗於洛陽講道行經。覺文章隱質諸未盡善。每歎曰。此經大乘之要。而譯理不盡。誓志捐身遠求大本。</seg>遂以魏甘露五年發迹雍州。西渡流沙既至于闐。果得梵書正本凡九十章。遣弟子不如檀。此言法饒。送經梵本還歸洛陽。未發之頃于闐諸小乘學眾遂以白王云。漢地沙門欲以婆羅門書惑亂正典。王為地主。若不禁之將斷大法聾盲漢地王之咎也。王即不聽齎經。士行深懷痛心。乃求燒經為證。王即許焉。於是積薪殿前以火焚之。士行臨火誓曰。若大法應流漢地經當不然。如其無護命也如何。言已投經火中。火即為滅不損一字。皮牒如本。大眾駭服咸稱其神感。遂得送至陳留倉恒水南寺。時河南居士竺叔蘭。本天竺人。父世避難居于河南。蘭少好遊獵。後經暫死備見業果。因改勵專精深崇正法博究眾音。善於梵漢之語。又有無羅叉比丘。西域道士。稽古多學乃手執梵本。叔蘭譯為晉文。稱為放光波若。皮牒故本今在豫章。至太安二年。支孝龍就叔蘭一時寫五部校為定本。時未有品目。舊本十四匹縑令寫為二十卷。士行遂終於于闐。春秋八十。依西方法闍維之。薪盡火滅。屍猶能全。眾咸驚異。乃呪曰。若真得道法當毀敗。應聲碎散。因歛骨起塔焉。後弟子法益從彼國來。親傳此事。故孫綽正像論云。士行散形於于闐。此之謂也。</p></div></body></text></TEI>

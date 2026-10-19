@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-07_10" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 7.10 釋僧詮 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0369c10" to="0369c29">T50n2059, 0369c10–0369c29</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="7.10"><p>釋僧詮。姓張。遼西海陽人。<seg xml:id="s1qc-07_10-s001" ana="#Scholarship">少遊燕齊遍學外典。</seg><seg xml:id="s1qc-07_10-s002" ana="#Scholarship">弱冠方出家復精鍊三藏。為北土學者之宗。</seg><seg xml:id="s1qc-07_10-s003" ana="#Scholarship">後過江止京師。鋪筵大講。化洽江南。</seg><seg xml:id="s1qc-07_10-s004" ana="#Scholarship">吳郡張恭請還吳講說。姑蘇之士並慕德歸心。</seg>初止閑居寺。晚憩虎丘山。詮先於黃龍國造丈六金像。入吳又造人中金像。置于虎丘山之東寺。詮性好檀施周贍貧乏。清確自守居無兼幣。後平昌孟顗於餘杭立方顯寺。請詮居之。<seg xml:id="s1qc-07_10-s005" ana="#Scholarship">率眾翹勤禪禮無輟。看尋苦至。遂乃失明。而策厲彌精講授不廢。</seg>吳國張暢張敷譙國戴顒戴勃並慕德結交。崇以師禮。詮後暫遊臨安縣投董功曹家。功曹者清信弟子也。詮投止少時便遇疾甚篤。而常見所造之像來在西壁。又見諸天童子皆來侍病。弟子法朗夢見一臺數人捧之。問何所去。答云。迎詮法師。明旦果卒。縣令阮尚之使葬白土山郭文舉之塚右。以擬梁鴻之附要離也。特進王裕及高士戴顒。至詮墓所刻石立碑。唐思賢造文。張敷作誄。</p></div></body></text></TEI>

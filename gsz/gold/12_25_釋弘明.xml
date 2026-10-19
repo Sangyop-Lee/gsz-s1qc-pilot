@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_25" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.25 釋弘明 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0408a06" to="0408a22">T50n2059, 0408a06–0408a22</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.25"><p>釋弘明。本姓嬴。會稽山陰人。<seg xml:id="s1qc-12_25-s001" ana="#Asceticism">少出家貞苦有戒節。</seg>止山陰雲門寺誦法華習禪定。精勤禮懺六時不輟。每旦則水瓶自滿。實諸天童子以為給使也。明嘗於雲門坐禪。虎來入明室內伏于床前。見明端然不動。久久乃去。又時見一小兒來聽明誦經。明曰。汝是何人。答云。昔是此寺沙彌。盜帳下食今墮圊中。聞上人道業故來聽誦經。願助方便使免斯累也。明即說法勸化。領解方隱。後於永興石姥巖入定。又有山精來惱明。明捉得以腰繩繫之。鬼遜謝求脫云。後不敢復來。及解放。於是絕迹。元嘉中郡守平昌孟顗重其真素。要出安止道樹精舍。後濟陽江於永興邑立昭玄寺。復請明往住。大明末陶里董氏。又為明於村立栢林寺。要明還止。訓勗禪戒門人成列。以齊永明四年卒於栢林寺。春秋八十有四。</p></div></body></text></TEI>

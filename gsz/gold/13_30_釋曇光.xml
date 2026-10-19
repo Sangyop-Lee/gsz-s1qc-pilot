@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_30" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.30 釋曇光 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0416b03" to="0416b19">T50n2059, 0416b03–0416b19</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.30"><p>釋曇光。會稽人。隨師止江陵長沙寺。<seg xml:id="s1qc-13_30-s001" ana="#Scholarship">性意嗜五經詩賦。及算數卜筮無不貫解。</seg><seg xml:id="s1qc-13_30-s002" ana="#Scholarship">年將三十。喟然歎曰。吾從來所習皆是俗事。佛法深理未染一毫。豈剪落所宜耶。乃屏舊業聽諸經論。識悟過人一聞便達。</seg>宋衡陽文王義季鎮荊州。求覓意理沙門共談佛法。聲境推光以當鴻任。光固辭。王自詣房敦請。遂從命焉。給車服人力月供一萬。每設齋會無有導師。王謂光曰。獎導群生唯德之本。上人何得為辭。願必自力。光乃迴心習唱製造懺文。每執爐處眾。輒道俗傾仰。後還都止靈味寺。義陽王旭出鎮北徐。携光同行。及景和失德義陽起事。以光預見乃齎七曜以決光。光杜口無言。故事寧獲免。宋明帝於湘宮設會。聞光唱導帝稱善。即勅賜三衣瓶鉢。後卒於寺中。年六十五。</p></div></body></text></TEI>

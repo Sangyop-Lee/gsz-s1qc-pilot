@@ -1,0 +1,29 @@
+Definition: Scholarship
+
+A passage is Scholarship when it says that the main monk of the biography was engaged with texts or doctrine: he studied, taught, wrote on, translated, edited or debated them, or the text describes him as learned in them. The texts may be Buddhist scriptures and treatises or the Chinese classics. Learning described in specific terms and learning described only in general terms both count.
+
+A passage is Scholarship if it describes any of the following:
+- Study of a named text or discipline, e.g. 十誦, 僧祇, 成實, 雜心, 毘曇 (as a text), 法華, 波若, or the vinaya as a body of texts (律藏, 律部, 毘尼).
+- Study under a named teacher. The study must be described (受學, 從…受…) or clear from the context. Studying alongside a named master also counts.
+- Learning described only in general terms: formulaic praise (學通經論, 博通三藏, 貫通眾典); generic texts or disciplines (眾經, 經論, 三藏, 經律, 數論, 律學); travelling to study or attending lectures with no teacher named; diligence in study; a reputation for learning; spreading the dharma when the text names what is spread, even in general terms (法, 佛法, 正法, 經法), with no lecturing or particular text or doctrine.
+- Non-Buddhist Chinese learning: the classics, the histories, 莊老, 外學, 墳典, and poetry studied with the classics (詩, 詩賦).
+- Lecturing or expounding (講, 開講, 講說, 講律), also when told by idiom: serving as 法匠 or 法主, opening a 講席, turning the 法輪 (法輪一轉), listeners (聽者) or students (學徒) gathering to him.
+- Writing works, commentaries, treatises or prefaces, or letters and written exchanges on doctrine; a collection of his writings (文翰, 集有…卷).
+- Translating, or taking part in a translation.
+- Collating, revising or fixing the text of scriptures.
+- Debating a doctrine in person: posing or answering objections (難, 問難, 論議, 往復) on a named doctrine or text, or at a lecture.
+
+A passage is not Scholarship if it describes only the following:
+- Reciting a text (誦…), even when it appears next to study.
+- Keeping the precepts (戒行, 律行).
+- Meditation (習禪, 禪業).
+- Chanting or preaching (轉讀, 唱導).
+- Commissioning scriptures as a work of merit (造經).
+- Intelligence or eloquence alone (聰敏, 談說), with no texts or doctrine named.
+- A teacher named with no study described.
+- Becoming someone's disciple (出家, 事…為師, 師…, 伏事, 伏膺, 為…弟子), even when the text calls the teacher a scholar, if no study is described.
+- 業 on its own (受業, 進業): training under a master, with no text, doctrine or study named.
+- Spreading or guiding with nothing named as what is spread (化, 宣化, 訓誘, 善誘, 弘化, 弘通).
+- Conversation, discussion or banter (論道說義, 談論, 嘲難, 酬酢) with friends or patrons, with no doctrine or text named.
+- Composing poems (賦詩) on an occasion, with no doctrine or text named.
+- Praise of him quoted from other people (時人稱之曰…), standing on its own.

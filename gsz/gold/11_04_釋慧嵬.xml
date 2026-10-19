@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_04" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.4 釋慧嵬 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0396b18" to="0396c02">T50n2059, 0396b18–0396c02</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.4"><p>釋慧嵬不知何許人。止長安大寺。戒行澄潔。多栖處山谷修禪定之業。有一無頭鬼來。嵬神色無變。乃謂鬼曰。汝既無頭。便無頭痛之患。一何快哉。鬼便隱形。復作無腹鬼來。但有手足。嵬又曰。汝既無腹。便無五藏之憂。一何樂哉。須臾復作異形。嵬皆隨言遣之。後又時天甚寒雪。有一女子來求寄宿。形貌端正。衣服鮮明。姿媚柔雅。自稱天女。以上人有德。天遣我來以相慰喻。談說欲言勸動其意。嵬執志貞確一心無擾。乃謂女曰。吾心若死灰無以革囊見試。女遂陵雲而逝。顧而歎曰。海水可竭須彌可傾。彼上人者秉志堅貞。後以晉隆安三年。與法顯俱遊西域。不知所終。</p></div></body></text></TEI>

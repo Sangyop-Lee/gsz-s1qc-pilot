@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_34" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.34 釋僧祐 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0402c04" to="0403a02">T50n2059, 0402c04–0403a02</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.34"><p>釋僧祐。本姓俞氏。其先彭城下邳人。父世居于建業。祐年數歲入建初寺禮拜。因踊躍樂道不肯還家。父母憐其志且許入道。師事僧範道人。年十四家人密為訪婚。祐知而避。至定林投法達法師。達亦戒德精嚴為法門梁棟。祐師奉竭誠。<seg xml:id="s1qc-11_34-s001" ana="#Scholarship">及年滿具戒執操堅明。初受業於沙門法穎。穎既一時名匠為律學所宗。祐迺竭思鑽求無懈昏曉。遂大精律部有勵先哲。</seg><seg xml:id="s1qc-11_34-s002" ana="#Scholarship">齊竟陵文宣王每請講律。聽眾常七八百人。</seg><seg xml:id="s1qc-11_34-s003" ana="#Scholarship">永明中勅入吳試簡五眾。并宣講十誦。更申受戒之法。</seg><seg xml:id="s1qc-11_34-s004" ana="#Scholarship">凡獲信施悉以治定林建初。及修繕諸寺。并建無遮大集捨身齊等。及造立經藏搜校卷軸。使夫寺廟開廣法言無墜。咸其力也。</seg>祐為性巧思能目准心計。及匠人依標尺寸無爽。故光宅攝山大像剡縣石佛等。並請祐經始准畫儀則。今上深相禮遇。凡僧事碩疑皆勅就審決。年衰脚疾。勅聽乘輿入內殿。為六宮受戒。其見重如此。開善智藏法音慧廓皆崇其德。素請事師禮。梁臨川王宕南平王偉儀同陳郡袁昂永康定公主貴嬪丁氏。並崇其戒範盡師資之敬。凡白黑門徒一萬一千餘人。以天監十七年五月二十六日卒于建初寺。春秋七十有四。因窆于開善路西定林之舊墓也。弟子正度立碑頌德。東莞劉勰製文。<seg xml:id="s1qc-11_34-s005" ana="#Scholarship">初祐集經藏既成。使人抄撰要事。為三藏記。法苑記。世界記。釋迦譜及弘明集等。皆行於世。</seg></p></div></body></text></TEI>

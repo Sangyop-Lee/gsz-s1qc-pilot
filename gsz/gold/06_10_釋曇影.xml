@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-06_10" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 6.10 釋曇影 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0364a01" to="0364a13">T50n2059, 0364a01–0364a13</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="6.10"><p>釋曇影。或云北人。不知何許郡縣。<seg xml:id="s1qc-06_10-s001" ana="#Scholarship">性虛靖不甚交遊。而安貧志學舉止詳審。</seg>過似淹遲而神氣駿捷。志與形反。<seg xml:id="s1qc-06_10-s002" ana="#Scholarship">能講正法華經及光讚波若。每法輪一轉輒道俗千數。</seg><seg xml:id="s1qc-06_10-s003" ana="#Scholarship">後入關中。姚興大加禮接。及什至長安影往從之。什謂興曰。昨見影公亦是此國風流標望之僧也。興勅住逍遙園助什譯經。</seg><seg xml:id="s1qc-06_10-s004" ana="#Scholarship">初出成實論。凡諍論問答皆次第往反。影恨其支離。乃結為五番。竟以呈什。什曰大善。深得吾意。</seg><seg xml:id="s1qc-06_10-s005" ana="#Scholarship">什後出妙法華經。影既舊所命宗。特加深思。乃著法華義疏四卷。并注中論。</seg>後山棲隱處守節塵外。修功立善愈老愈篤。以晉義熙中卒。春秋七十矣。</p></div></body></text></TEI>

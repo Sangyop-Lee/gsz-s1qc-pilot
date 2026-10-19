@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_27" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.27 釋曇斐 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0382c05" to="0382c22">T50n2059, 0382c05–0382c22</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.27"><p>釋曇斐。本姓王。會稽剡人。少出家受業於慧基法師。<seg xml:id="s1qc-08_27-s001" ana="#Scholarship">性聰敏素著領牒之稱。其方等深經皆所綜達。老莊儒墨頗亦披覽。</seg><seg xml:id="s1qc-08_27-s002" ana="#Scholarship">後東西稟訪。備窮經論之旨。居于鄉邑法華臺寺。講說相仍。學徒成列。</seg><seg xml:id="s1qc-08_27-s003" ana="#Scholarship">斐神情爽發志用清玄。故於小品淨名尤成獨步。加又談吐蘊藉辭辯高華。席上之風見重當代。</seg><seg xml:id="s1qc-08_27-s004" ana="#Scholarship">梁衡陽孝王元簡及隱士廬江何胤。皆遠挹徽猷招延講說。吳國張融汝南周顒顒子捨等。並結知音之狎焉。</seg>以天監十七年卒于寺。春秋七十有六。<seg xml:id="s1qc-08_27-s005" ana="#Scholarship">其製作文辭亦頗見於世。</seg>初斐有譽江東。被勅為十城僧主。符旨適行未拜便化厥土僧尼倍懷戀德。斐同縣南巖寺有沙門法藏。亦以戒素見稱。憙放救生命興立圖像。時餘姚縣有明慶比丘。與斐同時致譽。慶本姓鄭氏。戒行嚴潔學業清美。本師事炎公。又弘實弟子。師資三葉並見重東南焉。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-10_10" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 10.10 釋法朗 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0392c08" to="0392c24">T50n2059, 0392c08–0392c24</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="10.10"><p>釋法朗。高昌人。<seg xml:id="s1qc-10_10-s001" ana="#Asceticism">幼而執行精苦多諸徵瑞。韜光蘊德人莫測其所階。</seg>朗師釋法進亦高行沙門。進嘗閉戶獨坐。忽見朗在前問從何處來。答云。從戶鑰中入云。與遠僧俱至。日既將中願為設食。進即為設食唯聞匕鉢之聲。竟不見人。昔廬山慧遠嘗以一袈裟遺進。進即以為嚫。朗云。眾僧已去。別日當取之。後見執爨者就進取衣。進即與之。訪常執爨者。皆云不取。方知是先聖人權迹取也。至魏虜毀滅佛法。朗西適龜茲。龜茲王與彼國大禪師結約。若有得道者至。當為我說。我當供養。及朗至乃以白王。王待以聖禮。後終於龜茲。焚屍之日。兩眉湧泉直上于天。眾歎希有。收骨起塔。後西域人來北土具傳此事。時涼州復有沙門智整。亦貞苦有異行。為𢆰主楊難當所事。後入寒峽山石穴中不返。</p></div></body></text></TEI>

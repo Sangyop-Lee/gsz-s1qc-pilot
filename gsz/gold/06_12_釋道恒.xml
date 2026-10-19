@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-06_12" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 6.12 釋道恒 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0364b23" to="0365a08">T50n2059, 0364b23–0365a08</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="6.12"><p>釋道恒。藍田人。<seg xml:id="s1qc-06_12-s001" ana="#Scholarship">年九歲戲于路。隱士張忠見而嗟曰。此小兒有出人之相。在俗必有輔政之功。處道必能光顯佛法。恨吾老矣。不得見之。恒少失二親。事後母以孝聞。家貧無蓄。常手自畫繢以供瞻奉。而篤好經典學兼宵夜。</seg>至年二十後母又亡。行喪盡禮服畢出家。<seg xml:id="s1qc-06_12-s002" ana="#Scholarship">游刃佛理多所兼通。學該內外才思清敏。</seg><seg xml:id="s1qc-06_12-s003" ana="#Scholarship">羅什入關即往修造。什大嘉之。及譯出眾經並助詳定。</seg>時恒有同學道標。亦雅有才力。當時擅名。與恒相次。秦主姚興以恒標二人神氣俊朗有經國之量。乃勅偽尚書令姚顯。令敦逼恒標罷道助振王業。又下書恒標等曰。卿等皎然之操。實在可嘉。但君臨四海治急須才。今勅尚書令顯令奪卿等法服助翼贊時世。苟心存道味寧繫白黑望體此懷不以守節為辭也。恒標等答曰。奉去月二十日詔。令奪恒標等法服。承命悲懷五情失守。恒等才質闇短染法未深。緇服之下誓畢身命。並習佛法不閑世事。徒廢非常之業。終無殊異之功。昔光武尚能縱嚴陵之心。魏文容管寧之操。抑至尊之高心。遂匹夫之微志。況陛下以道御物兼弘三寶。願鑒元元之情。垂曠通物之理也。興又致書於什䂮二法師曰。別已數旬每有傾想。漸暖比休泰耳。小虜遠舉更無處分。正有憒然耳。頃萬事之慇須才以理之。近詔恒標二人令釋羅漢之服尋大士之蹤。然道無不在。願法師等勗以喻之。什䂮等答曰。蓋聞太上以道養民。而物自是其復有德而治天下。是以古之明主審違性之難御。悟任物之多因。故堯放許由於箕山。文軾干木於魏國。高祖縱四皓於終南。叔度辭蒲輪於漢岳。蓋以適賢之性為得賢也。今恒標等德非圓達分在守節。少習玄化伏膺佛道。至於敷折妙典研究幽微。足以啟悟童稚助化功德。願陛下施既往之恩。縱其微志也。<seg xml:id="s1qc-06_12-s004" ana="#Asceticism">興後頻復下書。闔境救之殆而得勉。恒乃歎曰。古人有言。益我貨者損我神。生我名者殺我身。於是竄影巖壑畢命幽藪。蔬食味禪緬迹人外。</seg>晉義熙十三年卒于山舍。春秋七十二。<seg xml:id="s1qc-06_12-s005" ana="#Scholarship">恒著釋駁論及百行箴。</seg>標作舍利佛毘曇序并弔王喬文。並行於世矣。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_16" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.16 釋道法 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0399b06" to="0399b14">T50n2059, 0399b06–0399b14</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.16"><p>釋道法。姓曹。燉煌人。起家入道。專精禪業。亦時行神呪。後遊成都。至王休之費鏗之請為興樂香積二寺主。訓眾有法。<seg xml:id="s1qc-11_16-s001" ana="#Asceticism">常行分衛不受別請及僧食。乞食所得。常減其分以施蟲鳥。</seg>每夕輒脫衣露坐以飴蚊虻。如此者累年。<seg xml:id="s1qc-11_16-s002" ana="#Asceticism">後入定見彌勒放齊中光照三途果報。於是深加篤勵。常坐不臥。</seg>元徽二年於定中滅度。平坐繩床貌悅恒日。</p></div></body></text></TEI>

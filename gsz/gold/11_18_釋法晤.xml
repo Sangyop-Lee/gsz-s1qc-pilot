@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_18" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.18 釋法晤 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0399c07" to="0399c18">T50n2059, 0399c07–0399c18</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.18"><p>釋法晤。齊人。家以田桑為業。有男六人普皆成長。晤年五十喪妻。舉家欝然慕道。父子七人悉共出家。南至武昌履行山水。見樊山之陽可為幽拪之處。本隱士郭長翔所止。於是有意終焉。時武昌太守陳留阮晦。聞而奇之。因為剪逕開山造立房室<anchor type="division" resp="#SLee"/><seg xml:id="s1qc-11_18-s001" ana="#Asceticism">晤不食粳米常資麥飯。日一食而已。</seg>誦大小品法華。常六時行道。<seg xml:id="s1qc-11_18-s002" ana="#Asceticism">頭陀山澤不避虎兕。有時在樹下坐禪。或經日不起。</seg>以齊永明七年卒於山中。春秋七十有九。後有沙門道濟。踵其高業。今武昌謂其所住為頭陀寺焉。</p></div></body></text></TEI>

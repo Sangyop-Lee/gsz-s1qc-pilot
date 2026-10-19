@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_03" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.3 釋慧力 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0410a17" to="0410b10">T50n2059, 0410a17–0410b10</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.3"><p>釋慧力。未知何人。晉永和中來遊京師。<seg xml:id="s1qc-13_03-s001" ana="#Asceticism">常乞食蔬苦頭陀修福。</seg>至晉興寧中啟乞陶處以為瓦官寺。初標塔基是今塔之西。每夕標輒東移十餘步。旦取還已復隨徙。潛共伺之。見一人著朱衣武冠拔標置東方。仍於其處起塔。今之塔處是也。記者云。寺立後三十年。當為天火所燒。至晉孝武太元二十一年七月夜自然火起。寺僧數十都無知者。明旦見塔已成灰聚。帝曰。此國不祥之相也。即勅楊法尚李緒等速令修復。至九月帝崩。有戴安道所製五像及戴顒所治丈六金像。昔鑄像初成。而面首殊瘦。諸工無如之何。乃迎顒看之。顒曰。非面瘦也。乃臂胛肥耳。既鑢減臂胛而面相自滿。諸工無不歎息。又有師子國四尺二寸玉像。並皆在焉。昔師子國王。聞晉孝武精於奉法。故遣沙門曇摩抑遠獻此佛。在道十餘年。至義熙中乃達晉。司徒王謐嘗入臺見東掖門口有寺。人擲樗戲樗所著處輒有光出。怪令掘之得一金像。合光趺長七尺二寸。謐即啟聞宋高祖迎入臺供養。宋景平末送出瓦官寺。今移龍光寺。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_32" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.32 釋道儒 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0416c07" to="0416c16">T50n2059, 0416c07–0416c16</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.32"><p>釋道儒姓石。渤海人。寓居廣陵。少懷清信慕樂出家。遇宋臨川王義慶鎮南兗。儒以事聞之。王贊成厥志。為啟度出家。<seg xml:id="s1qc-13_32-s001" ana="#Asceticism">出家之後蔬食讀誦。</seg>凡所之造皆勸人改惡修善。遠近宗奉遂成導師。言無預撰發嚮成製。元嘉末出都止建初寺。長沙王請為戒師。廬承相伯仲孫等。共買張敬兒故廟為儒立寺。今齊福寺是也。儒以齊永明八年卒。年八十一。時閑心寺有釋僧喜。亦善唱說。振譽於宋末齊初。</p></div></body></text></TEI>

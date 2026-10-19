@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_06" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.6 釋弘充 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0376a10" to="0376a19">T50n2059, 0376a10–0376a19</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.6"><p>釋弘充。涼州人。<seg xml:id="s1qc-08_06-s001" ana="#Scholarship">少有志力。通莊老解經律。</seg>大明末過江。初止多寶寺。<seg xml:id="s1qc-08_06-s002" ana="#Scholarship">善能問難。先達多為所屈。</seg><seg xml:id="s1qc-08_06-s003" ana="#Scholarship">後自開法筵鋒鏑互起。充既思入玄微口辯天逸。通疑釋滯無所間然。</seg><seg xml:id="s1qc-08_06-s004" ana="#Scholarship">每講法華十地。聽者盈堂。</seg>宋太宰江夏文獻王義恭雅重之。明帝踐祚。起湘宮寺。請充為綱領。於是移居焉。于時湘宮又有法鮮比丘。亦聰哲有思力。與充齊名。充以齊永明中卒。春秋七十有二。<seg xml:id="s1qc-08_06-s005" ana="#Scholarship">注文殊問菩提經及注首楞嚴經。</seg></p></div></body></text></TEI>

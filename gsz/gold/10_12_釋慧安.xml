@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-10_12" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 10.12 釋慧安 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0393a24" to="0393b16">T50n2059, 0393a24–0393b16</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="10.12"><p>釋慧安。未詳何許人。少經被虜。屬荊州人為奴。執役懃緊。主甚愛之。年十八聽出家。止江陵琵琶寺。風貌庸率頗共輕之。時為沙彌。眾僧列坐。輒使行水。安恒執空瓶從上至下水常不竭。時咸以異焉。及受具戒稍顯靈迹。嘗月晦夕共同學慧濟上堂布薩。堂戶未開安乃綰濟指從壁隙而入。出亦如之。濟甚駭懼不敢發言。後乃與濟共坐塔下。便語濟云。吾當遠行。今與君別。頃之便見天人伎樂香花布滿空中。濟唯驚懼竟不得語。安又謂曰。吾前後事迹慎勿妄說。說必有咎。唯西南有一白衣。是新發意菩薩。可具為說之。於是辭去。便附商人入湘川。中路患痢極篤。謂船主曰。貧道命必應盡。但出置岸邊不須器木。氣絕之後即施蟲鳥。商人依其言出臥岸側。夜見火炎從身而出。商人怪懼就往觀之。已氣絕矣。商人行至湘東見安。亦已先至。俄又不知所之。濟後至陟屺寺詣隱士南陽劉虬。具言其事。虬即起遙禮之。謂濟曰。此得道之人。入火光三昧也。時蜀中又有僧覽法衛。並有異迹。時人亦疑得聖果也。</p></div></body></text></TEI>

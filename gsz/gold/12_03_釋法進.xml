@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_03" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.3 釋法進 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0404a29" to="0404b21">T50n2059, 0404a29–0404b21</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.3"><p>釋法進。或曰道進。或曰法迎。姓唐。涼州張掖人。<seg xml:id="s1qc-12_03-s001" ana="#Asceticism">幼而精苦習誦。</seg>有超邁之德。為沮渠蒙遜所重。遜卒子景環為胡寇所破。問進曰。今欲轉略高昌為可剋不。進曰必捷。但憂災餓耳。迴軍即定。後三年景環卒。弟安周續立。是歲飢荒死者無限。周既事進。進屢從求乞以賑貧餓。國蓄稍竭。進不復求。迺淨洗浴取刀鹽。至深窮窟餓人所聚之處。次第授以三歸。便掛衣鉢著樹。投身餓者前云。施汝共食。眾雖飢困猶義不忍受。進即自割肉和鹽以啖之。兩股肉盡心悶不能自割。因語餓人云。汝取我皮肉猶足數日。若王使來必當將去。但取藏之。餓者悲悼無能取者。須臾弟子來至。王人復看。舉國奔赴號叫相屬。因輿之還宮。周勅以三百斛麥以施餓者。別發倉廩以賑貧民。至明晨乃絕。出城北闍維之。烟炎衝天七日乃歇。屍骸都盡唯舌不爛。即於其處起塔三層。樹碑于右。進弟子僧遵。姓趙。高昌人。善十誦律蔬食節行。誦法華勝鬘金剛波若。又篤厲門人常懺悔為業。</p></div></body></text></TEI>

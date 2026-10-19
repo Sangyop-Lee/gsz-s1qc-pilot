@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_10" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.10 釋慧敬 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0411b06" to="0411b15">T50n2059, 0411b06–0411b15</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.10"><p>釋慧敬。南海人。<seg xml:id="s1qc-13_10-s001" ana="#Scholarship">少遊學荊楚亦博通經論。而常以福業為務。故義學不得全功。</seg>凡所之造皆興立塔像助成眾業。後還鄉復修理雲峯永安諸寺。敬既精於戒節。而志操嚴明。故嶺外僧尼咸附諮稟。後被勅為僧主。訓領有功。敬有一奴子及沙彌。忽為鬼所打。後山精見形。詣敬具謝愆失云。部屬不解橫撓法師眷屬。有頃悉皆平復。凡興造福業。皆迴向西方。臨終之日室有奇香。經久乃歇。</p></div></body></text></TEI>

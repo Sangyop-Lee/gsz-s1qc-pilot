@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_01" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.1 釋慧達 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0409b13" to="0410a07">T50n2059, 0409b13–0410a07</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.1"><p>釋慧達。姓劉。本名薩河。并州西河離石人。少好田獵。年三十一忽如暫死。經日還蘇。備見地獄苦報。見一道人云。是其前世師。為其說法訓誨令出家往丹陽會稽吳郡覓阿育王塔像。禮拜悔過以懺先罪。既醒即出家學道。改名慧達。精勤福業。唯以禮懺為先。晉寧康中至京師。先是簡文皇帝於長干寺造三層塔。塔成之後每夕放光。達上越城顧望見此剎杪獨有異色。便往拜敬晨夕懇到。夜見剎下時有光出。乃告人共掘。掘入丈許得三石碑。中央碑覆中有一鐵函。函中又有銀函。銀函裏金函。金函裏有三舍利。又有一爪甲及一髮。髮申長數尺。卷則成螺。光色炫燿。乃周敬王時阿育王起八萬四千塔。此其一也。既道俗歎異。乃於舊塔之西更竪一剎。施安舍利。晉太元十六年。孝武更加為三層。又昔晉咸和中丹陽尹高悝。於張侯橋浦裏掘得一金像。無有光趺。而製作甚工。前有梵書云。是育王第四女所造。悝載像還至長干巷口。牛不復行非人力所御。乃任牛所之。徑趣長干寺。爾後年許。有臨海漁人張係世。於海口得銅蓮華趺浮在水上。即取送縣。縣表上上臺。勅使安像足下。契然相應。後有西域五僧詣悝云。昔於天竺得阿育王像。至鄴遭亂藏置河邊。王路既通尋覓失所。近得夢云。像已出江東為高悝所得。故遠涉山海欲一見禮拜耳。悝即引至長干。五人見像歔欷涕泣。像即放光照于堂內。五人云。本有圓光今在遠處。亦尋當至。晉咸安元年交州合浦縣採珠人董宗之。於海底得一佛光。刺史表上。晉簡文帝勅施此像。孔穴懸同光色一重。凡四十餘年東西祥感光趺方具。達以剎像靈異倍加翹勵。後東遊吳縣禮拜石像<anchor type="division" resp="#SLee"/>以像於西晉將末建興元年癸酉之歲。浮在吳松江滬瀆口。漁人疑為海神。延巫祝以迎之。於是風濤俱盛駭懼而還。時有奉黃老者。謂是天師之神。復共往接飄浪如初。後有奉佛居士吳縣民朱應。聞而歎曰。將非大覺之垂應乎。乃潔齋共東雲寺帛尼及信者數人到滬瀆口。稽首盡虔歌唄至德。即風潮調靜。遙見二人浮江而至。乃是石像。背有銘誌一名惟衛。二名迦葉。即接還安置通玄寺。吳中士庶嗟其靈異。歸心者眾矣。達停止通玄寺首尾三年。晝夜虔禮未嘗暫廢。頃之進適會稽禮拜𮠉塔。此塔亦是育王所造。歲久荒蕪示存基蹠。達翹心束想乃見神光焰發。因是修立龕砌。群鳥無敢棲集。凡近寺側畋漁者必無所獲。道俗傳感莫不移信。後郡守孟顗。復加開拓。達東西覲禮屢表徵驗。精勤篤勵終年無改。後不知所之。</p></div></body></text></TEI>

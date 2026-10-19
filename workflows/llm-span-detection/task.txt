@@ -1,0 +1,7 @@
+You mark {code} spans in one biography from {collection}. The biography is given one sentence per line, each line starting with the sentence's id (S001, S002, …).
+
+Find every span in the biography that is {code}, using the two definitions below: the {code} definition says what counts as {code}, and the span definition says where a span begins and ends. A span runs from its first sentence to its last; it can be a single sentence. Spans do not overlap.
+
+For each span, give the id of its first and last sentence, and say whether it is about the main monk of the biography or about someone else. The main monk is named in full in the biography's first sentence; after that, the text usually calls him by the last character of his name alone.
+
+If the biography has no {code} span, return an empty list.

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_15" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.15 釋慧隆 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0379c08" to="0379c20">T50n2059, 0379c08–0379c20</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.15"><p>釋慧隆。姓成。陽平人。<seg xml:id="s1qc-08_15-s001" ana="#Scholarship">少而居貧。學無師友卓然自悟。</seg>年二十三方出家。<seg xml:id="s1qc-08_15-s002" ana="#Scholarship">十餘年中凝心佛法貫通眾典。</seg>宋太始中出都止何園寺。<seg xml:id="s1qc-08_15-s003" ana="#Scholarship">隆既思徹詮表善於清論。乘機抗擬往必折關。</seg><seg xml:id="s1qc-08_15-s004" ana="#Scholarship">宋明帝請於湘宮開講成實。負帙問道八百餘人。其後王侯貴勝屢招講說。</seg><seg xml:id="s1qc-08_15-s005" ana="#Scholarship">凡先舊諸義盤滯之處。隆更顯發開張使昭然可了。乃立實法斷結義等。汝南周顒目之曰。</seg>隆公蕭散森疎若霜下之松竹。以永明八年卒。春秋六十有二。時江西有釋智誕。亦善於經論。與隆比德齊時。各馳名兩岸。時何園復有僧辯僧賢道慧法度。並研精經論。功業可稱。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-10_11" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 10.11 邵碩 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0392c25" to="0393a23">T50n2059, 0392c25–0393a23</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="10.11"><p>邵碩者。本姓邵。名碩。始康人。居無常所怳忽如狂。為人大口眉目醜拙。小兒好追而弄之。或入酒肆同人酣飲。而性好佛法。每見形像無不禮拜贊歎悲感流淚。碩本有三男二女。大男惠生者亦出家。碩以宋初亦出家入道。自稱碩公。出入行往不擇晝夜。遊歷益部諸縣。及往蠻中。皆因事言謔協以勸善。至人家眠地者。人家必有死。就人乞細席必有小兒亡。時人咸以此為讖。至四月八日成都行像。碩於眾中匍匐作師子形。爾日郡縣亦言見碩作師子形。乃悟其分身也。刺史蕭惠開及劉孟明等。並挹事之。孟明以男子衣衣二妾。試碩云。以此二人給公為左右可乎。碩為人好韻語。乃謂明曰。寧自乞酒以漬嚥。不能與阿夫竟殘年。後一朝忽著布帽詣孟明。少時明卒。先是孟明長史沈仲玉。改鞭杖之格嚴重常科。碩謂玉曰。天地嗷嗷從此起。若除鞭格得刺史。玉信而除之。及孟明卒仲玉果行州事。以宋元徽元年九月一日卒岷山通雲寺。臨亡語道人法進云。可露吾骸急繫履著脚。既而依之。出屍置寺。後經二日不見所在。俄而有人從郫縣來。過進云。昨見碩公在市中一脚著履漫語云。小子無宜適失我履一隻。進驚而檢問沙彌。沙彌答云。近送屍出時怖懼右脚一履不得好繫。遂失之。其迹詭異莫可測也。後竟不知所終。</p></div></body></text></TEI>

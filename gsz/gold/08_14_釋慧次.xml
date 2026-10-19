@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_14" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.14 釋慧次 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0379b23" to="0379c07">T50n2059, 0379b23–0379c07</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.14"><p>釋慧次。姓尹。冀州人。初出家為志欽弟子。後遇徐州釋法遷解貫當世。欽乃以次付囑。仍隨遷。南至京口止竹林寺。至年十五隨遷還彭城。<seg xml:id="s1qc-08_14-s001" ana="#Scholarship">雖復年在息慈。而志學無勌。清鑒倫通。超然孤拔。</seg><seg xml:id="s1qc-08_14-s002" ana="#Scholarship">至年十八解通經論名貫徐土。迄稟具戒業操彌深。頻講成實及三論</seg><anchor type="division" resp="#SLee"/><seg xml:id="s1qc-08_14-s003" ana="#Scholarship">大明中出都止于謝寺。迄宋季齊初歸德稍廣。每講席一鋪輒道俗奔赴。沙門智藏僧旻法雲等。皆幼年俊朗慧悟天發。並就次請業焉。文慧文宣悉敬以師禮四事供給。</seg><seg xml:id="s1qc-08_14-s004" ana="#Scholarship">永明八年講百論。至破塵品忽然從化。春秋五十七矣。</seg>時謝寺又有僧寶僧智。長樂寺法珍僧嚮僧猛法寶慧調。並一代英哲。為時論所宗。</p></div></body></text></TEI>

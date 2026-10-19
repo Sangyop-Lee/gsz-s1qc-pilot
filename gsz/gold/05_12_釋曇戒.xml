@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-05_12" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 5.12 釋曇戒 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0356b25" to="0356c06">T50n2059, 0356b25–0356c06</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="5.12"><p>釋曇戒。一名慧精。姓卓。南陽人。晉外兵部棘陽令潛之弟也。<seg xml:id="s1qc-05_12-s001" ana="#Scholarship">居貧務學遊心墳典。</seg><seg xml:id="s1qc-05_12-s002" ana="#Scholarship">後聞于法道講放光經。乃借衣一聽。遂深悟佛理。廢俗從道。伏事安公為師。</seg><seg xml:id="s1qc-05_12-s003" ana="#Scholarship">博通三藏誦經五十餘萬言。</seg>常日禮五百拜佛。晉臨川王甚知重。後篤疾常誦彌勒佛名不輟口。弟子智生侍疾。問何不願生安養。誡曰。吾與和上等八人同願生兜率。和上及道願等皆已往生。吾未得去。是故有願耳。言畢即有光照于身。容貌更悅。遂奄爾遷化。春秋七十。仍葬安公墓右。</p></div></body></text></TEI>

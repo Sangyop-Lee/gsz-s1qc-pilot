@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_29" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.29 釋曇宗 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0416a19" to="0416b02">T50n2059, 0416a19–0416b02</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.29"><p>釋曇宗。姓虢。秣陵人。出家止靈味寺。<seg xml:id="s1qc-13_29-s001" ana="#Scholarship">少而好學博通眾典。唱說之功獨步當世。辯口適時應變無盡。</seg>嘗為孝武唱導行菩薩五法禮竟。帝乃笑謂宗曰。朕有何罪而為懺悔。宗曰。昔虞舜至聖猶云予違爾弼。湯武亦云萬姓有罪在予一人。聖王引咎。蓋以軌世。陛下德邁往代。齊聖虞殷。履道思沖。寧得獨異。帝大悅。後殷淑儀薨。三七設會悉請宗。宗始歎世道浮偽恩愛必離。嗟殷氏淑德榮幸未暢。而滅實當年收芳今日。發言悽至。帝泫愴良久。賞異彌深。後終於所住。<seg xml:id="s1qc-13_29-s002" ana="#Scholarship">著京師塔寺記二卷。</seg>時靈味寺復有釋僧意者。亦善唱說。製睒經新聲。哀亮有序。</p></div></body></text></TEI>

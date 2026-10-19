@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-05_05" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 5.5 釋僧先 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0355a18" to="0355b04">T50n2059, 0355a18–0355b04</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="5.5"><p>釋僧先。冀州人。常山淵公弟子。性純素有貞操。為沙彌時與道安相遇於逆旅。安時亦未受具戒。因共披陳志慕神氣慷慨。臨別相謂曰。若俱長大勿忘同遊。<seg xml:id="s1qc-05_05-s001" ana="#Asceticism">先受戒已後勵行精苦。</seg><seg xml:id="s1qc-05_05-s002" ana="#Scholarship">學通經論</seg><anchor type="division" resp="#SLee"/>值石氏之亂隱於飛龍山。遊想巖壑得志禪慧。<seg xml:id="s1qc-05_05-s003" ana="#Scholarship">道安後復從之。相會欣喜。謂昔誓始從。因共披文屬思。新悟尤多。安曰。先舊格義於理多違先曰。且當分折逍遙。何容是非先達。安曰。弘贊理教宜令允愜。法鼓競鳴何先何後。</seg><seg xml:id="s1qc-05_05-s004" ana="#Scholarship">先乃與汰等。南遊晉平講道弘化。</seg>後還襄陽遇疾而卒。又有沙門道護。亦冀州人。貞節有慧解。亦隱飛龍山。與安等相遇。乃共言曰。居靖離俗每欲匡正大法。豈可獨步山門使法輪輟軫。宜各隨力所被以報佛恩。眾僉曰善。遂各行化。後不知所終。</p></div></body></text></TEI>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-05_09" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 5.9 釋法遇 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0356a14" to="0356b02">T50n2059, 0356a14–0356b02</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="5.9"><p>釋法遇。不知何人。<seg xml:id="s1qc-05_09-s001" ana="#Scholarship">弱年好學篤志墳素。而任性誇誕謂傍若無人。</seg>後與安公相值忽然信伏遂投簪許道事安為師。既沐玄化悟解非常。折挫本心謙虛成德。義陽太守院保聞風欽慕。遙結善友修書通好。施遺相接。<seg xml:id="s1qc-05_09-s002" ana="#Scholarship">後襄陽被寇。遇乃避地東下。止江陵長沙寺。講說眾經。受業者四百餘人。</seg>時一僧飲酒廢夕燒香。遇止罰而不遣。安公遙聞之。以竹筒盛一荊子。手自緘封。題以寄遇遇。開封見杖。即曰。此由飲酒僧也。我訓領不勤遠貽憂賜。即命維那鳴槌集眾。以杖筒置香橙上。行香畢。遇乃起出眾前。向筒致敬。於是伏地。命維那行杖三下內杖筒中。垂淚自責。時境內道俗莫不歎息。因之勵業者甚眾。既而與慧遠書曰。吾人微闇短不能率眾。和上雖隔在異域。猶遠垂憂念。吾罪深矣。後卒於江陵春秋六十矣。</p></div></body></text></TEI>

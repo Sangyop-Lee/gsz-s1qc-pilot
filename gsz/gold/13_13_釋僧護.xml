@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_13" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.13 釋僧護 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0412a08" to="0412b16">T50n2059, 0412a08–0412b16</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.13"><p>釋僧護。本會稽剡人也。少出家。<seg xml:id="s1qc-13_13-s001" ana="#Asceticism">便剋意常苦節</seg><anchor type="division" resp="#SLee"/>戒行嚴淨。後居石城山隱嶽寺。寺北有青壁。直上數十餘丈。當中央有如佛焰光之形。上有叢樹曲幹垂陰。護每經行至壁所。輒見光明煥炳聞絃管歌讚之聲。於是擎爐發誓願。博山鐫造十丈石佛。以敬擬彌勒千尺之容。使凡厥有緣同覩三會。以北齊建武中招結道俗。初就彫剪疏鑿移年僅成面樸。頃之護遘疾而亡。臨終誓曰。吾之所造本不期一生成辦。第二身中其願剋果。後有沙門僧淑纂襲遺功。而資力莫由未獲成遂。至梁天監六年。有始豐令吳郡陸咸。罷邑還國。夜宿剡溪值風雨晦冥。咸危懼假寐。忽夢見三道人來告云。君識信堅正自然安隱。有建安殿下感患未瘳。若能治剡縣僧護所造石像得成就者必獲平豫冥理非虛宜相開發也。咸還都經年稍忘前夢。後出門乃見一僧云。聽講寄宿。因言。去歲剡溪所囑建安王事猶憶此不。咸當時懼然。答云不憶。道人笑曰。宜更思之。仍即辭去。咸悟其非凡。乃倒屣諮訪追及百步。忽然不見。咸豁爾意解具憶前夢。乃剡溪所見第三僧也。咸即馳啟建安王。王即以上聞。勅遣僧祐律師專任像事。王乃深信益加喜踊充遍。抽捨金貝誓取成畢。初僧祐未至一日。寺僧慧逞夢見黑衣大神翼從甚壯立于龕所商略分數。至明旦而祐律師至。其神應若此。初僧護所創鑿龕過淺。乃鏟入五丈。更施頂髻。及身相克成瑩磨將畢。夜中忽當萬字處色赤而隆起。今像胸萬字處猶不施金鎛而赤色在焉。像以天監十二年春就功。至十五年春竟。坐軀高五丈立形十丈。龕前架三層臺。又造門閣殿堂并立眾基業以充供養。其四遠士庶並提挾香華萬里來集。供施往還軌迹填委。自像成之後。建安王所苦稍瘳。本卒已康復。王後改封。今之南平王是也。</p></div></body></text></TEI>

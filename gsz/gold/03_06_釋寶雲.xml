@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-03_06" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 3.6 釋寶雲 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0339c18" to="0340a14">T50n2059, 0339c18–0340a14</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="3.6"><p>釋寶雲。未詳氏族。傳云。涼州人。少出家精懃有學行。志韻剛潔不偶於世。故少以方直純素為名。而求法懇惻亡身殉道。志欲躬覩靈跡廣尋經要。遂以晉隆安之初遠適西域。與法顯智嚴先後相隨。涉履流沙登踰雪嶺。懃苦艱危不以為難。遂歷于闐天竺諸國備覩靈異。乃經羅剎之野聞天鼓之音。釋迦影迹多所瞻禮。<seg xml:id="s1qc-03_06-s001" ana="#Scholarship">雲在外域遍學梵書。天竺諸國音字詁訓悉皆備解。</seg>後還長安。隨禪師佛馱跋陀業禪進道。俄而禪師橫為秦僧所擯。徒眾悉同其咎。雲亦奔散。會廬山釋慧遠解其擯事。共歸京師安止道場寺。眾僧以雲志力堅猛弘道絕域。莫不披衿諮問敬而愛焉。<seg xml:id="s1qc-03_06-s002" ana="#Scholarship">雲譯出新無量壽。晚出諸經多雲所治定。華戎兼通音訓允正。雲之所定眾咸信服。</seg><seg xml:id="s1qc-03_06-s003" ana="#Scholarship">初關中沙門竺佛念善於宣譯。於符姚二代顯出眾經。江左譯梵莫踰於雲。故於晉宋之際。弘通法藏。沙門慧觀等。咸友而善之。</seg><seg xml:id="s1qc-03_06-s004" ana="#Scholarship">雲性好幽居以保閑寂。遂適六合山寺。譯出佛本行贊經。山多荒民俗好草竊。雲說法教誘多有改更。禮事供養十室而八。頃之道場慧觀臨亡請雲還都總理寺任。雲不得已而還。</seg>居道場歲許。復更還六合。以元嘉二十六年終於山寺。春秋七十有四。其遊履外國。別有記傳。</p></div></body></text></TEI>

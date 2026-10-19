@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_31" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.31 釋慧芬 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+      <respStmt xml:id="SLee">
+        <resp>Sentence division</resp>
+        <persName>Sangyop Lee</persName>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0416b20" to="0416c06">T50n2059, 0416b20–0416c06</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.31"><p>釋慧芬。姓李。豫州人。幼有殊操十二出家。住穀熟縣常山寺。<seg xml:id="s1qc-13_31-s001" ana="#Scholarship">學業優深</seg><anchor type="division" resp="#SLee"/><seg xml:id="s1qc-13_31-s002" ana="#Asceticism">苦行精峻。</seg>每赴齋會常為大眾說法。梁楚之間悉奉其化。及魏虜毀滅佛法。乃南歸京師。至烏江追騎將及。而渚次無航。芬一心念佛。俄見流船忽至。乘之獲免。至都止白馬寺。<seg xml:id="s1qc-13_31-s003" ana="#Scholarship">時御史中丞袁愍孫。常謂道人偏執未足與議。乃命左右令候覓沙門試欲語之。會得芬至。袁先問三乘四諦之理。却辯老莊儒墨之要。芬既素善經書。又音吐流便。自旦之夕袁不能窮。於是敬以為師。令子弟悉從受戒。</seg>芬又善神呪所治必驗。後病篤服丸。人勸之以酒。芬曰。積時持戒寧以將死虧節。乃語弟子云。吾其去矣。以齊永明三年卒于興福寺。年七十九。臨終有訓誡遺文。云云。</p></div></body></text></TEI>

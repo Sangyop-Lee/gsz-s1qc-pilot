@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-11_14" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 11.14 釋慧覽 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0399a11" to="0399a22">T50n2059, 0399a11–0399a22</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="11.14"><p>釋慧覽。姓成。酒泉人。少與玄高俱以寂觀見稱。覽曾遊西域頂戴佛鉢。仍於罽賓從達摩比丘諮受禪要。達摩曾入定往兜率天。從彌勒受菩薩戒。後以戒法授覽。覽還至于填。復以戒法授彼方諸僧。後乃歸。路由河南。河南吐谷渾慕延世子瓊等敬覽德問。遣使并資財令於蜀立左軍寺。覽即居之。後移羅天宮寺。宋文請下都止鍾山定林寺。孝武起中興寺。復勅令移住。京邑禪僧皆隨踵受業。吳興沈演平昌孟顗。並欽慕道德。為造禪室於寺。東大明中卒。春秋六十餘矣。</p></div></body></text></TEI>

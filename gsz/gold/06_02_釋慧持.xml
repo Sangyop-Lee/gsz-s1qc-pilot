@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-06_02" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 6.2 釋慧持 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0361b14" to="0362a10">T50n2059, 0361b14–0362a10</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="6.2"><p>釋慧持者。慧遠之弟也。沖默有遠量。<seg xml:id="s1qc-06_02-s001" ana="#Scholarship">年十四學讀書。一日所得當他一旬。善文史巧才製。</seg>年十八出家。與兄共伏事道安法師。<seg xml:id="s1qc-06_02-s002" ana="#Scholarship">遍學眾經遊刃三藏。</seg>及安在襄陽遣遠東下。持亦俱行。初憩荊州上明寺。後適廬山。皆隨遠共止。持形長八尺風神俊爽。<seg xml:id="s1qc-06_02-s003" ana="#Asceticism">常躡革屣納衣半脛。</seg>廬山徒屬莫匪英秀。往反三千皆以持為稱首。持有姑為尼名道儀。住在江夏。儀聞京師盛於佛法。欲下觀化。持乃送姑至都止于東安寺。晉衛軍瑯瑘王珣深相器重。<seg xml:id="s1qc-06_02-s004" ana="#Scholarship">時有西域沙門僧伽羅叉。善誦四含。珣請出中阿含經。持乃校閱文言搜括詳定。</seg><seg xml:id="s1qc-06_02-s005" ana="#Scholarship">後還山。少時豫章太守范寧請講法華毘曇。於是四方雲聚千里遙集。</seg>王珣與范寧書云。遠公持公孰愈。范答書云。誠為賢兄弟也。王重書曰。但令如兄誠未易有。況復弟賢耶。兗州刺史瑯瑘王恭。致書於沙門僧檢曰。遠持兄弟至德何如。檢答曰。遠持兄弟也。綽綽焉信有道風矣。羅什在關遙相欽敬。致書通好。結為善友。持後聞成都地沃民豐。志往傳化兼欲觀矚峨嵋振錫岷岫。乃以晉隆安三年辭遠入蜀。遠苦留不止。遠歎曰。人生愛聚汝乃樂離如何。持亦悲曰。若滯情愛聚者本不應出家。今既割欲求道。正以西方為期耳。於是兄弟收淚憫默而別。行達荊州。刺史殷仲堪禮遇欣重。時桓玄亦在彼。玄雖涉學功疎而一往神出。見持有隣幾獨絕尤歎。是今古無比大欲結歡。持既疑其為人。遂棄而不納。殷桓二人苦欲留之。持益無停意。臨去與玄書曰。本欲棲病峨嵋之屾觀化流沙之表。不能負其發足之懷。便束裝首路。玄得書惆悵。知其不可止。<seg xml:id="s1qc-06_02-s006" ana="#Scholarship">遂乃到蜀。止龍淵精舍。大弘佛法。井絡四方慕德成侶。刺史毛璩雅相崇挹。</seg>時有沙門慧巖僧恭。先在岷蜀人情傾蓋。及持至止皆望風推服。有昇持堂者皆號登龍門。恭公幼有才思為蜀郡僧正。巖公內外多解素為毛璩所重。後蜀人譙縱因鋒鏑之機攻殺毛璩。割據蜀土自號成都王。乃集僧設會逼請巖公。巖不得已而赴。璩既宿昔檀越一旦傷破。覩事增悲痛形顏色。遂為譙縱所忌。因而被害。舉邑紛擾白黑危懼。持避難憩陴縣中寺。縱有從子道福。凶悖尤甚。將兵往陴有所討戮。還過入寺人馬浴血。眾僧大怖一時驚走。持在房前盥洗神色無忤。道福直至持邊。持彈指漉水淡然自若。福愧悔流汗。出寺門謂左右曰。大人故與眾異。後境內清怗還止龍淵寺。<seg xml:id="s1qc-06_02-s007" ana="#Scholarship">講說齋懺老而愈篤。</seg>以晉義熙八年卒于寺中。春秋七十有六。臨終遺命務勗律儀。謂弟子曰。經言。戒如平地眾善由生。汝行住坐臥宜其謹哉。以東間經籍付弟子道泓在西間法典囑弟子曇蘭。泓業行清敏。蘭神悟天發。並係軌師蹤焉。</p></div></body></text></TEI>

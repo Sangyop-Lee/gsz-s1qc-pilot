@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_22" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.22 釋法恭 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0407c07" to="0407c16">T50n2059, 0407c07–0407c16</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.22"><p>釋法恭。姓關。雍州人。初出家止江陵安養寺。後出京師住東安寺。<seg xml:id="s1qc-12_22-s001" ana="#Asceticism">少而苦行殊倫。服布衣餌菽麥。</seg>誦經三十餘萬言。每夜諷詠輒有殊香異氣。入恭房者咸共聞之。<seg xml:id="s1qc-12_22-s002" ana="#Asceticism">又以弊納聚蚤虱。常披以飴之。</seg>宋武文明三帝及衡陽文王義秀等。並崇其德素。所獲信施常分給貧病。未嘗私蓄。宋太始中還西卒於彼。春秋八十。時烏衣復有僧恭者。德業高明綱總寺任。亦不食粳糧唯餌豆麥。</p></div></body></text></TEI>

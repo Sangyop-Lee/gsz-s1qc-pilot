@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-04_12" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 4.12 竺法崇 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0350b29" to="0350c15">T50n2059, 0350b29–0350c15</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="4.12"><p>竺法崇。未詳何人。少入道以戒節見稱。<seg xml:id="s1qc-04_12-s001" ana="#Scholarship">加又敏而好學。篤志經記而尤長法華一教。</seg>嘗遊湘州麓山。山精化為夫人。詣崇請戒。捨所住山以為寺。崇居之少時。化洽湘土。後還剡之葛峴山。茅菴澗飲取欣禪慧。東甌學者競往湊焉。與隱士魯國孔淳之相遇。每盤遊極日。輒信宿妄歸。披袊頓契。自以為得意之交也。崇迺歎曰。緬想人外三十餘年。傾蓋于茲不覺老之將至。後淳之別遊。崇咏曰。晧然之氣猶在心目。山林之士往而不反。其若人之謂乎。崇後卒於山中。<seg xml:id="s1qc-04_12-s002" ana="#Scholarship">著法華義疏四卷云。</seg>時剡東仰山復有釋道寶者。本姓王。瑯瑘人。晉丞相道之弟。弱年信悟避世辭榮。親舊諫止莫之能制。香湯澡浴將就下髮。乃詠曰。安知萬里水。初發濫觴時。後以學行顯焉。</p></div></body></text></TEI>

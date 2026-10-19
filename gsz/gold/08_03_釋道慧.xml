@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-08_03" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 8.3 釋道慧 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0375b19" to="0375c12">T50n2059, 0375b19–0375c12</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="8.3"><p>釋道慧。姓王。餘姚人。寓居建鄴。十一出家為僧遠弟子止靈曜寺。<seg xml:id="s1qc-08_03-s001" ana="#Scholarship">至年十四讀廬山慧遠集。迺慨然歎息恨有生之晚。遂與友人智順。沂流千里觀遠遺迹。於是憩廬山西寺涉歷三年。</seg><seg xml:id="s1qc-08_03-s002" ana="#Scholarship">更還京邑。時王或辯三相義大聚學僧。慧時年十七。便發問數番言語玄微詮牒有次。眾咸奇之。</seg><seg xml:id="s1qc-08_03-s003" ana="#Scholarship">後受業於猛斌二法師。猛嘗講成實。張融構難重疊。猛稱疾不堪多領。乃命慧令答之。融以慧年少頗協輕心。慧乘機挫銳言必詣理。酬酢往還綽有餘裕。</seg><seg xml:id="s1qc-08_03-s004" ana="#Scholarship">善大乘明數論。講說相續學徒甚盛。區別義類始為章段焉。</seg>褚澄謝超宗名重當時。並見推禮。慧以母年老欲存資奉迺移憩莊嚴寺。母憐其志。復出家為道。捨宅為福建遠精舍。慧以齊建元三年卒。春秋三十有一。臨終呼取麈尾授友人智順。順慟曰。如此之人年不至四十惜矣。因以麈尾內棺中而斂焉。葬於鍾山之陽。陳郡謝超宗為造碑文。時莊嚴復有玄趣僧達。並以學解見稱。趣博通眾經並精內外。而尤善席上風軌可欣。達少而頭白。時人號曰白頭達。亦博解眾典尤精往復。而性剛忤物被擯長沙。</p></div></body></text></TEI>

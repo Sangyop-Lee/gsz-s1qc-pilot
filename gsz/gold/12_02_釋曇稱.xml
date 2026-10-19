@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-12_02" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 12.2 釋曇稱 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0404a16" to="0404a28">T50n2059, 0404a16–0404a28</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="12.2"><p>釋曇稱。河北人。少而仁愛。惠及昆虫。晉末至彭城見有老人年八十夫妻窮悴。迺捨戒為奴。累年執役。而內修道德未嘗有廢。鄉隣嗟之。及二老卒。傭賃獲直悉為二老福用。擬以自贖事畢。欲還入道。法物未備。宋初彭城駕山下虎災。村人遇害日有一兩。稱乃謂村人曰。虎若食我災必當消。村人苦諫不從即於是夜獨坐草中。呪願曰。以我此身充汝飢渴。令汝從今息怨害意。未來當得無上法食。村人知其意正各泣拜而還。至四更中聞虎取稱。村人逐至南山。噉身都盡。唯有頭在。因葬而起塔。爾後虎災遂息。</p></div></body></text></TEI>

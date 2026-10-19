@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="s1qc-13_21" xml:lang="lzh"><teiHeader xml:lang="en">
+  <fileDesc>
+    <titleStmt>
+      <title>高僧傳 13.21 釋曇遷 — gold annotations</title>
+      <respStmt>
+        <resp>Manual qualitative coding</resp>
+        <name>Sangyop Lee</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <authority>Sangyop Lee</authority>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</licence>
+        <p>Text from CBETA, used under CBETA’s terms for non-commercial use: see “Source and terms” in README.md.</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title>高僧傳</title>
+        <idno type="CBETA">T50n2059</idno>
+        <citedRange unit="line" from="0414a18" to="0414a28">T50n2059, 0414a18–0414a28</citedRange>
+        <ref target="../../sources/T50n2059.xml">CBETA T50n2059.xml (2026-07-08), with its header, in sources/; Taishō reading; normalized character forms.</ref>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy>
+        <category xml:id="Scholarship">
+          <catDesc>Scholarship</catDesc>
+        </category>
+        <category xml:id="Asceticism">
+          <catDesc>Asceticism</catDesc>
+        </category>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+</teiHeader>
+<text><body><div type="biography" n="13.21"><p>釋曇遷。姓支。本月支人。寓居建康。<seg xml:id="s1qc-13_21-s001" ana="#Scholarship">篤好玄儒。遊心佛義。善談莊老。并注十地。</seg>又工正書。常布施題經。巧於轉讀有無窮聲韻。梵製新奇特拔終古。彭城王義康范曄王曇首。並皆遊狎。遷初止祇洹寺。後移烏依寺。及范曄被誅。門有十二喪。無敢近者。遷抽貨衣物悉營葬送。孝武聞而歎賞。謂徐爰曰。卿著宋書勿遺此士。王僧虔為湘州及三吳。並携共同遊。齊建元四年卒。年九十九。時有道場寺釋法暢。瓦官寺釋道琰。並富聲哀婉。雖不競遷等。抑亦次之。</p></div></body></text></TEI>
